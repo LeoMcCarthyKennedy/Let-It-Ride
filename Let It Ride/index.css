@@ -1,0 +1,196 @@
+/*
+	Program by:
+
+	Leo McCarthy-Kennedy	
+	Gurpiar Brar 			
+	Adam Khaddaj 			
+*/
+
+/* this file defines the style of the game pieces */
+
+* {
+	background-color: darkgreen;
+	text-align: center;
+	font-family: Times;
+	margin: 0.5vh;
+}
+
+body {
+	border:0.5vh solid green
+}
+
+h1 {
+	color: yellow;
+	text-shadow: 0.15vh 0.15vh black;
+	font-size: 4vh;
+}
+
+h2 {
+	color: white;
+	text-shadow: 0.15vh 0.15vh black;
+	font-size: 2vh;
+}
+
+.card {
+	width: 10vh;
+}
+
+.bet {
+	color: white;
+	text-shadow: 0.15vh 0.15vh black;
+	font-size: 3vh;
+	background-color: green;
+	height: 10vh;
+	width: 10vh;
+	border-radius: 100%;
+	line-height: 300%;
+	display: inline-block;
+}
+
+.chip {
+	font-size: 2.5vh;
+	height: 8vh;
+	width: 8vh;
+	border-radius: 100%;
+	border-style: none;
+	cursor: pointer;
+}
+
+.chip#clearBet {
+	background-color: grey;
+}
+
+.chip#clearBet:disabled {
+	background-color: green;
+	color: darkgreen;
+	cursor: not-allowed;
+}
+
+.chip#placeBet1 {
+	background-color: white;
+}
+
+.chip#placeBet1:disabled {
+	background-color: green;
+	color: darkgreen;
+	cursor: not-allowed;
+}
+
+.chip#placeBet5 {
+	background-color: red;
+	color: white;
+}
+
+.chip#placeBet5:disabled {
+	background-color: green;
+	color: darkgreen;
+	cursor: not-allowed;
+}
+
+.chip#placeBet10 {
+	background-color: blue;
+	color:white;
+}
+
+.chip#placeBet10:disabled {
+	background-color: green;
+	color: darkgreen;
+	cursor: not-allowed;
+}
+
+.chip#placeBet50 {
+	background-color: orange;
+}
+
+.chip#placeBet50:disabled {
+	background-color: green;
+	color: darkgreen;
+	cursor: not-allowed;
+}
+
+.chip#placeBet100 {
+	background-color: black;
+	color: white;
+}
+
+.chip#placeBet100:disabled {
+	background-color: green;
+	color: darkgreen;
+	cursor: not-allowed;
+}
+
+.deal {
+	color: white;
+	text-shadow: 0.15vh 0.15vh black;
+	background-color: darkorange;
+	font-size: 2vh;
+	min-width: 10vh;
+	min-height: 5vh;
+	border: none;
+	cursor: pointer;
+}
+
+.deal:disabled {
+	background-color: green;
+	text-shadow: none;
+	color: darkgreen;
+	cursor: not-allowed;
+}
+
+.letItRide {
+	color: white;
+	text-shadow: 0.15vh 0.15vh black;
+	background-color: red;
+	font-size: 2vh;
+	min-width: 10vh;
+	min-height: 5vh;
+	border: none;
+	cursor: pointer;
+}
+
+.letItRide:disabled {
+	background-color: green;
+	text-shadow: none;
+	color: darkgreen;
+	cursor: not-allowed;
+}
+
+.pull {
+	color: white;
+	text-shadow: 0.15vh 0.15vh black;
+	background-color: blue;
+	font-size: 2vh;
+	min-width: 10vh;
+	min-height: 5vh;
+	border: none;
+	cursor: pointer;
+}
+
+.pull:disabled {
+	background-color: green;
+	text-shadow: none;
+	color: darkgreen;
+	cursor: not-allowed;
+}
+
+.reset {
+	color: white;
+	text-shadow: 0.15vh 0.15vh black;
+	background-color:maroon;
+	font-size: 2vh;
+	min-width: 8vh;
+	min-height: 4vh;
+	border: none;
+	cursor: pointer;
+}
+
+.resetBalance {
+	color: white;
+	text-shadow: 0.15vh 0.15vh black;
+	background-color: maroon;
+	font-size: 2vh;
+	min-width: 8vh;
+	min-height: 4vh;
+	border: none;
+	cursor: pointer;
+}

@@ -1,0 +1,8996 @@
+HAND:   5H 5D 9C 10D AH
+RANK:   Low pair
+
+HAND:   4C 6H QD QH KH
+RANK:   High pair
+
+HAND:   3S 4D 5C 9C KS
+RANK:   K high
+
+HAND:   2D 2C 8D QD KH
+RANK:   Low pair
+
+HAND:   2S 4D 6D 10S KD
+RANK:   K high
+
+HAND:   2D 3C 4S 5S 7D
+RANK:   7 high
+
+HAND:   2S 2D 7C 10H QC
+RANK:   Low pair
+
+HAND:   4C 5H 7S 9D 10D
+RANK:   10 high
+
+HAND:   2S 4C 5H 6D 7D
+RANK:   7 high
+
+HAND:   8C 9D 10S 10C QC
+RANK:   High pair
+
+HAND:   6H 6S 8S KC AD
+RANK:   Low pair
+
+HAND:   7S 10C JS QS QC
+RANK:   High pair
+
+HAND:   2H 4C 7D JS QH
+RANK:   Q high
+
+HAND:   5D 6H 8S KC AD
+RANK:   A high
+
+HAND:   4C 5D 6D 7S 9S
+RANK:   9 high
+
+HAND:   4C 9D 10H AH AC
+RANK:   High pair
+
+HAND:   5C 5D 10S 10C QH
+RANK:   Two pair
+
+HAND:   2H 7C 7H 10D 10H
+RANK:   Two pair
+
+HAND:   4S 6S 8H 9D AC
+RANK:   A high
+
+HAND:   3D 5C 6C 7S 8D
+RANK:   8 high
+
+HAND:   3S 6C 7D KC AH
+RANK:   A high
+
+HAND:   3H 9D KS KD AD
+RANK:   High pair
+
+HAND:   3C 5C 10H 10C QH
+RANK:   High pair
+
+HAND:   3S 5D 8H 10H QS
+RANK:   Q high
+
+HAND:   2H 5D 9D JH AC
+RANK:   A high
+
+HAND:   2H 2D 2S 3D 7S
+RANK:   Three of a kind
+
+HAND:   4C 5D JD QH AD
+RANK:   A high
+
+HAND:   4C 5D 10S JD QH
+RANK:   Q high
+
+HAND:   6D 10C 10D QD AC
+RANK:   High pair
+
+HAND:   2C 7C 10S 10H QH
+RANK:   High pair
+
+HAND:   3H 5S 7H 9D JC
+RANK:   J high
+
+HAND:   6D 8D 9C KH AD
+RANK:   A high
+
+HAND:   3S 4S 5C 8H 9C
+RANK:   9 high
+
+HAND:   3D 9S JH KS AH
+RANK:   A high
+
+HAND:   2S 3H 3D 6C 10H
+RANK:   Low pair
+
+HAND:   2D 4C 6C 9D 10H
+RANK:   10 high
+
+HAND:   2D 3D 4C 4D QS
+RANK:   Low pair
+
+HAND:   2H 7D 8S 9S AS
+RANK:   A high
+
+HAND:   2H 3C 4H 5H 10H
+RANK:   10 high
+
+HAND:   4C 5S 6D 9S 10H
+RANK:   10 high
+
+HAND:   2C 3H 4H 8C KD
+RANK:   K high
+
+HAND:   3D 4H 9H QC KH
+RANK:   K high
+
+HAND:   3S 4C 5S 6H KH
+RANK:   K high
+
+HAND:   2S 6S 8C JH AS
+RANK:   A high
+
+HAND:   2S 5D 5H 6H 9D
+RANK:   Low pair
+
+HAND:   6D 8C 10H JC KD
+RANK:   K high
+
+HAND:   3S 4H 9D 9C QC
+RANK:   Low pair
+
+HAND:   4H 4D 4S 10C AC
+RANK:   Three of a kind
+
+HAND:   2S 4H 5H JD AD
+RANK:   A high
+
+HAND:   4C 4D 6D JC KD
+RANK:   Low pair
+
+HAND:   3H 3D 6S QH AD
+RANK:   Low pair
+
+HAND:   5D 9C 10S JC KS
+RANK:   K high
+
+HAND:   6S 10D 10S JC QC
+RANK:   High pair
+
+HAND:   2C 8S JS JH AH
+RANK:   High pair
+
+HAND:   4D 10S JC KC AD
+RANK:   A high
+
+HAND:   4C 8H 8S 9H 10D
+RANK:   Low pair
+
+HAND:   5D 9S KS AC AH
+RANK:   High pair
+
+HAND:   5D 7S QH KS AH
+RANK:   A high
+
+HAND:   3H 4S 6S 8S QD
+RANK:   Q high
+
+HAND:   4H 5D 7S 8D 9H
+RANK:   9 high
+
+HAND:   2S 7S 8H 9S KH
+RANK:   K high
+
+HAND:   3C 7D QH QD KS
+RANK:   High pair
+
+HAND:   2C 6S 10D 10H KD
+RANK:   High pair
+
+HAND:   4C 5H 5D JD QH
+RANK:   Low pair
+
+HAND:   2S 8D 9C QH AD
+RANK:   A high
+
+HAND:   6D 6C 8D 9C 10D
+RANK:   Low pair
+
+HAND:   5D 7C 7D QC QD
+RANK:   Two pair
+
+HAND:   2H 3H 5C 6H 9D
+RANK:   9 high
+
+HAND:   2S 4C 6H 7S JH
+RANK:   J high
+
+HAND:   3S 5H 9C JS QD
+RANK:   Q high
+
+HAND:   2S 8C QD KS AC
+RANK:   A high
+
+HAND:   4C 8S JH AH AD
+RANK:   High pair
+
+HAND:   2C 2S 5S 8H JC
+RANK:   Low pair
+
+HAND:   2C 8D 9C QS AC
+RANK:   A high
+
+HAND:   4D 6S 9H QS AH
+RANK:   A high
+
+HAND:   5S KH AC AD AS
+RANK:   Three of a kind
+
+HAND:   2D 5S 10S JD AS
+RANK:   A high
+
+HAND:   2C 5D 5S 9S 10H
+RANK:   Low pair
+
+HAND:   5D 7D 8C 9H 10H
+RANK:   10 high
+
+HAND:   2S 3C 4H 5H 10C
+RANK:   10 high
+
+HAND:   4S 5H 6H 7C KC
+RANK:   K high
+
+HAND:   6C 7D JH KC AC
+RANK:   A high
+
+HAND:   3D 5D 9S 9D JD
+RANK:   Low pair
+
+HAND:   4C 9D 10D JC AC
+RANK:   A high
+
+HAND:   4D 6H 7C QD KC
+RANK:   K high
+
+HAND:   3H 5H 8H JC AS
+RANK:   A high
+
+HAND:   5H 7C 9S QC KH
+RANK:   K high
+
+HAND:   7D JS QD KC KS
+RANK:   High pair
+
+HAND:   2C 5S 6D JC AH
+RANK:   A high
+
+HAND:   3C 5S 7D 8C AS
+RANK:   A high
+
+HAND:   2C 5S 6C 9C AC
+RANK:   A high
+
+HAND:   3H 5D 6C 8S AC
+RANK:   A high
+
+HAND:   2S JD KS KH AC
+RANK:   High pair
+
+HAND:   2H 2S 8S JD KD
+RANK:   Low pair
+
+HAND:   4H 5H 6C 6D 10H
+RANK:   Low pair
+
+HAND:   3H 3S 7H QH KD
+RANK:   Low pair
+
+HAND:   2D 5S 7S JD KD
+RANK:   K high
+
+HAND:   2H 3C 5D 7S 8C
+RANK:   8 high
+
+HAND:   2D 5D 10H KS KH
+RANK:   High pair
+
+HAND:   2C 4D QD KD AC
+RANK:   A high
+
+HAND:   2H 3H 10H JS QD
+RANK:   Q high
+
+HAND:   3H 7S 8S QS AH
+RANK:   A high
+
+HAND:   4C 6C 10H QS KS
+RANK:   K high
+
+HAND:   3S 7S 8D 9H KS
+RANK:   K high
+
+HAND:   3S 7H 8S QH KS
+RANK:   K high
+
+HAND:   3H 4D 5S KD AD
+RANK:   A high
+
+HAND:   3D 6C 8D AD AC
+RANK:   High pair
+
+HAND:   5D 5C 6D 9D KD
+RANK:   Low pair
+
+HAND:   4S 7D 10H JD KC
+RANK:   K high
+
+HAND:   2S 6S 10D 10C JH
+RANK:   High pair
+
+HAND:   6D 8D 9S 10H JS
+RANK:   J high
+
+HAND:   3S 8C 8H 10S KD
+RANK:   Low pair
+
+HAND:   2D 5S 5D KD AH
+RANK:   Low pair
+
+HAND:   3D 5H 7H 7D 9S
+RANK:   Low pair
+
+HAND:   3D 5D 9D 10S KD
+RANK:   K high
+
+HAND:   4H 8H 10H JD AD
+RANK:   A high
+
+HAND:   2C 8C 10H 10D AH
+RANK:   High pair
+
+HAND:   5S 6D 6C 9D 10C
+RANK:   Low pair
+
+HAND:   2H 4C 5C 6H AH
+RANK:   A high
+
+HAND:   3D 7S 10H 10S KH
+RANK:   High pair
+
+HAND:   3C 5H 8S 9C KS
+RANK:   K high
+
+HAND:   3H 3C 4D 5S QC
+RANK:   Low pair
+
+HAND:   4H 7S 9C JH KC
+RANK:   K high
+
+HAND:   4D 6D 7D 8D KH
+RANK:   K high
+
+HAND:   7S 8S 9C 10C JS
+RANK:   Straight
+
+HAND:   4C 10H 10S KH KS
+RANK:   Two pair
+
+HAND:   5H 6C 7C 9S 9D
+RANK:   Low pair
+
+HAND:   8H 9H KC KS AH
+RANK:   High pair
+
+HAND:   3C 7D 9C JH JC
+RANK:   High pair
+
+HAND:   4S 5S 6H 9C QS
+RANK:   Q high
+
+HAND:   5S 5C 9C QS AC
+RANK:   Low pair
+
+HAND:   3D 6S 6H 8H KC
+RANK:   Low pair
+
+HAND:   3S 5C 8H 9C AH
+RANK:   A high
+
+HAND:   5D 8D 8H 10C JS
+RANK:   Low pair
+
+HAND:   2S 7D JC QC KC
+RANK:   K high
+
+HAND:   5C 6H 10S KS AS
+RANK:   A high
+
+HAND:   4D 5S 5C 7C 8S
+RANK:   Low pair
+
+HAND:   4H 7S 7C 9D KC
+RANK:   Low pair
+
+HAND:   4C 7H 10H KC KH
+RANK:   High pair
+
+HAND:   2H 3C 5H 7H 10C
+RANK:   10 high
+
+HAND:   3C 7C 9S JS KS
+RANK:   K high
+
+HAND:   3C 4H 9H 10C QH
+RANK:   Q high
+
+HAND:   3C 4D 6D 9D JH
+RANK:   J high
+
+HAND:   2C 5H 8C 9C JS
+RANK:   J high
+
+HAND:   6H 9D 10S AS AH
+RANK:   High pair
+
+HAND:   2C 3C 3H 6S QD
+RANK:   Low pair
+
+HAND:   4D 5H 9D 10H KD
+RANK:   K high
+
+HAND:   3D 8H 9H 10D KC
+RANK:   K high
+
+HAND:   2C 5S 8C JH QC
+RANK:   Q high
+
+HAND:   3H 10H 10D QS AH
+RANK:   High pair
+
+HAND:   2C 2D 3H 4H 10C
+RANK:   Low pair
+
+HAND:   8C 9H 9D KH AC
+RANK:   Low pair
+
+HAND:   4S 7H 10S QC QS
+RANK:   High pair
+
+HAND:   2S 3S 6D 7S JH
+RANK:   J high
+
+HAND:   4H 9H 9D 10D KH
+RANK:   Low pair
+
+HAND:   3C 5D 5H 6H 9H
+RANK:   Low pair
+
+HAND:   4S 7H 8H 8C KC
+RANK:   Low pair
+
+HAND:   3D 4D 4S 5H QC
+RANK:   Low pair
+
+HAND:   4D 6D JH KD AD
+RANK:   A high
+
+HAND:   4S 4H 5C 7C 9H
+RANK:   Low pair
+
+HAND:   9D 10D JS JD AS
+RANK:   High pair
+
+HAND:   9D 10C JC JD KS
+RANK:   High pair
+
+HAND:   7D 8H 10D 10H AH
+RANK:   High pair
+
+HAND:   5C 6H 9D 10S KD
+RANK:   K high
+
+HAND:   9C 10H QH QC AD
+RANK:   High pair
+
+HAND:   2C 4D 5D 6S 7C
+RANK:   7 high
+
+HAND:   4S 7C 9H KS AS
+RANK:   A high
+
+HAND:   2S 4D 6H 7D JH
+RANK:   J high
+
+HAND:   4S 7H JC AS AH
+RANK:   High pair
+
+HAND:   3C 4H 5C 5S 7C
+RANK:   Low pair
+
+HAND:   3S 4C 6S 10C AS
+RANK:   A high
+
+HAND:   2C 5D JS QC KC
+RANK:   K high
+
+HAND:   6S 8D JC QC AD
+RANK:   A high
+
+HAND:   4H 4S 5H KS KD
+RANK:   Two pair
+
+HAND:   2D 5H 6D 9H 9C
+RANK:   Low pair
+
+HAND:   2H 4C 10H 10S KC
+RANK:   High pair
+
+HAND:   4H 4S 6D 7H 9C
+RANK:   Low pair
+
+HAND:   4S 5D 9H 10C QH
+RANK:   Q high
+
+HAND:   3H 4H 6C 7D JH
+RANK:   J high
+
+HAND:   3C 9D QD KC AS
+RANK:   A high
+
+HAND:   2H 3D 4D 9H AC
+RANK:   A high
+
+HAND:   4D 5H 6S 7H QC
+RANK:   Q high
+
+HAND:   2H 2S 4C 5S AS
+RANK:   Low pair
+
+HAND:   5H 7D 10D JH QC
+RANK:   Q high
+
+HAND:   4D 7S 8D 8S 9D
+RANK:   Low pair
+
+HAND:   4D 5H 6C JC JS
+RANK:   High pair
+
+HAND:   3C 5C 6C 7H KC
+RANK:   K high
+
+HAND:   2H 4S 8H 8D 9S
+RANK:   Low pair
+
+HAND:   2S 4S 6C 9D 10C
+RANK:   10 high
+
+HAND:   3D 3H 4H 8C 9H
+RANK:   Low pair
+
+HAND:   7H 9D 9C 10C QC
+RANK:   Low pair
+
+HAND:   2S 2H 3S 6S 7D
+RANK:   Low pair
+
+HAND:   5H 5S 8H 9C QH
+RANK:   Low pair
+
+HAND:   5H 6C 7C 7D JS
+RANK:   Low pair
+
+HAND:   3C 3S 8H 8S KS
+RANK:   Two pair
+
+HAND:   2S 2C 4S JS QD
+RANK:   Low pair
+
+HAND:   4D 6C 8D JC QS
+RANK:   Q high
+
+HAND:   2C 6C 10S QD QH
+RANK:   High pair
+
+HAND:   3C 8H QC KC AS
+RANK:   A high
+
+HAND:   4H 5D 9D JS KC
+RANK:   K high
+
+HAND:   3H 5S 9H QD KS
+RANK:   K high
+
+HAND:   2H 3S 5C 10S QD
+RANK:   Q high
+
+HAND:   2C 4D 7D JS JD
+RANK:   High pair
+
+HAND:   2H 4H 8H 9S AH
+RANK:   A high
+
+HAND:   2D 3D 4C 4D 8S
+RANK:   Low pair
+
+HAND:   3D 5D JD QH QC
+RANK:   High pair
+
+HAND:   3S 4H 5H 5D JS
+RANK:   Low pair
+
+HAND:   5H 9C 9S 10H JH
+RANK:   Low pair
+
+HAND:   6S 8H 8D KS KD
+RANK:   Two pair
+
+HAND:   3D 9C 9D 10S QD
+RANK:   Low pair
+
+HAND:   3D 4C 9C 9H AS
+RANK:   Low pair
+
+HAND:   5S 6D 8D AC AS
+RANK:   High pair
+
+HAND:   2D 5D QD AD AH
+RANK:   High pair
+
+HAND:   2D 2H 7C JS QD
+RANK:   Low pair
+
+HAND:   5H 6D 8C JD JH
+RANK:   High pair
+
+HAND:   2S 6H 7S 8C KH
+RANK:   K high
+
+HAND:   3C 9D 10D KC KH
+RANK:   High pair
+
+HAND:   2C 3D 3H 4C QS
+RANK:   Low pair
+
+HAND:   5C 5S 5H 9S JH
+RANK:   Three of a kind
+
+HAND:   3D 6H JH QC KC
+RANK:   K high
+
+HAND:   2H 9C 9D QH AH
+RANK:   Low pair
+
+HAND:   5S 8C 10S JD AD
+RANK:   A high
+
+HAND:   3S 7S 7H 8H AH
+RANK:   Low pair
+
+HAND:   4H 5H 8H QC KC
+RANK:   K high
+
+HAND:   2D 5S 7D 10D AC
+RANK:   A high
+
+HAND:   2D 3D 5C 7D KC
+RANK:   K high
+
+HAND:   2H 3S 5D KC AH
+RANK:   A high
+
+HAND:   2D 5S 6C 6H 10S
+RANK:   Low pair
+
+HAND:   6S 7H 7D 7S QS
+RANK:   Three of a kind
+
+HAND:   2C 3D 5C 9C KD
+RANK:   K high
+
+HAND:   2H 4H 8C 8H 9H
+RANK:   Low pair
+
+HAND:   2C 6C 6H 9D AC
+RANK:   Low pair
+
+HAND:   4D 6C 10H JC KH
+RANK:   K high
+
+HAND:   5D 6C 9H 10C KC
+RANK:   K high
+
+HAND:   4C 9S QC QS KD
+RANK:   High pair
+
+HAND:   2C 8H 9H 10D KC
+RANK:   K high
+
+HAND:   8H 9D 9H JH KS
+RANK:   Low pair
+
+HAND:   3C 4D 7H 10D 10S
+RANK:   High pair
+
+HAND:   2D 3S 6D 7C QH
+RANK:   Q high
+
+HAND:   6S 6C 10D KS AH
+RANK:   Low pair
+
+HAND:   2H 7H 10H JS AC
+RANK:   A high
+
+HAND:   3D 5H 7D 9H QH
+RANK:   Q high
+
+HAND:   9D 10H 10C JH QH
+RANK:   High pair
+
+HAND:   6C 6H 9H JD QH
+RANK:   Low pair
+
+HAND:   2C 5H 7S 9D JD
+RANK:   J high
+
+HAND:   2C 3S 5D 10S KH
+RANK:   K high
+
+HAND:   3S 9S 9D JC KC
+RANK:   Low pair
+
+HAND:   8S 9C 9H 10D JH
+RANK:   Low pair
+
+HAND:   3S 3D 5D 7D 9S
+RANK:   Low pair
+
+HAND:   3H 7S 10D JD QD
+RANK:   Q high
+
+HAND:   3D 6H 7D 7H 8C
+RANK:   Low pair
+
+HAND:   3S 8C 10C JH QD
+RANK:   Q high
+
+HAND:   5S 6S JS QD AH
+RANK:   A high
+
+HAND:   4S 8C 10S 10C AH
+RANK:   High pair
+
+HAND:   3D 4S 4H 5S 9H
+RANK:   Low pair
+
+HAND:   2D 3D 5D 7H 9H
+RANK:   9 high
+
+HAND:   2C 4S 9D JC QD
+RANK:   Q high
+
+HAND:   2C 5D 9S 9D AD
+RANK:   Low pair
+
+HAND:   5D 6S JC QS KH
+RANK:   K high
+
+HAND:   6D 6C QC AC AH
+RANK:   Two pair
+
+HAND:   7D 8D 10D JH KC
+RANK:   K high
+
+HAND:   3S 4H JH QS KC
+RANK:   K high
+
+HAND:   6S JS JD QD AD
+RANK:   High pair
+
+HAND:   3S 4D 6S 9H JC
+RANK:   J high
+
+HAND:   2C 8D 8C 9D JD
+RANK:   Low pair
+
+HAND:   3S 4C 6H 7H QC
+RANK:   Q high
+
+HAND:   2C 2S 5D 9D QH
+RANK:   Low pair
+
+HAND:   2C 8C JH QS AS
+RANK:   A high
+
+HAND:   4C 8H JC QS KH
+RANK:   K high
+
+HAND:   5H 8H JD QH AH
+RANK:   A high
+
+HAND:   3S JH JC QS KD
+RANK:   High pair
+
+HAND:   3H 6C 7D 8C JC
+RANK:   J high
+
+HAND:   3S 6S JC JH AH
+RANK:   High pair
+
+HAND:   2C 3H 4C 9C JC
+RANK:   J high
+
+HAND:   4S 4C 6S 9H AS
+RANK:   Low pair
+
+HAND:   2H 3H JH QC AS
+RANK:   A high
+
+HAND:   10H JS JH QS QH
+RANK:   Two pair
+
+HAND:   3D 4H 8C 9C 10S
+RANK:   10 high
+
+HAND:   3C 5C 7D 7C AC
+RANK:   Low pair
+
+HAND:   6C 6H 8C 8H 9D
+RANK:   Two pair
+
+HAND:   6D 7H JC KD AS
+RANK:   A high
+
+HAND:   5H 8H 9S QC AC
+RANK:   A high
+
+HAND:   3S 4D 7C 10D KC
+RANK:   K high
+
+HAND:   4H 5D 9C JH KH
+RANK:   K high
+
+HAND:   5D 7D 8D JH KS
+RANK:   K high
+
+HAND:   5H 5C 10H QC AS
+RANK:   Low pair
+
+HAND:   2D 5H 7C 8C KD
+RANK:   K high
+
+HAND:   7H 8C 10D JD JC
+RANK:   High pair
+
+HAND:   2S 4S 7H AH AC
+RANK:   High pair
+
+HAND:   5S 7S 8S 10S KC
+RANK:   K high
+
+HAND:   2D 3S 4H KC AS
+RANK:   A high
+
+HAND:   3S 3C 7D 8H JC
+RANK:   Low pair
+
+HAND:   4S 6C 7S 8C 10D
+RANK:   10 high
+
+HAND:   4D 5H 6C 6S 7C
+RANK:   Low pair
+
+HAND:   3S 5C 6S 8C KC
+RANK:   K high
+
+HAND:   2C 3S 9C KD AS
+RANK:   A high
+
+HAND:   3D 4C 8C QH AC
+RANK:   A high
+
+HAND:   5S 6C 7D 10H AD
+RANK:   A high
+
+HAND:   2C 8C JD QH AC
+RANK:   A high
+
+HAND:   8H 8C 9C JC QD
+RANK:   Low pair
+
+HAND:   5D 7C 7D 8C JD
+RANK:   Low pair
+
+HAND:   6D 8H 9C 10C AS
+RANK:   A high
+
+HAND:   2S 6H 10S JS QD
+RANK:   Q high
+
+HAND:   5S 5H JD QH AD
+RANK:   Low pair
+
+HAND:   2H 5C 5H 7S 10C
+RANK:   Low pair
+
+HAND:   2D 4C 5D KD AH
+RANK:   A high
+
+HAND:   6C 6D 8D 9C 10D
+RANK:   Low pair
+
+HAND:   3C 6D 9C 10C AH
+RANK:   A high
+
+HAND:   2C 3C 4S 6C 10H
+RANK:   10 high
+
+HAND:   3S 6D QC QH KD
+RANK:   High pair
+
+HAND:   4D 6C 7D 8D 10S
+RANK:   10 high
+
+HAND:   3C 3S 6C 10D JH
+RANK:   Low pair
+
+HAND:   3C 9D 9C JS QH
+RANK:   Low pair
+
+HAND:   6D 7S 10H KD AS
+RANK:   A high
+
+HAND:   2C 7C 8D JD QC
+RANK:   Q high
+
+HAND:   2S 5D 5C 6S 8C
+RANK:   Low pair
+
+HAND:   2H 2D 8C QC KH
+RANK:   Low pair
+
+HAND:   5S 7S 9S 9C JC
+RANK:   Low pair
+
+HAND:   2H 6S 9D JC QH
+RANK:   Q high
+
+HAND:   2C 2D 6C 9D AH
+RANK:   Low pair
+
+HAND:   2C 8S 9H 10C QC
+RANK:   Q high
+
+HAND:   3H 6C 9S 10D JD
+RANK:   J high
+
+HAND:   2S 3S 5S 6H KC
+RANK:   K high
+
+HAND:   2H 5S 6H 7H 8H
+RANK:   8 high
+
+HAND:   2S 7D JH KC AD
+RANK:   A high
+
+HAND:   2H 3C 5S 10S AD
+RANK:   A high
+
+HAND:   2H 3C 5S 6C QS
+RANK:   Q high
+
+HAND:   2D 3C 4S 7S KS
+RANK:   K high
+
+HAND:   6D 8S 10D QC KD
+RANK:   K high
+
+HAND:   2H 4S 5D 8C QC
+RANK:   Q high
+
+HAND:   3D 4H 6S 10D QH
+RANK:   Q high
+
+HAND:   4D 7S 7H 8S KS
+RANK:   Low pair
+
+HAND:   2S 6D 8S 8D QS
+RANK:   Low pair
+
+HAND:   4H QD QH QC KD
+RANK:   Three of a kind
+
+HAND:   2D 3S 5D 6D AD
+RANK:   A high
+
+HAND:   6H 7H JD KC AD
+RANK:   A high
+
+HAND:   4S 5H 7D 8C AC
+RANK:   A high
+
+HAND:   8H 8C 9D 10H AS
+RANK:   Low pair
+
+HAND:   3S 5C 5H JH AS
+RANK:   Low pair
+
+HAND:   2H 5D 9H 9D KH
+RANK:   Low pair
+
+HAND:   4S 4H 5C 8S AD
+RANK:   Low pair
+
+HAND:   5D 6H 8S 10H JD
+RANK:   J high
+
+HAND:   2S 6H 9D JD JS
+RANK:   High pair
+
+HAND:   5S 6S 9D 10D QS
+RANK:   Q high
+
+HAND:   3H 5S 5H JH JD
+RANK:   Two pair
+
+HAND:   5H 7S 10S JH KH
+RANK:   K high
+
+HAND:   2S 9S 10S JD AD
+RANK:   A high
+
+HAND:   2H 3D 7C 8C QS
+RANK:   Q high
+
+HAND:   5C 5D QH KC KS
+RANK:   Two pair
+
+HAND:   5H 5D 8C 10D QD
+RANK:   Low pair
+
+HAND:   5H 5D 6H QC KH
+RANK:   Low pair
+
+HAND:   7H 8C JH KC AH
+RANK:   A high
+
+HAND:   5D 5C 6D 8H AS
+RANK:   Low pair
+
+HAND:   2H 7H 9S JS KD
+RANK:   K high
+
+HAND:   3H 4C 9H QD KC
+RANK:   K high
+
+HAND:   10C JC QD KS AC
+RANK:   Straight
+
+HAND:   4C 6H 7D 10C 10D
+RANK:   High pair
+
+HAND:   2C 3H 5C 8S KS
+RANK:   K high
+
+HAND:   3H 4D 8C KD AC
+RANK:   A high
+
+HAND:   2H 5D 6S 10D QS
+RANK:   Q high
+
+HAND:   4H 6H QS KH AC
+RANK:   A high
+
+HAND:   2H 3D 7S JD KH
+RANK:   K high
+
+HAND:   2D 3C 7D KC AC
+RANK:   A high
+
+HAND:   2H 4D 8C 8S 10H
+RANK:   Low pair
+
+HAND:   2C 5C 8S 9H JH
+RANK:   J high
+
+HAND:   2C 3C 7H 10H AS
+RANK:   A high
+
+HAND:   4S QC KH AS AH
+RANK:   High pair
+
+HAND:   4H 10S QH QS AS
+RANK:   High pair
+
+HAND:   4C 8D 10H 10D JD
+RANK:   High pair
+
+HAND:   3D 7H 7C 9H QS
+RANK:   Low pair
+
+HAND:   3S 3D 5C 6S 7C
+RANK:   Low pair
+
+HAND:   3S 6S 9S JC QD
+RANK:   Q high
+
+HAND:   4S 7S 8S 10S AS
+RANK:   Flush
+
+HAND:   3C 4C 7H 7D 9D
+RANK:   Low pair
+
+HAND:   4D 6D 9H AC AH
+RANK:   High pair
+
+HAND:   2S 7D 8C JD QC
+RANK:   Q high
+
+HAND:   3C 3S 4D 5C KC
+RANK:   Low pair
+
+HAND:   4D 5S 7C JS JH
+RANK:   High pair
+
+HAND:   2H 4C 9D JC AC
+RANK:   A high
+
+HAND:   2H 6S 6H JC AC
+RANK:   Low pair
+
+HAND:   2S 3H 6S 7H AH
+RANK:   A high
+
+HAND:   2H 3S 4C 6S 8D
+RANK:   8 high
+
+HAND:   2H 3S 8S JD AS
+RANK:   A high
+
+HAND:   3C 6C 8D 9C QC
+RANK:   Q high
+
+HAND:   2C 6D 7D 8S QD
+RANK:   Q high
+
+HAND:   4H 5D 9D 10D AS
+RANK:   A high
+
+HAND:   2D 3C 8D 10S KC
+RANK:   K high
+
+HAND:   3C 5C 6C 10C QS
+RANK:   Q high
+
+HAND:   2H 8H 9D 10C JD
+RANK:   J high
+
+HAND:   6C 7D 8D 10S QH
+RANK:   Q high
+
+HAND:   3H 4S 6C 9D 10S
+RANK:   10 high
+
+HAND:   2C 4S 7D 8H KD
+RANK:   K high
+
+HAND:   5C 7S QH KS AH
+RANK:   A high
+
+HAND:   3C 5D 6D 8C 10S
+RANK:   10 high
+
+HAND:   4S 6C 8C 10D 10H
+RANK:   High pair
+
+HAND:   4S 8C 9C QS AH
+RANK:   A high
+
+HAND:   4D 5S 6C 10C KS
+RANK:   K high
+
+HAND:   2H 3C 6H 6D 10C
+RANK:   Low pair
+
+HAND:   2H 6H 6C 8H 9H
+RANK:   Low pair
+
+HAND:   2H 6S 6C 7H QH
+RANK:   Low pair
+
+HAND:   4D 10H QD KC AC
+RANK:   A high
+
+HAND:   3S 9C 10H QC AS
+RANK:   A high
+
+HAND:   2C 5D 6C 10S AD
+RANK:   A high
+
+HAND:   3S 3H 6C JC QS
+RANK:   Low pair
+
+HAND:   4D 10H JH QH QC
+RANK:   High pair
+
+HAND:   4D 7D KH KS AC
+RANK:   High pair
+
+HAND:   3D 4D 7H AS AD
+RANK:   High pair
+
+HAND:   2C 4H 9D 10C JC
+RANK:   J high
+
+HAND:   2H 3H 8D KD AC
+RANK:   A high
+
+HAND:   2D 6H 9H JH KS
+RANK:   K high
+
+HAND:   2H 3S 7D JD JC
+RANK:   High pair
+
+HAND:   4C 5D 9H QH KH
+RANK:   K high
+
+HAND:   2C 6S JC QH AH
+RANK:   A high
+
+HAND:   3H 4D 9D JH AH
+RANK:   A high
+
+HAND:   2H 2D 4H 8D 10H
+RANK:   Low pair
+
+HAND:   3S 5S 7D 9C 10S
+RANK:   10 high
+
+HAND:   8H 8C 8S 10S AD
+RANK:   Three of a kind
+
+HAND:   5S 9D JD QH AS
+RANK:   A high
+
+HAND:   4C 8S 9D JC JS
+RANK:   High pair
+
+HAND:   2D 2S 5D 5S 9C
+RANK:   Two pair
+
+HAND:   4C 6H 8D 10D KH
+RANK:   K high
+
+HAND:   3S 3C 5C KS AS
+RANK:   Low pair
+
+HAND:   4S 6H 7H 7D 9C
+RANK:   Low pair
+
+HAND:   5H 5S 10C JC JD
+RANK:   Two pair
+
+HAND:   5D 5C 6H 7C QS
+RANK:   Low pair
+
+HAND:   3H 4S 6S 8D JS
+RANK:   J high
+
+HAND:   3H 10H 10C QH KC
+RANK:   High pair
+
+HAND:   3D 7S 10H 10S KC
+RANK:   High pair
+
+HAND:   5D KS AH AD AS
+RANK:   Three of a kind
+
+HAND:   2D 2H JC KD KC
+RANK:   Two pair
+
+HAND:   2D 3H 9H 10D AS
+RANK:   A high
+
+HAND:   5H 8C 9C 9S QS
+RANK:   Low pair
+
+HAND:   7S 9H 10D QS AH
+RANK:   A high
+
+HAND:   2S 7S 9D QS AH
+RANK:   A high
+
+HAND:   3C 3S 7D QD QS
+RANK:   Two pair
+
+HAND:   3H 7H 8D 10H QS
+RANK:   Q high
+
+HAND:   4S 5S 7D 7S 8S
+RANK:   Low pair
+
+HAND:   2D 4S 5D 9H 10H
+RANK:   10 high
+
+HAND:   7D 8C 9H KS AS
+RANK:   A high
+
+HAND:   3D 4C 5S 6H QC
+RANK:   Q high
+
+HAND:   5H 6H 7S 10D KS
+RANK:   K high
+
+HAND:   2H 4C 7D 7H AS
+RANK:   Low pair
+
+HAND:   2H 3D 8D QD AD
+RANK:   A high
+
+HAND:   3H 4H 7C 9D QS
+RANK:   Q high
+
+HAND:   3D 4S 6S QC KD
+RANK:   K high
+
+HAND:   3C 4D 5S QC AC
+RANK:   A high
+
+HAND:   2H 6C 6D 7H 9S
+RANK:   Low pair
+
+HAND:   3S 4S 8H 8S 9D
+RANK:   Low pair
+
+HAND:   2D 3H 8D QC AD
+RANK:   A high
+
+HAND:   4D 8D 10S KD AD
+RANK:   A high
+
+HAND:   5D 6D 10C AS AH
+RANK:   High pair
+
+HAND:   7H 10C JS KH AC
+RANK:   A high
+
+HAND:   2C 3D 5H 8C 9H
+RANK:   9 high
+
+HAND:   4H 6S 9D QD AD
+RANK:   A high
+
+HAND:   5H 6S 7H 9D QS
+RANK:   Q high
+
+HAND:   4D 6D 6H 8C 10H
+RANK:   Low pair
+
+HAND:   2C 6D 8D KD AH
+RANK:   A high
+
+HAND:   3C 4C 7S 8H 10H
+RANK:   10 high
+
+HAND:   3D 6C 9S 9H JS
+RANK:   Low pair
+
+HAND:   3S 6S 6C KC KD
+RANK:   Two pair
+
+HAND:   4H 6D 7S 10C JS
+RANK:   J high
+
+HAND:   3C 5H 7S 9H QC
+RANK:   Q high
+
+HAND:   5H 5S 5C 5D QD
+RANK:   Four of a kind
+
+HAND:   2D 2S 7H 10C QS
+RANK:   Low pair
+
+HAND:   3C 5C 6C 7C 9C
+RANK:   Flush
+
+HAND:   3S 4C 6S KD AC
+RANK:   A high
+
+HAND:   4S 7C QH QS KD
+RANK:   High pair
+
+HAND:   3H 4C QS KD AH
+RANK:   A high
+
+HAND:   2D 5D 7S 7C 7D
+RANK:   Three of a kind
+
+HAND:   3H 4H 4S 5H QS
+RANK:   Low pair
+
+HAND:   5C 7C 10D QH KH
+RANK:   K high
+
+HAND:   4D 6S 9H 10D QD
+RANK:   Q high
+
+HAND:   8D JH QH KD KS
+RANK:   High pair
+
+HAND:   4D 4H 8C 10D KC
+RANK:   Low pair
+
+HAND:   2D 6C 8C QS KS
+RANK:   K high
+
+HAND:   2S 10D KH AH AS
+RANK:   High pair
+
+HAND:   2C 6C JS QH QC
+RANK:   High pair
+
+HAND:   4C 6D JD QC AC
+RANK:   A high
+
+HAND:   3C 4D 8H 10D JH
+RANK:   J high
+
+HAND:   5D 7S 10H QS KS
+RANK:   K high
+
+HAND:   5H 5C 7C 8D QC
+RANK:   Low pair
+
+HAND:   3S 4S 5S 10S AS
+RANK:   Flush
+
+HAND:   4H 5S 9D QD KS
+RANK:   K high
+
+HAND:   2H 4D 5H 7S AC
+RANK:   A high
+
+HAND:   3C 3D 5S 7C QC
+RANK:   Low pair
+
+HAND:   3H 5S 6H QH KS
+RANK:   K high
+
+HAND:   2S 8D 9H AS AD
+RANK:   High pair
+
+HAND:   4C 5D 6S 8H JH
+RANK:   J high
+
+HAND:   2D 6H 6D 10H QC
+RANK:   Low pair
+
+HAND:   2D 4S JS JC QC
+RANK:   High pair
+
+HAND:   3C 3S 4H 4D QH
+RANK:   Two pair
+
+HAND:   5C 8H 8S JS QS
+RANK:   Low pair
+
+HAND:   4D 5H 9D 10S AH
+RANK:   A high
+
+HAND:   2H 3S 6D 8D QH
+RANK:   Q high
+
+HAND:   2D 3D 4C 4H 9H
+RANK:   Low pair
+
+HAND:   2D 5D 7S QD KH
+RANK:   K high
+
+HAND:   2H 4D 10H JS AH
+RANK:   A high
+
+HAND:   2S 3D 4D 7C 10D
+RANK:   10 high
+
+HAND:   3D 3C 4S 9C AD
+RANK:   Low pair
+
+HAND:   2H 4S 9C 10D QC
+RANK:   Q high
+
+HAND:   3C 5S 5D 9D QC
+RANK:   Low pair
+
+HAND:   3C 4D 6H JD KH
+RANK:   K high
+
+HAND:   4D 4S 5C 9C KH
+RANK:   Low pair
+
+HAND:   3C 7C 7H 9S 10D
+RANK:   Low pair
+
+HAND:   7D 8D 9H JH QS
+RANK:   Q high
+
+HAND:   6H 7S 9C QC QD
+RANK:   High pair
+
+HAND:   4S 8C 10S QD KH
+RANK:   K high
+
+HAND:   2H 2C JD QC KS
+RANK:   Low pair
+
+HAND:   2C 2H 6C 9H JH
+RANK:   Low pair
+
+HAND:   7S 7H 9C 10D AS
+RANK:   Low pair
+
+HAND:   3D 6D 9H JD KC
+RANK:   K high
+
+HAND:   4H 5H 9D QD AD
+RANK:   A high
+
+HAND:   2D 3D 5C 9H AD
+RANK:   A high
+
+HAND:   5S 7D 8C 9C QS
+RANK:   Q high
+
+HAND:   5H 9D 10H JC KC
+RANK:   K high
+
+HAND:   5C 6H 8C 10C AD
+RANK:   A high
+
+HAND:   3C 6S 6D 8C 10H
+RANK:   Low pair
+
+HAND:   2D 5H 6S 10C JC
+RANK:   J high
+
+HAND:   7C 8H 9S 9H JS
+RANK:   Low pair
+
+HAND:   3H 6D 8D JH AH
+RANK:   A high
+
+HAND:   3D 7S 8S KD KS
+RANK:   High pair
+
+HAND:   2C 8S 9S 9C AC
+RANK:   Low pair
+
+HAND:   5C 5D 6C 9D AC
+RANK:   Low pair
+
+HAND:   2H 5H 10D QH KD
+RANK:   K high
+
+HAND:   3D 7H 8C 8D 8S
+RANK:   Three of a kind
+
+HAND:   4S 8H 9H 10H 10C
+RANK:   High pair
+
+HAND:   7C 7D 10C JC KD
+RANK:   Low pair
+
+HAND:   4D 6H 10C 10D AD
+RANK:   High pair
+
+HAND:   2H 4D 6C 10H QD
+RANK:   Q high
+
+HAND:   2H 6H 8D 9H AD
+RANK:   A high
+
+HAND:   4H 6D 9D AD AS
+RANK:   High pair
+
+HAND:   5S 7S 9H JD KH
+RANK:   K high
+
+HAND:   2S 8H 10C AC AS
+RANK:   High pair
+
+HAND:   5H 6H 6S 7H 9C
+RANK:   Low pair
+
+HAND:   6D 8D JS KH AD
+RANK:   A high
+
+HAND:   3S 6H 7S JD QH
+RANK:   Q high
+
+HAND:   3C 7D 9H 9D 10D
+RANK:   Low pair
+
+HAND:   2H 3C 7D 7S KC
+RANK:   Low pair
+
+HAND:   3C 7S 10D JH KD
+RANK:   K high
+
+HAND:   3D 7C QD AC AD
+RANK:   High pair
+
+HAND:   3C 4C 5S 6S KD
+RANK:   K high
+
+HAND:   7H 8C 10C JD QH
+RANK:   Q high
+
+HAND:   2D 3D 6D 10H JC
+RANK:   J high
+
+HAND:   6S 6H JC AC AD
+RANK:   Two pair
+
+HAND:   2C 6S JC QS KD
+RANK:   K high
+
+HAND:   3D 4S 4D 5C KH
+RANK:   Low pair
+
+HAND:   7C 9H JS QS KD
+RANK:   K high
+
+HAND:   5S 6D 9S JD AH
+RANK:   A high
+
+HAND:   4D 6S 6C 7D AC
+RANK:   Low pair
+
+HAND:   4D 6S 7C 8S 9S
+RANK:   9 high
+
+HAND:   2D 9D 10C QC AD
+RANK:   A high
+
+HAND:   5D 6C 6S 10H KC
+RANK:   Low pair
+
+HAND:   2C 6D 6C 7D KS
+RANK:   Low pair
+
+HAND:   2H 2S 8C JD KH
+RANK:   Low pair
+
+HAND:   2D 4C 4D KH AS
+RANK:   Low pair
+
+HAND:   3H 4D 9H JH AH
+RANK:   A high
+
+HAND:   5H 7C 8S 10H AC
+RANK:   A high
+
+HAND:   5D 6D 8C 9C AC
+RANK:   A high
+
+HAND:   2S 8H KD KC AS
+RANK:   High pair
+
+HAND:   5S 5D 10H JC QS
+RANK:   Low pair
+
+HAND:   2D 5S AH AC AS
+RANK:   Three of a kind
+
+HAND:   2C 4D 6H 7C KH
+RANK:   K high
+
+HAND:   2D 4H 5C 7D KS
+RANK:   K high
+
+HAND:   3S 9C JD AC AH
+RANK:   High pair
+
+HAND:   5S 8C 8H QH AS
+RANK:   Low pair
+
+HAND:   3C 4H 9S 10S JS
+RANK:   J high
+
+HAND:   4D 4S JS JC AH
+RANK:   Two pair
+
+HAND:   3C 4S 5S AD AS
+RANK:   High pair
+
+HAND:   7D 10S 10H JH JC
+RANK:   Two pair
+
+HAND:   4D 6S 10S QC AS
+RANK:   A high
+
+HAND:   3D 3H 4C 7S 8S
+RANK:   Low pair
+
+HAND:   2D 3C 10C KH AH
+RANK:   A high
+
+HAND:   2C 4H 7C 10D AC
+RANK:   A high
+
+HAND:   2D 4H 8C JD QH
+RANK:   Q high
+
+HAND:   2H 8H QH KH KS
+RANK:   High pair
+
+HAND:   2H JH QS QC KD
+RANK:   High pair
+
+HAND:   3C 5C 7C JH KC
+RANK:   K high
+
+HAND:   2C 6D 7D 9D AS
+RANK:   A high
+
+HAND:   3D 4H 6S 8D JD
+RANK:   J high
+
+HAND:   3S 4S JS JH AS
+RANK:   High pair
+
+HAND:   3H 7C 9C 10C AC
+RANK:   A high
+
+HAND:   3S 4C 5C 7D JD
+RANK:   J high
+
+HAND:   3S 5D 6D 9H JD
+RANK:   J high
+
+HAND:   5H 6S JS QC AS
+RANK:   A high
+
+HAND:   4C 6D 10H JC KD
+RANK:   K high
+
+HAND:   2S 4C 7D 9C 9D
+RANK:   Low pair
+
+HAND:   2H 3H 4H 8D KS
+RANK:   K high
+
+HAND:   2H 2C 9S 9C JD
+RANK:   Two pair
+
+HAND:   2D 3D 8S 9C JS
+RANK:   J high
+
+HAND:   2D 8C 8H 9S 9H
+RANK:   Two pair
+
+HAND:   6H 7H 10H JD QD
+RANK:   Q high
+
+HAND:   8C 8H 9H KC AD
+RANK:   Low pair
+
+HAND:   5C 7D 10C AH AS
+RANK:   High pair
+
+HAND:   2H 7S 8C 9D JC
+RANK:   J high
+
+HAND:   3H 6S 7H 9H KC
+RANK:   K high
+
+HAND:   7D 8H QD QC KS
+RANK:   High pair
+
+HAND:   5H 8H 8S QD AH
+RANK:   Low pair
+
+HAND:   5D 8H 9H QC KH
+RANK:   K high
+
+HAND:   2D 4C 10D QH KS
+RANK:   K high
+
+HAND:   2S 3C 9S KH KS
+RANK:   High pair
+
+HAND:   5S 9C 10H JD AC
+RANK:   A high
+
+HAND:   2H 5S 6H 8H AH
+RANK:   A high
+
+HAND:   6C 8S 9H JD QC
+RANK:   Q high
+
+HAND:   4H 4D 5D 6H QC
+RANK:   Low pair
+
+HAND:   2C 2S 9H JS AD
+RANK:   Low pair
+
+HAND:   3S 6H 7S 9H JD
+RANK:   J high
+
+HAND:   6S 10D QH QC AD
+RANK:   High pair
+
+HAND:   2S 6D 9C 9S JH
+RANK:   Low pair
+
+HAND:   2C 6S 7H 8C AH
+RANK:   A high
+
+HAND:   4H 4S 8C 9H QS
+RANK:   Low pair
+
+HAND:   2D 3H 6C 7S KH
+RANK:   K high
+
+HAND:   10H JH QH KS KD
+RANK:   High pair
+
+HAND:   4H 8C 9H 9S 10H
+RANK:   Low pair
+
+HAND:   2D 3D 4C 5C 9H
+RANK:   9 high
+
+HAND:   9S 9C 10D QC QD
+RANK:   Two pair
+
+HAND:   4S 5D 7S 8S KH
+RANK:   K high
+
+HAND:   2D 6S 9S AS AH
+RANK:   High pair
+
+HAND:   3S 5D 8D 9C QH
+RANK:   Q high
+
+HAND:   4D 5C 7D 10S 10D
+RANK:   High pair
+
+HAND:   3D 6S 9S 10H QD
+RANK:   Q high
+
+HAND:   4H 5D 7H 8S 10D
+RANK:   10 high
+
+HAND:   2S 5D 7C 9H JD
+RANK:   J high
+
+HAND:   6S 8D 8S 9S 10C
+RANK:   Low pair
+
+HAND:   2D 5H 5D 6D QS
+RANK:   Low pair
+
+HAND:   4D 7S 7D 9S KC
+RANK:   Low pair
+
+HAND:   2D 6D 7S QH KC
+RANK:   K high
+
+HAND:   2H JD KD AH AS
+RANK:   High pair
+
+HAND:   5C 6S 8D 10D AS
+RANK:   A high
+
+HAND:   4D 5D 7C JC AS
+RANK:   A high
+
+HAND:   3S 6D 8S 9H QS
+RANK:   Q high
+
+HAND:   3D 3C 6C 10H KS
+RANK:   Low pair
+
+HAND:   5H 6D 10D JH QC
+RANK:   Q high
+
+HAND:   3D 8D 8C 10H AC
+RANK:   Low pair
+
+HAND:   6H 8C 9C 9D QC
+RANK:   Low pair
+
+HAND:   3C 6C 9S 10H JH
+RANK:   J high
+
+HAND:   4S 7S 8D JC KC
+RANK:   K high
+
+HAND:   4S 8D KD KH AS
+RANK:   High pair
+
+HAND:   5S 5D 7H 9H QS
+RANK:   Low pair
+
+HAND:   2D 3H 8H JC KS
+RANK:   K high
+
+HAND:   5D 7C 9H JH JD
+RANK:   High pair
+
+HAND:   2S 5S 5C JC JS
+RANK:   Two pair
+
+HAND:   4S 8C 9D 10S KD
+RANK:   K high
+
+HAND:   3H 3D 4S 6C 9C
+RANK:   Low pair
+
+HAND:   2D 3D 6H 8H QS
+RANK:   Q high
+
+HAND:   4D 6S 6C AD AH
+RANK:   Two pair
+
+HAND:   4C 5S 8D 10H 10S
+RANK:   High pair
+
+HAND:   5C 10C QS AD AH
+RANK:   High pair
+
+HAND:   4C JC QD KH KS
+RANK:   High pair
+
+HAND:   2S 5H 5S 6S 10H
+RANK:   Low pair
+
+HAND:   3S 4C 4H 8D KC
+RANK:   Low pair
+
+HAND:   4D 5H JH AS AC
+RANK:   High pair
+
+HAND:   2S 5S 6H 7S 10C
+RANK:   10 high
+
+HAND:   2D 5H 5D 6D 8C
+RANK:   Low pair
+
+HAND:   2H 7D 8H 10S KS
+RANK:   K high
+
+HAND:   3C 6H 6C 7H QD
+RANK:   Low pair
+
+HAND:   3D 8D 8S 9S 9C
+RANK:   Two pair
+
+HAND:   7C 8H 9H 9C QC
+RANK:   Low pair
+
+HAND:   3D 4C 6H 7H JH
+RANK:   J high
+
+HAND:   2C 2D 5D 10H KC
+RANK:   Low pair
+
+HAND:   2H 7C 8S 10D 10H
+RANK:   High pair
+
+HAND:   3S 6C 7D 7H 9H
+RANK:   Low pair
+
+HAND:   2D 3D 3S 5D 8H
+RANK:   Low pair
+
+HAND:   9S 10D JH KH KC
+RANK:   High pair
+
+HAND:   3H 5D 5C 6S AS
+RANK:   Low pair
+
+HAND:   3H 3C 6C 10H AD
+RANK:   Low pair
+
+HAND:   6S 8S 9C 10D QS
+RANK:   Q high
+
+HAND:   2D 4D 6S 8D KD
+RANK:   K high
+
+HAND:   2S 6S 7S 9H JD
+RANK:   J high
+
+HAND:   3H 4S 5S JS JC
+RANK:   High pair
+
+HAND:   2H 4D 5C 7C JH
+RANK:   J high
+
+HAND:   4H 4D 5D 9D KH
+RANK:   Low pair
+
+HAND:   2S 4C 8H 10C QC
+RANK:   Q high
+
+HAND:   7C 7H 8C KS KD
+RANK:   Two pair
+
+HAND:   2C 3D 4D 4H KD
+RANK:   Low pair
+
+HAND:   6C 10C JS KH AC
+RANK:   A high
+
+HAND:   2S 2C 3C 8S QH
+RANK:   Low pair
+
+HAND:   3H 3S 7H KS KH
+RANK:   Two pair
+
+HAND:   3H JS QH KC AD
+RANK:   A high
+
+HAND:   2C 4H 4D 6S 10C
+RANK:   Low pair
+
+HAND:   3D 4S 9C JH KH
+RANK:   K high
+
+HAND:   5D 6S QD QC AH
+RANK:   High pair
+
+HAND:   5H 5C 8C 10H QC
+RANK:   Low pair
+
+HAND:   4H 7S 10S QC QD
+RANK:   High pair
+
+HAND:   5S 6H 10D JD JC
+RANK:   High pair
+
+HAND:   2D 3C 4D 7S QS
+RANK:   Q high
+
+HAND:   3H 10H JD AH AS
+RANK:   High pair
+
+HAND:   3C 3D 5D 10D KC
+RANK:   Low pair
+
+HAND:   3D 3S 7H 8D AH
+RANK:   Low pair
+
+HAND:   2S 4S 5C 8C AD
+RANK:   A high
+
+HAND:   3S 6S 7C QD AS
+RANK:   A high
+
+HAND:   4D 4C 10C QD KD
+RANK:   Low pair
+
+HAND:   2C 2D 4H 9H KH
+RANK:   Low pair
+
+HAND:   5S 6H QH KC AH
+RANK:   A high
+
+HAND:   5S 7H 7C QD QC
+RANK:   Two pair
+
+HAND:   3H 5C 8D 10H AS
+RANK:   A high
+
+HAND:   4S 4H 5H 8S QD
+RANK:   Low pair
+
+HAND:   3D 4C 6D 8S AH
+RANK:   A high
+
+HAND:   8H 10D 10H JS KC
+RANK:   High pair
+
+HAND:   9C 9D 10D JH AS
+RANK:   Low pair
+
+HAND:   2D 4C 5H 8S AS
+RANK:   A high
+
+HAND:   2S 4C 8H 9D JS
+RANK:   J high
+
+HAND:   3C 5S 6H 10S AD
+RANK:   A high
+
+HAND:   6C 7D 10S JS KC
+RANK:   K high
+
+HAND:   7S 8D JS QD KS
+RANK:   K high
+
+HAND:   2C 8H 9D QC AC
+RANK:   A high
+
+HAND:   4H 4C 5H 8H QC
+RANK:   Low pair
+
+HAND:   4D 9S 9H 10D AH
+RANK:   Low pair
+
+HAND:   2D 3D 6D QS QD
+RANK:   High pair
+
+HAND:   2H 3C 9D 10C QD
+RANK:   Q high
+
+HAND:   3D 5S 7C 7D 10D
+RANK:   Low pair
+
+HAND:   6S 6C 10C JD JS
+RANK:   Two pair
+
+HAND:   3C 10D 10C JH JC
+RANK:   Two pair
+
+HAND:   8C 8S 10D QH QD
+RANK:   Two pair
+
+HAND:   2S 6S 6H JC JD
+RANK:   Two pair
+
+HAND:   2C 3S 8H KS AH
+RANK:   A high
+
+HAND:   2H 3H 7S QC AH
+RANK:   A high
+
+HAND:   8C 9S 9H QC QS
+RANK:   Two pair
+
+HAND:   2C 3C 4H 8D 10D
+RANK:   10 high
+
+HAND:   3S 10C JS QD AC
+RANK:   A high
+
+HAND:   2D 3C 4S 7S 10D
+RANK:   10 high
+
+HAND:   3D 7D 7S 8D 10H
+RANK:   Low pair
+
+HAND:   7S 9D 10S JC QH
+RANK:   Q high
+
+HAND:   3D 6D 7C 9C KD
+RANK:   K high
+
+HAND:   3H 5H 6D 7C KC
+RANK:   K high
+
+HAND:   5D 7H 9S JC AD
+RANK:   A high
+
+HAND:   3S 3D 5S 10D 10H
+RANK:   Two pair
+
+HAND:   2C 6S 6D 7H 9C
+RANK:   Low pair
+
+HAND:   5D 8S 8H KH AD
+RANK:   Low pair
+
+HAND:   6H 7C KH AS AH
+RANK:   High pair
+
+HAND:   2H 4S 7S 8D JD
+RANK:   J high
+
+HAND:   5H JH KH KD AC
+RANK:   High pair
+
+HAND:   4S 6S 9H KC KS
+RANK:   High pair
+
+HAND:   2C 8D 8C 9S JH
+RANK:   Low pair
+
+HAND:   2D 7C 7D QC QD
+RANK:   Two pair
+
+HAND:   3D 5D 9C KH AH
+RANK:   A high
+
+HAND:   3D 5S 7S 9H 10C
+RANK:   10 high
+
+HAND:   3C 5S 6H 6D AC
+RANK:   Low pair
+
+HAND:   3C 10H JD KD KS
+RANK:   High pair
+
+HAND:   4H 4C 6C QH QS
+RANK:   Two pair
+
+HAND:   3D 6C 9C 9H QC
+RANK:   Low pair
+
+HAND:   3H 4D 8H 9C QS
+RANK:   Q high
+
+HAND:   5S 5H 6D QH AD
+RANK:   Low pair
+
+HAND:   2S 6D 7H JD JC
+RANK:   High pair
+
+HAND:   6C 8S 9S QS KC
+RANK:   K high
+
+HAND:   5S 7H 9C 9H KS
+RANK:   Low pair
+
+HAND:   2D 3H 7H 8H AH
+RANK:   A high
+
+HAND:   3H 3C 5S 7D KD
+RANK:   Low pair
+
+HAND:   3H 8H 9S JH QD
+RANK:   Q high
+
+HAND:   3C 4D 6H 8S 9H
+RANK:   9 high
+
+HAND:   2S 4D QH AS AH
+RANK:   High pair
+
+HAND:   4H 5S 6D 8D JD
+RANK:   J high
+
+HAND:   3D 4C 7C 9H 10D
+RANK:   10 high
+
+HAND:   4S 5S 8S 9H QC
+RANK:   Q high
+
+HAND:   4C 6C 8S 9S AC
+RANK:   A high
+
+HAND:   2D 5S 8C QC KC
+RANK:   K high
+
+HAND:   2C 4D 10S KD KS
+RANK:   High pair
+
+HAND:   4D 6D 6C JS QS
+RANK:   Low pair
+
+HAND:   4H 5S 7C 8S KH
+RANK:   K high
+
+HAND:   3H 6S 10S 10D AD
+RANK:   High pair
+
+HAND:   4H 5S 6H 10D AS
+RANK:   A high
+
+HAND:   3D 4D 10C QD KC
+RANK:   K high
+
+HAND:   3C 4H 4S 8C 8D
+RANK:   Two pair
+
+HAND:   7C 9H 10S JH AC
+RANK:   A high
+
+HAND:   6S 8H QC QS QD
+RANK:   Three of a kind
+
+HAND:   9S JH QC QH KH
+RANK:   High pair
+
+HAND:   4H 5C 10D QS AC
+RANK:   A high
+
+HAND:   4H 4S 8D JC QS
+RANK:   Low pair
+
+HAND:   4D 4C 5H 9H 9S
+RANK:   Two pair
+
+HAND:   6C 8H QC KD AC
+RANK:   A high
+
+HAND:   4S 6D 6C 7C JH
+RANK:   Low pair
+
+HAND:   4C 9S 9D 10D 10C
+RANK:   Two pair
+
+HAND:   3H 4C 5S 5D QH
+RANK:   Low pair
+
+HAND:   8H JC QC KC AC
+RANK:   A high
+
+HAND:   5H 7D 9D 10S QD
+RANK:   Q high
+
+HAND:   3H 4S 4H 7S QC
+RANK:   Low pair
+
+HAND:   3D 4H 4C 5D KS
+RANK:   Low pair
+
+HAND:   8H 9H JD JC AH
+RANK:   High pair
+
+HAND:   4C 4S 6D JS AH
+RANK:   Low pair
+
+HAND:   4S 5S 7S 8H JC
+RANK:   J high
+
+HAND:   4S 6H 7D 10S 10C
+RANK:   High pair
+
+HAND:   3C 5D 6S KH AH
+RANK:   A high
+
+HAND:   8S 9C QH KS AD
+RANK:   A high
+
+HAND:   3D 6D 8S JC KD
+RANK:   K high
+
+HAND:   7C 7D JD JH QC
+RANK:   Two pair
+
+HAND:   7H 10C 10S JH AH
+RANK:   High pair
+
+HAND:   2D 4S 4D 5C JS
+RANK:   Low pair
+
+HAND:   3D 4S 9H JH QD
+RANK:   Q high
+
+HAND:   6S 6D 8C AD AC
+RANK:   Two pair
+
+HAND:   2H 3S 5C 7D 7C
+RANK:   Low pair
+
+HAND:   3H 4S 5S JH JC
+RANK:   High pair
+
+HAND:   2D 3C 5D 7H AH
+RANK:   A high
+
+HAND:   2D 3D 5S 8C QD
+RANK:   Q high
+
+HAND:   4D 4C 6D 7C QH
+RANK:   Low pair
+
+HAND:   7C 8C 8S 8D JD
+RANK:   Three of a kind
+
+HAND:   6H 6D QC KS AS
+RANK:   Low pair
+
+HAND:   4H 5H 9C 9H JD
+RANK:   Low pair
+
+HAND:   4H 4C 8S 9D JS
+RANK:   Low pair
+
+HAND:   2D 6S 8C 9S 9D
+RANK:   Low pair
+
+HAND:   3D 4H JD QC AH
+RANK:   A high
+
+HAND:   6C 6S 9D 10C 10S
+RANK:   Two pair
+
+HAND:   4C 5C 7H 9H KD
+RANK:   K high
+
+HAND:   6S 7H 8S 10D QD
+RANK:   Q high
+
+HAND:   5D 8D JC JD KS
+RANK:   High pair
+
+HAND:   7H 9H 10H KH KC
+RANK:   High pair
+
+HAND:   2C 3C 5D JC QS
+RANK:   Q high
+
+HAND:   2S 4C 6H 9D 10S
+RANK:   10 high
+
+HAND:   5C JS QH QS AS
+RANK:   High pair
+
+HAND:   2S 8H 9H KC AC
+RANK:   A high
+
+HAND:   2H 4S 5C 9D 10H
+RANK:   10 high
+
+HAND:   2D 3C 4H 9S 10C
+RANK:   10 high
+
+HAND:   2H 7C 8H 9H KH
+RANK:   K high
+
+HAND:   2H 4C 10H 10D AC
+RANK:   High pair
+
+HAND:   3D 9H QD KD AD
+RANK:   A high
+
+HAND:   4D 4S 5C QD KC
+RANK:   Low pair
+
+HAND:   2S 5S 5C 10D AS
+RANK:   Low pair
+
+HAND:   2S 5S 6C KH AS
+RANK:   A high
+
+HAND:   3H 4C 10C JC JH
+RANK:   High pair
+
+HAND:   6C 8D 10C KH AH
+RANK:   A high
+
+HAND:   3S 6S 6D 7C 10S
+RANK:   Low pair
+
+HAND:   4C 8C JD QC AH
+RANK:   A high
+
+HAND:   8H 9D 9H AC AH
+RANK:   Two pair
+
+HAND:   2D 4H 6C QD KC
+RANK:   K high
+
+HAND:   5D 6S 7C 8D AS
+RANK:   A high
+
+HAND:   5H 5C 6H KD KC
+RANK:   Two pair
+
+HAND:   3H 4H 4C 5H JD
+RANK:   Low pair
+
+HAND:   3H 6H 9H 10H JS
+RANK:   J high
+
+HAND:   2D 3C 4H 5H JC
+RANK:   J high
+
+HAND:   5H 8H 10H 10S AS
+RANK:   High pair
+
+HAND:   5S 8C KD KS KH
+RANK:   Three of a kind
+
+HAND:   3C 5S 7S 10C KD
+RANK:   K high
+
+HAND:   5H 9H 10H 10C KD
+RANK:   High pair
+
+HAND:   4S 5C 6H KS AS
+RANK:   A high
+
+HAND:   4H 4C 6C QS KD
+RANK:   Low pair
+
+HAND:   6H 6D 10D QC AS
+RANK:   Low pair
+
+HAND:   3S 4S 8C 10D 10S
+RANK:   High pair
+
+HAND:   3C 7S 7C 8S QC
+RANK:   Low pair
+
+HAND:   4S 5D 5C 10S QD
+RANK:   Low pair
+
+HAND:   4H 6D 7D 9H QC
+RANK:   Q high
+
+HAND:   3C 5D 8D JS AC
+RANK:   A high
+
+HAND:   5H 5C 6D 10D 10C
+RANK:   Two pair
+
+HAND:   7D 8H JC KH AC
+RANK:   A high
+
+HAND:   4S 7S 9S QC AD
+RANK:   A high
+
+HAND:   3H 6D 8D 9S KD
+RANK:   K high
+
+HAND:   4C 6C 7C 9C AH
+RANK:   A high
+
+HAND:   3H 3C 8C 8S JS
+RANK:   Two pair
+
+HAND:   2S 6C 8S 8C KS
+RANK:   Low pair
+
+HAND:   4D 6S 8H JC AS
+RANK:   A high
+
+HAND:   8S 9C JS QD KC
+RANK:   K high
+
+HAND:   2D 4D 5H 7H 9S
+RANK:   9 high
+
+HAND:   4D 5C 7H 10D QS
+RANK:   Q high
+
+HAND:   2S 2H 3S 8H 10C
+RANK:   Low pair
+
+HAND:   5S 6H 8C JC QS
+RANK:   Q high
+
+HAND:   4H 4C 4S 9H JD
+RANK:   Three of a kind
+
+HAND:   2C 10S KD KS AD
+RANK:   High pair
+
+HAND:   2H 6D 7D 8H QH
+RANK:   Q high
+
+HAND:   9H 10D 10H JS KC
+RANK:   High pair
+
+HAND:   2C 5H 7D JC QS
+RANK:   Q high
+
+HAND:   3H 3C 4D 6H KD
+RANK:   Low pair
+
+HAND:   3C 5H 6D 6S 7D
+RANK:   Low pair
+
+HAND:   2C 5D JD KS AD
+RANK:   A high
+
+HAND:   4C 9S QH KC AH
+RANK:   A high
+
+HAND:   2D 3S 4D 6C 7S
+RANK:   7 high
+
+HAND:   3D 7C 7S KH AH
+RANK:   Low pair
+
+HAND:   3H 3S 8S QC AS
+RANK:   Low pair
+
+HAND:   2H 3D JH AD AS
+RANK:   High pair
+
+HAND:   3H 6C 8H 10C QD
+RANK:   Q high
+
+HAND:   4H 8S 9S JS JH
+RANK:   High pair
+
+HAND:   2C 5D 6D 10S AD
+RANK:   A high
+
+HAND:   2D 3H 8D 8C 10C
+RANK:   Low pair
+
+HAND:   3C 4S 4H JC AH
+RANK:   Low pair
+
+HAND:   4C 6S 7C 9S AD
+RANK:   A high
+
+HAND:   4C 8S 9C 10C 10H
+RANK:   High pair
+
+HAND:   3D 5H 8S 9S JD
+RANK:   J high
+
+HAND:   7D 7C 10S 10C KH
+RANK:   Two pair
+
+HAND:   5C 7S JC QD AS
+RANK:   A high
+
+HAND:   2H 4S 6C KD KS
+RANK:   High pair
+
+HAND:   2S 8C 9D KH KC
+RANK:   High pair
+
+HAND:   7C 10C 10D JD QC
+RANK:   High pair
+
+HAND:   2S 3S 6D 7D 7S
+RANK:   Low pair
+
+HAND:   2S 8D 10D QS KH
+RANK:   K high
+
+HAND:   2H 3C 7D JC QD
+RANK:   Q high
+
+HAND:   2D 3D 5H 9C 9S
+RANK:   Low pair
+
+HAND:   2S 6C 10C JS QS
+RANK:   Q high
+
+HAND:   5H 5D 7H 8D AH
+RANK:   Low pair
+
+HAND:   3D 8H 9H QS AH
+RANK:   A high
+
+HAND:   6S 7C 8D 9D AD
+RANK:   A high
+
+HAND:   3D 4H 6S 7C JH
+RANK:   J high
+
+HAND:   3H 7S 8D KC AS
+RANK:   A high
+
+HAND:   3H 5C 8S 9H QD
+RANK:   Q high
+
+HAND:   5S 5H 6S 9C 9S
+RANK:   Two pair
+
+HAND:   9H 9D JC QD AC
+RANK:   Low pair
+
+HAND:   2S 7H 8C 8D 9C
+RANK:   Low pair
+
+HAND:   2H 2S 5D KS AH
+RANK:   Low pair
+
+HAND:   2D 2H 5H 8D JC
+RANK:   Low pair
+
+HAND:   2H 3H 6S QD KH
+RANK:   K high
+
+HAND:   3H 3C 5H 9S AH
+RANK:   Low pair
+
+HAND:   3C 3H 7C 9H JS
+RANK:   Low pair
+
+HAND:   3S 7H JS QH KC
+RANK:   K high
+
+HAND:   10C 10H 10D JS AC
+RANK:   Three of a kind
+
+HAND:   3S 4D 5D 7C 10S
+RANK:   10 high
+
+HAND:   3C 8H 8S QH AS
+RANK:   Low pair
+
+HAND:   4D 8C 10D JC QD
+RANK:   Q high
+
+HAND:   4D 5H 6D JC QS
+RANK:   Q high
+
+HAND:   2D 2C 4H 6H 9C
+RANK:   Low pair
+
+HAND:   8S 8D KC AC AH
+RANK:   Two pair
+
+HAND:   2H 2S 3C 7C AD
+RANK:   Low pair
+
+HAND:   2S 4C JD KH KS
+RANK:   High pair
+
+HAND:   3C 4H 4S 5S 6D
+RANK:   Low pair
+
+HAND:   5H 6C 8H JS QC
+RANK:   Q high
+
+HAND:   4H 7S 10D JC AS
+RANK:   A high
+
+HAND:   2H 4S 7C 10H 10D
+RANK:   High pair
+
+HAND:   4S 5C 10C JD KD
+RANK:   K high
+
+HAND:   2S 2C 4D 5C KH
+RANK:   Low pair
+
+HAND:   2S 3C 3H 7C 7D
+RANK:   Two pair
+
+HAND:   3D 4C 7H 8D 9S
+RANK:   9 high
+
+HAND:   5H 9D 9H 10C 10H
+RANK:   Two pair
+
+HAND:   5C 5S 6D 9C JS
+RANK:   Low pair
+
+HAND:   3H 6S QC KC AS
+RANK:   A high
+
+HAND:   6D 8D 10D 10H AC
+RANK:   High pair
+
+HAND:   4D 8H 8S 10S KH
+RANK:   Low pair
+
+HAND:   6H 7S 10D 10H 10S
+RANK:   Three of a kind
+
+HAND:   2S 3D 10S 10C JD
+RANK:   High pair
+
+HAND:   4H 6H 10S QS KD
+RANK:   K high
+
+HAND:   2D 3D 10S JD KH
+RANK:   K high
+
+HAND:   3D 7C JS KD AS
+RANK:   A high
+
+HAND:   4C 6H 7D 8C AC
+RANK:   A high
+
+HAND:   6D 7S JS QH KH
+RANK:   K high
+
+HAND:   2D 4C 5D 6D 8D
+RANK:   8 high
+
+HAND:   4D 6D 6C JS AS
+RANK:   Low pair
+
+HAND:   5D 5S 6C 10C KS
+RANK:   Low pair
+
+HAND:   3D 6H 6C 8D QC
+RANK:   Low pair
+
+HAND:   3C 4S 4D JC AS
+RANK:   Low pair
+
+HAND:   6D 7D 9C JC KD
+RANK:   K high
+
+HAND:   5H 6H 9D JS AS
+RANK:   A high
+
+HAND:   7C 8D 9D 10S 10C
+RANK:   High pair
+
+HAND:   6H 7H 8D KC AC
+RANK:   A high
+
+HAND:   2D 3S 7S 8H AS
+RANK:   A high
+
+HAND:   2S 6D 8H QD KD
+RANK:   K high
+
+HAND:   7H 7C 9D 10H JH
+RANK:   Low pair
+
+HAND:   4H 4C 5H 6H 9D
+RANK:   Low pair
+
+HAND:   4D 5H 7C KD AD
+RANK:   A high
+
+HAND:   2C 6C JD JH KS
+RANK:   High pair
+
+HAND:   2S 3C 4H JH KH
+RANK:   K high
+
+HAND:   4S 8D 8S 10S QH
+RANK:   Low pair
+
+HAND:   5C 6H 7H JC AS
+RANK:   A high
+
+HAND:   4H 9H JS QC QS
+RANK:   High pair
+
+HAND:   3S 4H 6D KS KC
+RANK:   High pair
+
+HAND:   3H 3C 4D 5C 7D
+RANK:   Low pair
+
+HAND:   3H 5H 8C JD KC
+RANK:   K high
+
+HAND:   7D 9S JC KD AS
+RANK:   A high
+
+HAND:   3D 5C 8S KC KH
+RANK:   High pair
+
+HAND:   2S 9C 10D KS KD
+RANK:   High pair
+
+HAND:   3H 7H 8C QD KC
+RANK:   K high
+
+HAND:   2C 4S 8C JS AD
+RANK:   A high
+
+HAND:   3C 5S 5C 6D QC
+RANK:   Low pair
+
+HAND:   4D 6D 8D AD AS
+RANK:   High pair
+
+HAND:   3S 5D 7C 9D 9C
+RANK:   Low pair
+
+HAND:   7D 8D 10H KS AC
+RANK:   A high
+
+HAND:   2C JS QC QH KS
+RANK:   High pair
+
+HAND:   2D 3H 6H 7D KH
+RANK:   K high
+
+HAND:   2C 7C 9D KH KS
+RANK:   High pair
+
+HAND:   4S 4H 6S 9D KD
+RANK:   Low pair
+
+HAND:   2H 3C 4H 10S KS
+RANK:   K high
+
+HAND:   3C 3S 4C 9C 10D
+RANK:   Low pair
+
+HAND:   2D 4C 8H QD AH
+RANK:   A high
+
+HAND:   4C 5D 6S 8C 9D
+RANK:   9 high
+
+HAND:   2S 6D 7S 10C KD
+RANK:   K high
+
+HAND:   3D 4C 5S 10H JC
+RANK:   J high
+
+HAND:   4C 4H 5H 6D QH
+RANK:   Low pair
+
+HAND:   4S 5D 6C QH KS
+RANK:   K high
+
+HAND:   4S 7C 8D QH KS
+RANK:   K high
+
+HAND:   5S 6C 8H 9S JS
+RANK:   J high
+
+HAND:   2D 3S JC QH KD
+RANK:   K high
+
+HAND:   3S 4S 7C 9D AC
+RANK:   A high
+
+HAND:   5S 6H JS AH AS
+RANK:   High pair
+
+HAND:   5C 9D JH KH AS
+RANK:   A high
+
+HAND:   9H 9C 10H QD KC
+RANK:   Low pair
+
+HAND:   6S 7S 8H 9D AD
+RANK:   A high
+
+HAND:   4H 5S 9D 10D AC
+RANK:   A high
+
+HAND:   8D 9S QD KC AC
+RANK:   A high
+
+HAND:   4C 7C 8D 10D JH
+RANK:   J high
+
+HAND:   3D 10H KC KS AD
+RANK:   High pair
+
+HAND:   4H 6H 7H QD QC
+RANK:   High pair
+
+HAND:   4C 7D JC KD AC
+RANK:   A high
+
+HAND:   3H 4H 4D 7C 9H
+RANK:   Low pair
+
+HAND:   2S 5C 6C JD KH
+RANK:   K high
+
+HAND:   8S 10C JC QS KS
+RANK:   K high
+
+HAND:   4D 7H 7S JC AC
+RANK:   Low pair
+
+HAND:   6S 10D JC JD QH
+RANK:   High pair
+
+HAND:   2C 2H 3H 8C JH
+RANK:   Low pair
+
+HAND:   2S QS KH KC AD
+RANK:   High pair
+
+HAND:   3H 4C 5C 5H KC
+RANK:   Low pair
+
+HAND:   5H 5D 5C JC AC
+RANK:   Three of a kind
+
+HAND:   4C 8C 9C 9S JS
+RANK:   Low pair
+
+HAND:   3H 5S 8C JD KD
+RANK:   K high
+
+HAND:   4S 7S 9D 9H 9S
+RANK:   Three of a kind
+
+HAND:   2S 4H 4C 7H 10S
+RANK:   Low pair
+
+HAND:   5D 7H 9C 9S KS
+RANK:   Low pair
+
+HAND:   5D 7D 9S 10D 10C
+RANK:   High pair
+
+HAND:   4H 8H 9S 10H KS
+RANK:   K high
+
+HAND:   3H 6D 10H KC AC
+RANK:   A high
+
+HAND:   2C 3S 5D KD AS
+RANK:   A high
+
+HAND:   4D 5H 9C 10S AH
+RANK:   A high
+
+HAND:   4S 6D 6C 8C 9S
+RANK:   Low pair
+
+HAND:   8S 8D 10D 10C KH
+RANK:   Two pair
+
+HAND:   4D 8C JC QS AS
+RANK:   A high
+
+HAND:   2S 2C 4C KD KC
+RANK:   Two pair
+
+HAND:   3S 4C 7S 9C KH
+RANK:   K high
+
+HAND:   4H 5H 8S 10H KS
+RANK:   K high
+
+HAND:   2D 2S 3H 5H JC
+RANK:   Low pair
+
+HAND:   4H 4C 9S 10C QD
+RANK:   Low pair
+
+HAND:   7D JH QC KC KD
+RANK:   High pair
+
+HAND:   2C 5S 5C 8S 10S
+RANK:   Low pair
+
+HAND:   2H 8H 10D 10C JS
+RANK:   High pair
+
+HAND:   3H 3S 4D 8C 9H
+RANK:   Low pair
+
+HAND:   8H 9S 9D KS AC
+RANK:   Low pair
+
+HAND:   3D 5D 5C 10S KS
+RANK:   Low pair
+
+HAND:   3C JD JH QS KS
+RANK:   High pair
+
+HAND:   6D 6H QS KH AH
+RANK:   Low pair
+
+HAND:   4S 9C 10C JS KD
+RANK:   K high
+
+HAND:   6S 6D 9H 9D 10C
+RANK:   Two pair
+
+HAND:   5S 7H 7D 9H 10S
+RANK:   Low pair
+
+HAND:   4D 4H 9S 9H JS
+RANK:   Two pair
+
+HAND:   3H 4C 5C 9H 9S
+RANK:   Low pair
+
+HAND:   4D 6S 6C 8H 9D
+RANK:   Low pair
+
+HAND:   8H 9S JH KH AH
+RANK:   A high
+
+HAND:   4H 5S 6S 8H AD
+RANK:   A high
+
+HAND:   2C 3D 5H 6H AC
+RANK:   A high
+
+HAND:   3H 9S JC QH AD
+RANK:   A high
+
+HAND:   6S 8C 8H 9C 10S
+RANK:   Low pair
+
+HAND:   3D 8H 8C 9S KD
+RANK:   Low pair
+
+HAND:   6D 7D 9C 9D 10H
+RANK:   Low pair
+
+HAND:   2D 3S 6S 6H JD
+RANK:   Low pair
+
+HAND:   3C 5D 8H 9D JS
+RANK:   J high
+
+HAND:   2S 3S 5H 8H AD
+RANK:   A high
+
+HAND:   3S 5C QH QS AS
+RANK:   High pair
+
+HAND:   4H 6S 7S 9S QS
+RANK:   Q high
+
+HAND:   5S 7D 8C QD QC
+RANK:   High pair
+
+HAND:   4H 7S 8H 10H QD
+RANK:   Q high
+
+HAND:   4C 6D 9C JH QS
+RANK:   Q high
+
+HAND:   3H 8H 8C 10D 10S
+RANK:   Two pair
+
+HAND:   5S 7H 8H 9C AH
+RANK:   A high
+
+HAND:   3H 5S 8S 10H JH
+RANK:   J high
+
+HAND:   5D 7S 9C 9H QS
+RANK:   Low pair
+
+HAND:   7D 9D 10C KC KD
+RANK:   High pair
+
+HAND:   3D 5S 9H QS KC
+RANK:   K high
+
+HAND:   4S 5D 7S 7H QC
+RANK:   Low pair
+
+HAND:   5C 7C 7D 10H KH
+RANK:   Low pair
+
+HAND:   2C 6D 9D JH AC
+RANK:   A high
+
+HAND:   4H 4C 8S 9S KS
+RANK:   Low pair
+
+HAND:   3S 7H JC QH AS
+RANK:   A high
+
+HAND:   3C 5H 10D QD AC
+RANK:   A high
+
+HAND:   5D 6H 7H 9H KS
+RANK:   K high
+
+HAND:   4D 6C 7C JD QC
+RANK:   Q high
+
+HAND:   4S 8D 9C 9S JS
+RANK:   Low pair
+
+HAND:   2H 3S 6C 9C QH
+RANK:   Q high
+
+HAND:   5D 9H 9D 10H KC
+RANK:   Low pair
+
+HAND:   3S 4H 5S QH AS
+RANK:   A high
+
+HAND:   2D 7H 8H 9H JC
+RANK:   J high
+
+HAND:   3S 4H 10S JS AD
+RANK:   A high
+
+HAND:   6D 7S 9H 10C QH
+RANK:   Q high
+
+HAND:   2C 3C 10D JD AC
+RANK:   A high
+
+HAND:   3H 4D JS JD JH
+RANK:   Three of a kind
+
+HAND:   3C 8C 8H 9H 10C
+RANK:   Low pair
+
+HAND:   3S 6H JS AS AC
+RANK:   High pair
+
+HAND:   4C 5C 6C 7C AC
+RANK:   Flush
+
+HAND:   2H 6D 7D AC AS
+RANK:   High pair
+
+HAND:   2S 3H 4D 4H 5S
+RANK:   Low pair
+
+HAND:   2S 3S 5C KH AD
+RANK:   A high
+
+HAND:   3H 4S 4C 9H AS
+RANK:   Low pair
+
+HAND:   JS QC KS KH AD
+RANK:   High pair
+
+HAND:   4S 7H JD JS KC
+RANK:   High pair
+
+HAND:   3H 3C 4C 8D 8S
+RANK:   Two pair
+
+HAND:   2D 6C 10D JD KS
+RANK:   K high
+
+HAND:   2S 3H 7C QC QH
+RANK:   High pair
+
+HAND:   6H 9S JH QD AC
+RANK:   A high
+
+HAND:   2D 3D 4S 8S AC
+RANK:   A high
+
+HAND:   5D 6D 7D 9D QC
+RANK:   Q high
+
+HAND:   4S 9H QC AC AD
+RANK:   High pair
+
+HAND:   2D 4S 5H 8S AH
+RANK:   A high
+
+HAND:   2D 3S 6H QS AS
+RANK:   A high
+
+HAND:   7D 7H JH KD AC
+RANK:   Low pair
+
+HAND:   3H 8C JD QD KS
+RANK:   K high
+
+HAND:   5S 6H JC QH KS
+RANK:   K high
+
+HAND:   2C 3C 4H 9D QH
+RANK:   Q high
+
+HAND:   5H 6C 6H KD AS
+RANK:   Low pair
+
+HAND:   4D 8S JH JS AS
+RANK:   High pair
+
+HAND:   2H 5D 5C 8D 10S
+RANK:   Low pair
+
+HAND:   2H 5D 7D JC AC
+RANK:   A high
+
+HAND:   4C 8D 9H JS KH
+RANK:   K high
+
+HAND:   2S 5D 6S QS QH
+RANK:   High pair
+
+HAND:   9D 10D QC KH AS
+RANK:   A high
+
+HAND:   3D 7D 8S KD AD
+RANK:   A high
+
+HAND:   10S 10H KH KS KD
+RANK:   Full house
+
+HAND:   5D 8D 9S QS KD
+RANK:   K high
+
+HAND:   6C 8D 9D 10S JS
+RANK:   J high
+
+HAND:   4S 6D 7D 9S 10H
+RANK:   10 high
+
+HAND:   5C 5H 10H JD QD
+RANK:   Low pair
+
+HAND:   3D 4C 7C JS AD
+RANK:   A high
+
+HAND:   3H 5D QS QD AD
+RANK:   High pair
+
+HAND:   2D 5C 8C QH QS
+RANK:   High pair
+
+HAND:   4S 5D 7S KD KS
+RANK:   High pair
+
+HAND:   7H 10H JH JC KS
+RANK:   High pair
+
+HAND:   3C 3H 6D KC AS
+RANK:   Low pair
+
+HAND:   8C 9S 10S JS KH
+RANK:   K high
+
+HAND:   3H 4C 6D JH KS
+RANK:   K high
+
+HAND:   2C 2H 4D 10D QD
+RANK:   Low pair
+
+HAND:   4D 7S 7H 10C JH
+RANK:   Low pair
+
+HAND:   4H 5S 9S 10C KD
+RANK:   K high
+
+HAND:   2D 9S 9H 10H QC
+RANK:   Low pair
+
+HAND:   5H 6D 8S 10S AD
+RANK:   A high
+
+HAND:   2D 7S 10D QH AC
+RANK:   A high
+
+HAND:   9D 10S JD JS QC
+RANK:   High pair
+
+HAND:   2H 3D 6C 8C KS
+RANK:   K high
+
+HAND:   7D 7S 9D JD KH
+RANK:   Low pair
+
+HAND:   3C 8C 9D 10S KC
+RANK:   K high
+
+HAND:   2D 7S 10C 10S 10D
+RANK:   Three of a kind
+
+HAND:   3H 5H 7S 7H 8C
+RANK:   Low pair
+
+HAND:   3H 5C 5D 9H JC
+RANK:   Low pair
+
+HAND:   3D 5S 9D AS AD
+RANK:   High pair
+
+HAND:   2D 4C 6S 7S QH
+RANK:   Q high
+
+HAND:   6S 7S 9C 9S JC
+RANK:   Low pair
+
+HAND:   8S 8D 9S 9D 10C
+RANK:   Two pair
+
+HAND:   2C 5C 6S 9C JH
+RANK:   J high
+
+HAND:   2C 2H 7D 9H 10S
+RANK:   Low pair
+
+HAND:   3C 5D 6D AH AC
+RANK:   High pair
+
+HAND:   8S 9C 10H KD KC
+RANK:   High pair
+
+HAND:   5S 5D 6H 9H 9C
+RANK:   Two pair
+
+HAND:   5C 6D 9S 10D JC
+RANK:   J high
+
+HAND:   3D 9H 10D JD KD
+RANK:   K high
+
+HAND:   8C 9C 9H 10D KC
+RANK:   Low pair
+
+HAND:   2S 7H JC QS AH
+RANK:   A high
+
+HAND:   5D 7S 8S JS QC
+RANK:   Q high
+
+HAND:   2D 3C 8S 9C JC
+RANK:   J high
+
+HAND:   2C 5D 10H QC KH
+RANK:   K high
+
+HAND:   4S 4C 6C 7C QD
+RANK:   Low pair
+
+HAND:   3C 5C 8C 9S QD
+RANK:   Q high
+
+HAND:   4S 9D 10H QD KD
+RANK:   K high
+
+HAND:   4D 6H 6S JS AD
+RANK:   Low pair
+
+HAND:   6D 6H 7S 10C AH
+RANK:   Low pair
+
+HAND:   5S 8H 9C QH AS
+RANK:   A high
+
+HAND:   6C 6D QD KC AH
+RANK:   Low pair
+
+HAND:   5C 7H 9C JS QD
+RANK:   Q high
+
+HAND:   2C JH QC KD KS
+RANK:   High pair
+
+HAND:   3D 4C 5D 8D QH
+RANK:   Q high
+
+HAND:   2C 6C 7D 10C JH
+RANK:   J high
+
+HAND:   5D 6D 7D 7S 10H
+RANK:   Low pair
+
+HAND:   4D 6S 7D 7H QS
+RANK:   Low pair
+
+HAND:   3C 4S 7S 10C QS
+RANK:   Q high
+
+HAND:   3H 4D 5H QD KC
+RANK:   K high
+
+HAND:   2D 6D 7D 8H 10C
+RANK:   10 high
+
+HAND:   2H 4C 9D 9H AS
+RANK:   Low pair
+
+HAND:   4S 5D 10C JS JC
+RANK:   High pair
+
+HAND:   5C 7H 8D 10S 10D
+RANK:   High pair
+
+HAND:   2C 4S 6D 9H JH
+RANK:   J high
+
+HAND:   4D 4S 8S 9D 10D
+RANK:   Low pair
+
+HAND:   3H 4S 9H 10H JD
+RANK:   J high
+
+HAND:   2H 3D 6S 8H KH
+RANK:   K high
+
+HAND:   2S 8C 10D JS AC
+RANK:   A high
+
+HAND:   2D 3C 10C JD QD
+RANK:   Q high
+
+HAND:   5C 7H 9D JC KH
+RANK:   K high
+
+HAND:   6C 7H 9S JC QS
+RANK:   Q high
+
+HAND:   3D 7C QH QD KS
+RANK:   High pair
+
+HAND:   2H 3D 8H 8S KC
+RANK:   Low pair
+
+HAND:   5H 7D 10C QD AC
+RANK:   A high
+
+HAND:   5C 6D 7S 7H 9S
+RANK:   Low pair
+
+HAND:   2S 4D 10C KS KD
+RANK:   High pair
+
+HAND:   2D 2H 8D 8C JH
+RANK:   Two pair
+
+HAND:   2S 4C 4S 5H 10H
+RANK:   Low pair
+
+HAND:   3C 4S 6H QS KH
+RANK:   K high
+
+HAND:   5C 6D 7H 10H QH
+RANK:   Q high
+
+HAND:   2H 8D QS QC QD
+RANK:   Three of a kind
+
+HAND:   4D 7D 7H JS QC
+RANK:   Low pair
+
+HAND:   7H 10H 10C QH QC
+RANK:   Two pair
+
+HAND:   8C 8S 10H 10C QS
+RANK:   Two pair
+
+HAND:   2S 5H 6D 9C AS
+RANK:   A high
+
+HAND:   3D 4H 5D 6D AC
+RANK:   A high
+
+HAND:   3H 3D 7S 8C 10H
+RANK:   Low pair
+
+HAND:   6C 7C 8C JH KD
+RANK:   K high
+
+HAND:   3C 8C 9S 10H AC
+RANK:   A high
+
+HAND:   2D 4C 6S 8C 9C
+RANK:   9 high
+
+HAND:   2C 2D 4D 7C KH
+RANK:   Low pair
+
+HAND:   5S 9H 10S JS AS
+RANK:   A high
+
+HAND:   5S 9H 10C 10H QS
+RANK:   High pair
+
+HAND:   3C 6D 7D 8C QH
+RANK:   Q high
+
+HAND:   2D 2H 7C JS AC
+RANK:   Low pair
+
+HAND:   4S 10C 10D JH KS
+RANK:   High pair
+
+HAND:   3S 5S 6D 6S 9S
+RANK:   Low pair
+
+HAND:   6S 7C 10C JD QS
+RANK:   Q high
+
+HAND:   4C 5C 7S 10D KC
+RANK:   K high
+
+HAND:   3D 6D 10S 10C QC
+RANK:   High pair
+
+HAND:   6C 7D 8S 9S JS
+RANK:   J high
+
+HAND:   5H 5D 6D 8H 10D
+RANK:   Low pair
+
+HAND:   10D JD KC KS AC
+RANK:   High pair
+
+HAND:   5C 5D 8C 10H JC
+RANK:   Low pair
+
+HAND:   3H 4S 5S 7D 8H
+RANK:   8 high
+
+HAND:   3D 4S 5C 10S KH
+RANK:   K high
+
+HAND:   8H 9D 9H 10D AH
+RANK:   Low pair
+
+HAND:   5D 8H 9D 10D QH
+RANK:   Q high
+
+HAND:   5H 7S 10H QC KH
+RANK:   K high
+
+HAND:   4H 4C 6C QD KD
+RANK:   Low pair
+
+HAND:   6H 7H QH KS AH
+RANK:   A high
+
+HAND:   2H 4C 6C 6H AC
+RANK:   Low pair
+
+HAND:   2S 5H 8H 9D KD
+RANK:   K high
+
+HAND:   2S 9H QC QD AC
+RANK:   High pair
+
+HAND:   8C 8D 9H 9D 9S
+RANK:   Full house
+
+HAND:   2H 7S 8S QH AC
+RANK:   A high
+
+HAND:   2D 2S 9D 9C QD
+RANK:   Two pair
+
+HAND:   4D 7S 10H KS KD
+RANK:   High pair
+
+HAND:   6S 8S 9H QC AS
+RANK:   A high
+
+HAND:   9H JS QD KC AD
+RANK:   A high
+
+HAND:   2C 3H 3D 7C 10C
+RANK:   Low pair
+
+HAND:   4H 5C 8S QC AD
+RANK:   A high
+
+HAND:   4H 6S 6C 10H QC
+RANK:   Low pair
+
+HAND:   3S 6S 10D KC AH
+RANK:   A high
+
+HAND:   2D 6D 9C JS AS
+RANK:   A high
+
+HAND:   3D 5D 8H 10D KD
+RANK:   K high
+
+HAND:   7S 7D 10H QC AH
+RANK:   Low pair
+
+HAND:   2D 3C 8C 10H AH
+RANK:   A high
+
+HAND:   4H 7D 7S 10S QS
+RANK:   Low pair
+
+HAND:   2H 5H QH QS AC
+RANK:   High pair
+
+HAND:   3C 8S 8H JH AS
+RANK:   Low pair
+
+HAND:   4C 5H QD QS QH
+RANK:   Three of a kind
+
+HAND:   2H 6D 10C KS AD
+RANK:   A high
+
+HAND:   6D 8C 9H 10D QH
+RANK:   Q high
+
+HAND:   2D 7S 7C 10D KH
+RANK:   Low pair
+
+HAND:   4H 5S 6C 7D KD
+RANK:   K high
+
+HAND:   2D 6D 8D 10D JC
+RANK:   J high
+
+HAND:   2D 5H 9H QC QS
+RANK:   High pair
+
+HAND:   6S 7D 9H 10C AD
+RANK:   A high
+
+HAND:   5H 6H 10C QD AS
+RANK:   A high
+
+HAND:   3S 3D 4H 5H KD
+RANK:   Low pair
+
+HAND:   5D 8C 10C QC KD
+RANK:   K high
+
+HAND:   2H 3C 4H 8H 9H
+RANK:   9 high
+
+HAND:   4H 7C 10C JS AD
+RANK:   A high
+
+HAND:   5D 8H 8S 9C JD
+RANK:   Low pair
+
+HAND:   6D 7D 9D 9C 10C
+RANK:   Low pair
+
+HAND:   2C 3H 6H 8S KD
+RANK:   K high
+
+HAND:   2C 2S 3D 6H KC
+RANK:   Low pair
+
+HAND:   4C 4S 7D 10S JC
+RANK:   Low pair
+
+HAND:   4H 5C 6S 7S 8H
+RANK:   Straight
+
+HAND:   2C 4H 6S JS JC
+RANK:   High pair
+
+HAND:   2C 5C 6H QC AS
+RANK:   A high
+
+HAND:   5C 5D 6C 7H JS
+RANK:   Low pair
+
+HAND:   3H 6S 8D 10S JH
+RANK:   J high
+
+HAND:   2D 7H 7S JD AS
+RANK:   Low pair
+
+HAND:   4C 5S 9C JH KC
+RANK:   K high
+
+HAND:   4C 5D 6S 7C 9C
+RANK:   9 high
+
+HAND:   3H JH QD AD AS
+RANK:   High pair
+
+HAND:   2H 3D 8D KC KH
+RANK:   High pair
+
+HAND:   2D 2C 4H 4D 6H
+RANK:   Two pair
+
+HAND:   2H 4D 5S QS AH
+RANK:   A high
+
+HAND:   2D 3D 6C JC KH
+RANK:   K high
+
+HAND:   3S 3H 6C 10H QC
+RANK:   Low pair
+
+HAND:   3H 3D 5S 6D KH
+RANK:   Low pair
+
+HAND:   3D 5C 6C 10D 10H
+RANK:   High pair
+
+HAND:   10H JC KC AS AD
+RANK:   High pair
+
+HAND:   9H 10S 10D JH KH
+RANK:   High pair
+
+HAND:   2H 6S JH AS AH
+RANK:   High pair
+
+HAND:   7C 8C 10H JC AS
+RANK:   A high
+
+HAND:   4C 5C 7C 10D JS
+RANK:   J high
+
+HAND:   2C 3S 7S 9D AS
+RANK:   A high
+
+HAND:   3D 9D QC KC AH
+RANK:   A high
+
+HAND:   3D 6C 7D KD AH
+RANK:   A high
+
+HAND:   4D 6C 7H JD AD
+RANK:   A high
+
+HAND:   2D 3D 8S 9S KD
+RANK:   K high
+
+HAND:   3C 4C 9H QD AH
+RANK:   A high
+
+HAND:   2D 5D 6D 8H 8D
+RANK:   Low pair
+
+HAND:   4S 4D 6C 9C KC
+RANK:   Low pair
+
+HAND:   2S 6H 8S 8D QC
+RANK:   Low pair
+
+HAND:   8C 10S 10H KC AH
+RANK:   High pair
+
+HAND:   3S 5C 5S 9C 10S
+RANK:   Low pair
+
+HAND:   3H 3S 3C 9C 10H
+RANK:   Three of a kind
+
+HAND:   4H 5H 6H 8S AC
+RANK:   A high
+
+HAND:   2D 3H 4D 5H JS
+RANK:   J high
+
+HAND:   4H 8C 9S KS AD
+RANK:   A high
+
+HAND:   2H 7D 7H 8D 9H
+RANK:   Low pair
+
+HAND:   3D 5D 8H AS AC
+RANK:   High pair
+
+HAND:   4C 5C 8D JD QD
+RANK:   Q high
+
+HAND:   2H 8D QC KS KH
+RANK:   High pair
+
+HAND:   2S 3S 4H 5H 6H
+RANK:   Straight
+
+HAND:   9D 10S QS QD AC
+RANK:   High pair
+
+HAND:   3D 7H 7D QC QD
+RANK:   Two pair
+
+HAND:   7H 7D 8C 9C AC
+RANK:   Low pair
+
+HAND:   5C 7C 8C JH AC
+RANK:   A high
+
+HAND:   3S 4S 5H 8C QD
+RANK:   Q high
+
+HAND:   2C 2S 3D 4D KC
+RANK:   Low pair
+
+HAND:   2D 9H JD QC KH
+RANK:   K high
+
+HAND:   3S 4C 4S 7C 8C
+RANK:   Low pair
+
+HAND:   4H 5C 6S 7H 8H
+RANK:   Straight
+
+HAND:   5S 7S 8S 10S KC
+RANK:   K high
+
+HAND:   2C 3S 4C 7H 10H
+RANK:   10 high
+
+HAND:   2H 2C 3S 8D JH
+RANK:   Low pair
+
+HAND:   5S 7H 9S 9C AD
+RANK:   Low pair
+
+HAND:   3C 3S 5C JD AC
+RANK:   Low pair
+
+HAND:   2C 2D 4C QS AH
+RANK:   Low pair
+
+HAND:   5H 7C 8C KH AH
+RANK:   A high
+
+HAND:   2C 3H 5H 10C QH
+RANK:   Q high
+
+HAND:   3D 5H 6H 7D 8H
+RANK:   8 high
+
+HAND:   6S 7D 9D JH JC
+RANK:   High pair
+
+HAND:   2S 7S 7D 8C KD
+RANK:   Low pair
+
+HAND:   5D 7D QH KC AH
+RANK:   A high
+
+HAND:   3D 4H 4D 4S 6S
+RANK:   Three of a kind
+
+HAND:   2H 6C 8C KS AS
+RANK:   A high
+
+HAND:   2C 2H 5C 10D QD
+RANK:   Low pair
+
+HAND:   3S 3H 4S 6C QD
+RANK:   Low pair
+
+HAND:   2D 4D 7C 9S JC
+RANK:   J high
+
+HAND:   4S 5S 7S 8D JS
+RANK:   J high
+
+HAND:   3D 4H 6H 8D QH
+RANK:   Q high
+
+HAND:   4D 5C 9S 10C KC
+RANK:   K high
+
+HAND:   2C 4D 10D KH KC
+RANK:   High pair
+
+HAND:   5D 6D 8H 10C KD
+RANK:   K high
+
+HAND:   3H 6C JH KD KH
+RANK:   High pair
+
+HAND:   4C 6H 10C 10S KH
+RANK:   High pair
+
+HAND:   4C 7S 9C QS AC
+RANK:   A high
+
+HAND:   4S 7C 8D 10D KD
+RANK:   K high
+
+HAND:   9S 9H 9D QS KH
+RANK:   Three of a kind
+
+HAND:   2H 6C 8H 8D 9D
+RANK:   Low pair
+
+HAND:   2C 4D 7S JD AS
+RANK:   A high
+
+HAND:   6D 7D 9C JC KS
+RANK:   K high
+
+HAND:   5C 9S 10S QS KH
+RANK:   K high
+
+HAND:   2D 3H 6D KD AH
+RANK:   A high
+
+HAND:   2S 7S 8D AH AD
+RANK:   High pair
+
+HAND:   3S 8H 9C 10C JC
+RANK:   J high
+
+HAND:   3S 4D 4C 5C AH
+RANK:   Low pair
+
+HAND:   3S 4D 5H 6S KC
+RANK:   K high
+
+HAND:   4S 8C JH QC AC
+RANK:   A high
+
+HAND:   3H 4S 7H 7S 8S
+RANK:   Low pair
+
+HAND:   3C 6D 7S 10S AS
+RANK:   A high
+
+HAND:   2D 3H 3C 4D QS
+RANK:   Low pair
+
+HAND:   3H 8D 8S 10D QD
+RANK:   Low pair
+
+HAND:   2C 4H 5C 7C AH
+RANK:   A high
+
+HAND:   2C 3D 5H 7C 7S
+RANK:   Low pair
+
+HAND:   2S 5D 6C JS AC
+RANK:   A high
+
+HAND:   2C 3C 5C 8D 9S
+RANK:   9 high
+
+HAND:   2H 4H 7H 9D JD
+RANK:   J high
+
+HAND:   4C 8S 9S JS AS
+RANK:   A high
+
+HAND:   6S 8C 9S 9H 10S
+RANK:   Low pair
+
+HAND:   2C 2D 3D 10D QS
+RANK:   Low pair
+
+HAND:   2S 4C 6S JC QS
+RANK:   Q high
+
+HAND:   2D 2S 6S QS AC
+RANK:   Low pair
+
+HAND:   3S 3D 7C 10D QH
+RANK:   Low pair
+
+HAND:   2S 5H 5S 10D AD
+RANK:   Low pair
+
+HAND:   6D 8S 9S JD KD
+RANK:   K high
+
+HAND:   2D 5D 5S 8C KH
+RANK:   Low pair
+
+HAND:   2C 4H 7C 9D JC
+RANK:   J high
+
+HAND:   6S 7C JD QD KC
+RANK:   K high
+
+HAND:   2C 3C 5C 6H QC
+RANK:   Q high
+
+HAND:   3S 4C 8S 9C AH
+RANK:   A high
+
+HAND:   6S 7S 9S KS AD
+RANK:   A high
+
+HAND:   3C 7H 8C JD KH
+RANK:   K high
+
+HAND:   3D 4H 4C 4S AS
+RANK:   Three of a kind
+
+HAND:   2H 4H 8H 9D QH
+RANK:   Q high
+
+HAND:   4C 7H 9C KS AS
+RANK:   A high
+
+HAND:   5H 7S 8D 8C 8H
+RANK:   Three of a kind
+
+HAND:   3D 6S 7H QH KS
+RANK:   K high
+
+HAND:   7C 7H 9S JC AS
+RANK:   Low pair
+
+HAND:   2C 5S 6H 8S 10S
+RANK:   10 high
+
+HAND:   4D 4S 5D 5S 9C
+RANK:   Two pair
+
+HAND:   2S 8S 8C QS AS
+RANK:   Low pair
+
+HAND:   5S 9S 10C QH AD
+RANK:   A high
+
+HAND:   2C 2H JC QS AH
+RANK:   Low pair
+
+HAND:   2H 6S 8C 10D AS
+RANK:   A high
+
+HAND:   2D 4H 6S 7H 10S
+RANK:   10 high
+
+HAND:   4C 8D QD AH AC
+RANK:   High pair
+
+HAND:   2D 4S 5C 7H QS
+RANK:   Q high
+
+HAND:   5C 7C 9S KH AS
+RANK:   A high
+
+HAND:   2C 5C 7D 9D 10D
+RANK:   10 high
+
+HAND:   2D 4H 5H JD KC
+RANK:   K high
+
+HAND:   4H 6H 8H JS AC
+RANK:   A high
+
+HAND:   3D 5D 7D 8H QC
+RANK:   Q high
+
+HAND:   3S 7S 8S 8D JD
+RANK:   Low pair
+
+HAND:   6H 9C 9S QC QH
+RANK:   Two pair
+
+HAND:   5C 8D 10H JD JS
+RANK:   High pair
+
+HAND:   3H 6C 7S JC QC
+RANK:   Q high
+
+HAND:   4H 6H 6C 7C 9C
+RANK:   Low pair
+
+HAND:   2C 4H 4S QS KC
+RANK:   Low pair
+
+HAND:   3H 4D 9C QS AH
+RANK:   A high
+
+HAND:   5S 6D 10H KH AC
+RANK:   A high
+
+HAND:   2S 2C 3C JH JC
+RANK:   Two pair
+
+HAND:   2S 3C 5H 10H AC
+RANK:   A high
+
+HAND:   7H 9S 10C JH KS
+RANK:   K high
+
+HAND:   3C 4H 6S JS KD
+RANK:   K high
+
+HAND:   3C 5C 8D 10H QS
+RANK:   Q high
+
+HAND:   2C 3C 3S 8H QS
+RANK:   Low pair
+
+HAND:   7S 8H 9S KD AH
+RANK:   A high
+
+HAND:   10S JC KH KD AS
+RANK:   High pair
+
+HAND:   2D 3H 6S 10S KD
+RANK:   K high
+
+HAND:   2C 10S 10C QS AH
+RANK:   High pair
+
+HAND:   2C 3D 3C JD AH
+RANK:   Low pair
+
+HAND:   3S 5C 6H QH QD
+RANK:   High pair
+
+HAND:   5S 6D 6C 8D JS
+RANK:   Low pair
+
+HAND:   3H 6S 8D JS KS
+RANK:   K high
+
+HAND:   2D 4S 5D 8C AC
+RANK:   A high
+
+HAND:   3C 3H 6S 9D KS
+RANK:   Low pair
+
+HAND:   3D 3S 5D 9C 9H
+RANK:   Two pair
+
+HAND:   2D 2H 3D 4D AH
+RANK:   Low pair
+
+HAND:   7D 9H 10S JS QD
+RANK:   Q high
+
+HAND:   4C 8C QD QC AH
+RANK:   High pair
+
+HAND:   3D 5S 9D 9H 10C
+RANK:   Low pair
+
+HAND:   2D 2C 8C JD JS
+RANK:   Two pair
+
+HAND:   2S 5C 6C 8C JH
+RANK:   J high
+
+HAND:   2H 3D 6H 8C 9D
+RANK:   9 high
+
+HAND:   3C 4C 8D 8S JD
+RANK:   Low pair
+
+HAND:   2D 2C 6C 6S 7H
+RANK:   Two pair
+
+HAND:   2C 8C JS QC AD
+RANK:   A high
+
+HAND:   4H 4S 6D QS QD
+RANK:   Two pair
+
+HAND:   2C 7S 10C KD AD
+RANK:   A high
+
+HAND:   5D 6H 7H JC JD
+RANK:   High pair
+
+HAND:   8D 9S 9D 10C JS
+RANK:   Low pair
+
+HAND:   6C 8H 8C 10H JC
+RANK:   Low pair
+
+HAND:   3C 4C 7H 10C KC
+RANK:   K high
+
+HAND:   3H 5D 8H 8D 10S
+RANK:   Low pair
+
+HAND:   4C 5D 6C 10S QD
+RANK:   Q high
+
+HAND:   4D 6H 8S 10C JC
+RANK:   J high
+
+HAND:   5H 6D 9S 10H JD
+RANK:   J high
+
+HAND:   2D 3D 4S 9C QS
+RANK:   Q high
+
+HAND:   2D 7H 9C 10H JC
+RANK:   J high
+
+HAND:   7D 7C 8H 8C JD
+RANK:   Two pair
+
+HAND:   3S 4C 10H JC AS
+RANK:   A high
+
+HAND:   3H 5H 10S QS KC
+RANK:   K high
+
+HAND:   3S 8D 10C JS AH
+RANK:   A high
+
+HAND:   5S 6S 9C QD KH
+RANK:   K high
+
+HAND:   2H 5D 6H 9C QD
+RANK:   Q high
+
+HAND:   6H 7S 8D KC KS
+RANK:   High pair
+
+HAND:   5H 6S 6D JC QD
+RANK:   Low pair
+
+HAND:   4C 7S 8D QC KS
+RANK:   K high
+
+HAND:   4D 4H 9C 9D JH
+RANK:   Two pair
+
+HAND:   2H 4S 5C 6C 8H
+RANK:   8 high
+
+HAND:   QC QH KD KC AC
+RANK:   Two pair
+
+HAND:   3S 6S 6C JD AC
+RANK:   Low pair
+
+HAND:   6D 7C 10D QS AD
+RANK:   A high
+
+HAND:   4D 6D 7H 8S 10H
+RANK:   10 high
+
+HAND:   3D 5C 6C 8C AS
+RANK:   A high
+
+HAND:   2D 4C 4S 5C 7S
+RANK:   Low pair
+
+HAND:   8H 9C 10C JD AC
+RANK:   A high
+
+HAND:   2C 6H 6C 8H JD
+RANK:   Low pair
+
+HAND:   4C 7S JD KD AD
+RANK:   A high
+
+HAND:   2D 8S JS QD AS
+RANK:   A high
+
+HAND:   5S 7D 10D JD AC
+RANK:   A high
+
+HAND:   3H 4C 5C QD KH
+RANK:   K high
+
+HAND:   7D 7C 8D JS QC
+RANK:   Low pair
+
+HAND:   2C 3C 7C QD AC
+RANK:   A high
+
+HAND:   9H 9C 10S JC AC
+RANK:   Low pair
+
+HAND:   3H 3C 4D 9H KS
+RANK:   Low pair
+
+HAND:   3D 5C 9C JC AD
+RANK:   A high
+
+HAND:   2D 3C 9C JS QC
+RANK:   Q high
+
+HAND:   3D 4C 8H KD AH
+RANK:   A high
+
+HAND:   9D 10S JS QH KC
+RANK:   Straight
+
+HAND:   2H 3C 4H QS KD
+RANK:   K high
+
+HAND:   2D 3C 6S 7H 9C
+RANK:   9 high
+
+HAND:   2H 2C 7C 10D KD
+RANK:   Low pair
+
+HAND:   3D 9H QC AH AS
+RANK:   High pair
+
+HAND:   8D 10H 10C KC AC
+RANK:   High pair
+
+HAND:   9S QS QH KD KC
+RANK:   Two pair
+
+HAND:   3S 10H JD QS AH
+RANK:   A high
+
+HAND:   6H 8S 8H QC AS
+RANK:   Low pair
+
+HAND:   2S 7C 9H QS KS
+RANK:   K high
+
+HAND:   3H 5H 6C 9C QH
+RANK:   Q high
+
+HAND:   2D 7C 8S 10C QH
+RANK:   Q high
+
+HAND:   8C 10S JS AH AD
+RANK:   High pair
+
+HAND:   4H 8C 8S JS KD
+RANK:   Low pair
+
+HAND:   2H 5C 9S JH AH
+RANK:   A high
+
+HAND:   6C 7D 8D QC AH
+RANK:   A high
+
+HAND:   3C 6H 8C 9S AD
+RANK:   A high
+
+HAND:   3S 3D 6C JC JH
+RANK:   Two pair
+
+HAND:   2D 6H 9H JD AH
+RANK:   A high
+
+HAND:   3D 6S 9H JC KS
+RANK:   K high
+
+HAND:   2C 5H 10D JC QC
+RANK:   Q high
+
+HAND:   7C 8H 8S JS AH
+RANK:   Low pair
+
+HAND:   5H 6C JH AH AS
+RANK:   High pair
+
+HAND:   3D 6S 10S KH KC
+RANK:   High pair
+
+HAND:   4C 7S 7D JD QD
+RANK:   Low pair
+
+HAND:   3C 4C 5S 10S AH
+RANK:   A high
+
+HAND:   2S 8S 9C KC AC
+RANK:   A high
+
+HAND:   2H 5S 7D 9H QH
+RANK:   Q high
+
+HAND:   3H 4C 6D 8S 9H
+RANK:   9 high
+
+HAND:   3H 6S 6H 10D 10C
+RANK:   Two pair
+
+HAND:   9D 10S 10C QH KD
+RANK:   High pair
+
+HAND:   4H 7D 9D QH AS
+RANK:   A high
+
+HAND:   3S 5H 8S QS AS
+RANK:   A high
+
+HAND:   3H 3C 4S 4D 9C
+RANK:   Two pair
+
+HAND:   6S 7S 9D QD QC
+RANK:   High pair
+
+HAND:   3D 7S 7C JS QH
+RANK:   Low pair
+
+HAND:   3D 6D 8D JD QC
+RANK:   Q high
+
+HAND:   2S 2C 6D 7D JC
+RANK:   Low pair
+
+HAND:   2C 8D 8C QS KD
+RANK:   Low pair
+
+HAND:   5D 8C 9D 9C JS
+RANK:   Low pair
+
+HAND:   5D 8S 9H 10H AS
+RANK:   A high
+
+HAND:   2H 3C 4H 10H QH
+RANK:   Q high
+
+HAND:   2C 5H JC JS QS
+RANK:   High pair
+
+HAND:   4S 5H 9S 10D KS
+RANK:   K high
+
+HAND:   10D JS KC AC AS
+RANK:   High pair
+
+HAND:   3H 9H QC KH AS
+RANK:   A high
+
+HAND:   2H 4D 6H AC AD
+RANK:   High pair
+
+HAND:   3S 5D 8C 10D 10C
+RANK:   High pair
+
+HAND:   5H 8S 8D JC AH
+RANK:   Low pair
+
+HAND:   2C 4H 4S QH KS
+RANK:   Low pair
+
+HAND:   5H 6D 7D 8H 10D
+RANK:   10 high
+
+HAND:   7D 7S 8C 10H 10S
+RANK:   Two pair
+
+HAND:   3S 4D 6C QH AH
+RANK:   A high
+
+HAND:   2S 4S 7H 8S QS
+RANK:   Q high
+
+HAND:   5S 6S 8C JD JH
+RANK:   High pair
+
+HAND:   2H 6C 7H 10H AS
+RANK:   A high
+
+HAND:   2C 4C 5S 10S AC
+RANK:   A high
+
+HAND:   2D 3H 6S 10D JC
+RANK:   J high
+
+HAND:   6S 10C QS KD AH
+RANK:   A high
+
+HAND:   3H 8S 8D 10S JD
+RANK:   Low pair
+
+HAND:   2S 6H 7D QS KS
+RANK:   K high
+
+HAND:   4H 9C 10D 10C KH
+RANK:   High pair
+
+HAND:   4S 4D 6C KD AD
+RANK:   Low pair
+
+HAND:   3S 6S 8C QC AD
+RANK:   A high
+
+HAND:   3H 5S KC KS AH
+RANK:   High pair
+
+HAND:   2H 3D 7C 10H KS
+RANK:   K high
+
+HAND:   3S 5D 6S 9C QD
+RANK:   Q high
+
+HAND:   4D 7H 8C 9C AC
+RANK:   A high
+
+HAND:   4D 6H 6D KS AS
+RANK:   Low pair
+
+HAND:   3H 5H 7H 8C 10C
+RANK:   10 high
+
+HAND:   3D 3H 4H 4C 7S
+RANK:   Two pair
+
+HAND:   2H 3H 6H 6C 9D
+RANK:   Low pair
+
+HAND:   2S 6H 10D QS KH
+RANK:   K high
+
+HAND:   4H 7D 8C 10S QD
+RANK:   Q high
+
+HAND:   4S 5S 5D 7S 8S
+RANK:   Low pair
+
+HAND:   4D JS QD AS AC
+RANK:   High pair
+
+HAND:   4C 7D 8S JH KD
+RANK:   K high
+
+HAND:   4C 5H 6C 7C 9H
+RANK:   9 high
+
+HAND:   5S 7S 10C AH AS
+RANK:   High pair
+
+HAND:   5C 7C 9D 9H QD
+RANK:   Low pair
+
+HAND:   2S 5H 9D 10H AS
+RANK:   A high
+
+HAND:   2D 5C 5D 6S 10D
+RANK:   Low pair
+
+HAND:   5S 8H 9C 9S AD
+RANK:   Low pair
+
+HAND:   5D 7S 9D KH AD
+RANK:   A high
+
+HAND:   3C 8H 9H JS KS
+RANK:   K high
+
+HAND:   3H 4D 8S KH AC
+RANK:   A high
+
+HAND:   3C 5S 6H 7C 8H
+RANK:   8 high
+
+HAND:   2D 7H JH KH AC
+RANK:   A high
+
+HAND:   2H 2C 4H 6H QD
+RANK:   Low pair
+
+HAND:   2C 4S 5H JC AH
+RANK:   A high
+
+HAND:   9C 10C JH QD KH
+RANK:   Straight
+
+HAND:   3C 5C 6D 6H JS
+RANK:   Low pair
+
+HAND:   3H 5C 6H 9S QC
+RANK:   Q high
+
+HAND:   2S 8C QC AC AD
+RANK:   High pair
+
+HAND:   4S 5D 10S QC KC
+RANK:   K high
+
+HAND:   5D 5H 6H 7C 10D
+RANK:   Low pair
+
+HAND:   4S 6C JS QH KH
+RANK:   K high
+
+HAND:   2S 4D 6S 8S 9C
+RANK:   9 high
+
+HAND:   4H 8H QS AC AD
+RANK:   High pair
+
+HAND:   2D 5C 10C 10D AH
+RANK:   High pair
+
+HAND:   6C 7H 7D QH AS
+RANK:   Low pair
+
+HAND:   3H 8S 9H 10S QH
+RANK:   Q high
+
+HAND:   3D 4C 9H 9C KH
+RANK:   Low pair
+
+HAND:   2S 7D 8C 10H QC
+RANK:   Q high
+
+HAND:   2H 6D 10H QC AD
+RANK:   A high
+
+HAND:   4H 5H JC AH AS
+RANK:   High pair
+
+HAND:   4H 7S 8S JC AC
+RANK:   A high
+
+HAND:   4S 7H 7D 8D QD
+RANK:   Low pair
+
+HAND:   2S 4H QS KS KC
+RANK:   High pair
+
+HAND:   6S 8H 9S QS KS
+RANK:   K high
+
+HAND:   2C 4D 7C 8S AS
+RANK:   A high
+
+HAND:   5H 6C 7S KS AC
+RANK:   A high
+
+HAND:   3C 5C 7S 9H AS
+RANK:   A high
+
+HAND:   2H 5H QS QC AC
+RANK:   High pair
+
+HAND:   2C 3C 3D 5D AD
+RANK:   Low pair
+
+HAND:   2C 3H 9H KC AS
+RANK:   A high
+
+HAND:   4S 7D 10H JS AS
+RANK:   A high
+
+HAND:   2S 3H 7S AD AH
+RANK:   High pair
+
+HAND:   3H 5C 7H 8C AD
+RANK:   A high
+
+HAND:   2C 4D QC KS AS
+RANK:   A high
+
+HAND:   2C 6H 7D 7H 8C
+RANK:   Low pair
+
+HAND:   3S 4S 10D JH KS
+RANK:   K high
+
+HAND:   3C 5C 6S JD KH
+RANK:   K high
+
+HAND:   2C 3D 5C 5S KD
+RANK:   Low pair
+
+HAND:   2C 5D 6C KD AC
+RANK:   A high
+
+HAND:   6D 8D 10D JS KD
+RANK:   K high
+
+HAND:   3D 10D KC KD AH
+RANK:   High pair
+
+HAND:   4D 5H 7S JC KH
+RANK:   K high
+
+HAND:   2S 2C 8C QS KH
+RANK:   Low pair
+
+HAND:   6D 7C 8D 8S AS
+RANK:   Low pair
+
+HAND:   2H 9D 10D JH QS
+RANK:   Q high
+
+HAND:   2S 6C JC KC AH
+RANK:   A high
+
+HAND:   2S 3S 7D JS QS
+RANK:   Q high
+
+HAND:   5C 7S 8D 9C AD
+RANK:   A high
+
+HAND:   5H 6H 8D 10C QH
+RANK:   Q high
+
+HAND:   3C 6C 6D 9D 9S
+RANK:   Two pair
+
+HAND:   3C 3S 6H AS AH
+RANK:   Two pair
+
+HAND:   3D 3H 5H 7D 10D
+RANK:   Low pair
+
+HAND:   7H 10H JS QH AH
+RANK:   A high
+
+HAND:   3C 3H 8C 9S 9C
+RANK:   Two pair
+
+HAND:   3D 4S 7C JH KC
+RANK:   K high
+
+HAND:   2C 2D 7D 7H JS
+RANK:   Two pair
+
+HAND:   6H 6S 6D 7S JC
+RANK:   Three of a kind
+
+HAND:   3D 5S 7S JH KS
+RANK:   K high
+
+HAND:   2H 4H 6C KS KH
+RANK:   High pair
+
+HAND:   3S 5H 7D 8S JC
+RANK:   J high
+
+HAND:   2D 3H 4H 10C AS
+RANK:   A high
+
+HAND:   3C 4D JH QC AH
+RANK:   A high
+
+HAND:   3D 6C 6S 6D QH
+RANK:   Three of a kind
+
+HAND:   2H 6S 7H 8S KC
+RANK:   K high
+
+HAND:   2S 5D 6S 8H JH
+RANK:   J high
+
+HAND:   5C JD QC KH KD
+RANK:   High pair
+
+HAND:   5D 5H 7H 10C QD
+RANK:   Low pair
+
+HAND:   2C 8H 9C 9H KD
+RANK:   Low pair
+
+HAND:   3C 3H 9S 9H 10C
+RANK:   Two pair
+
+HAND:   2S 6C 7H 8D KD
+RANK:   K high
+
+HAND:   3C 7C JD KH AD
+RANK:   A high
+
+HAND:   3D 5D 10D QC KH
+RANK:   K high
+
+HAND:   3H 5C 8D JD QC
+RANK:   Q high
+
+HAND:   4D 8S JC KD AC
+RANK:   A high
+
+HAND:   2D 5C 6H JS JH
+RANK:   High pair
+
+HAND:   5S 6H 7C 10D AH
+RANK:   A high
+
+HAND:   3H 9S 10S QD KH
+RANK:   K high
+
+HAND:   3D 10H 10S QD KS
+RANK:   High pair
+
+HAND:   3C 4H 7C KC AD
+RANK:   A high
+
+HAND:   2C 7H 8D 9H 9S
+RANK:   Low pair
+
+HAND:   2D 7S 7C QD KC
+RANK:   Low pair
+
+HAND:   2D 5D 5C 9H 10S
+RANK:   Low pair
+
+HAND:   2H 4H 6S QS AD
+RANK:   A high
+
+HAND:   2H 4H 5S 6S 8S
+RANK:   8 high
+
+HAND:   2S 3C 3S 10C QS
+RANK:   Low pair
+
+HAND:   2C 6S 10S JD QD
+RANK:   Q high
+
+HAND:   3H 4D 5D 8S KH
+RANK:   K high
+
+HAND:   3S 5H 8D 9S 10C
+RANK:   10 high
+
+HAND:   2H 3S 5C 5S 9S
+RANK:   Low pair
+
+HAND:   3D 9D 9C QD KS
+RANK:   Low pair
+
+HAND:   4S 5S 6C 7C 8S
+RANK:   Straight
+
+HAND:   2C 5D 7S 7D 10S
+RANK:   Low pair
+
+HAND:   3S 4D QD KC KS
+RANK:   High pair
+
+HAND:   2H 3C 4S 5C 10C
+RANK:   10 high
+
+HAND:   5H 6D 6H 8C JS
+RANK:   Low pair
+
+HAND:   3D 4C JH QD KH
+RANK:   K high
+
+HAND:   2D 3C 5S 6C QC
+RANK:   Q high
+
+HAND:   2H 6S 7D QH QS
+RANK:   High pair
+
+HAND:   2D 3D 5H 6D 7H
+RANK:   7 high
+
+HAND:   3D 7S QH QD KS
+RANK:   High pair
+
+HAND:   2C 6D 6S QD QS
+RANK:   Two pair
+
+HAND:   7C QS QD KD KC
+RANK:   Two pair
+
+HAND:   4H 4S 5C 8S 10C
+RANK:   Low pair
+
+HAND:   2C 10S JD JC QS
+RANK:   High pair
+
+HAND:   4D 5D JC JD KC
+RANK:   High pair
+
+HAND:   3C 5C 6D 7D 9S
+RANK:   9 high
+
+HAND:   2D 2S 3S 5C 9C
+RANK:   Low pair
+
+HAND:   5H 5D 6S 9C 10C
+RANK:   Low pair
+
+HAND:   5H 6C 8S 9H 10C
+RANK:   10 high
+
+HAND:   5D 5S 6S 8H 9C
+RANK:   Low pair
+
+HAND:   2S 3D 5H 9S 9C
+RANK:   Low pair
+
+HAND:   2H 5C 9S KC AD
+RANK:   A high
+
+HAND:   8C 9D 10C JC QH
+RANK:   Straight
+
+HAND:   5H 5C 8C 9H AC
+RANK:   Low pair
+
+HAND:   3C 3H 3S 4S 8H
+RANK:   Three of a kind
+
+HAND:   6S 7H 7S 8S AD
+RANK:   Low pair
+
+HAND:   3D 4S 10S JC QH
+RANK:   Q high
+
+HAND:   6H JD JS QD AH
+RANK:   High pair
+
+HAND:   2C 3H JS QC AS
+RANK:   A high
+
+HAND:   5S 5H 6S 10H KS
+RANK:   Low pair
+
+HAND:   4D 4H 6C 7S 9S
+RANK:   Low pair
+
+HAND:   6C 7C QH AD AS
+RANK:   High pair
+
+HAND:   6D 6H 10H QD AD
+RANK:   Low pair
+
+HAND:   4H 5C 7C 8D KS
+RANK:   K high
+
+HAND:   2H 6D JH JD KC
+RANK:   High pair
+
+HAND:   2H 5C 9C 10S AH
+RANK:   A high
+
+HAND:   6C 6S 7H 9S KH
+RANK:   Low pair
+
+HAND:   2H 7C 9D 9H QH
+RANK:   Low pair
+
+HAND:   4C 9D 10C 10H QC
+RANK:   High pair
+
+HAND:   3S 5H 8D 10D QD
+RANK:   Q high
+
+HAND:   2C 5C 6D QD AS
+RANK:   A high
+
+HAND:   3C 4S 7C 8D 10H
+RANK:   10 high
+
+HAND:   4H 8S 8H 9D 10S
+RANK:   Low pair
+
+HAND:   5H 6D 8H 10D JD
+RANK:   J high
+
+HAND:   3H 4C 5H 7C AH
+RANK:   A high
+
+HAND:   5C 8S 9C 10H JS
+RANK:   J high
+
+HAND:   3S 4D 9H JS QS
+RANK:   Q high
+
+HAND:   5S 6C QD KD AH
+RANK:   A high
+
+HAND:   2D 7C 8C 9H 10C
+RANK:   10 high
+
+HAND:   8C 8H JC QC AH
+RANK:   Low pair
+
+HAND:   7C 8S 9D 10D QH
+RANK:   Q high
+
+HAND:   6S 6H 6C 8D 10S
+RANK:   Three of a kind
+
+HAND:   4C 6S 7C 10C QH
+RANK:   Q high
+
+HAND:   3H 4D 6D 7D AC
+RANK:   A high
+
+HAND:   5H 9H 10H JH QD
+RANK:   Q high
+
+HAND:   3D 3H 4D 7S QC
+RANK:   Low pair
+
+HAND:   4H 5C 5D 7S 10H
+RANK:   Low pair
+
+HAND:   5S QD QS QC AS
+RANK:   Three of a kind
+
+HAND:   2D 4C 7D QH KC
+RANK:   K high
+
+HAND:   4C 8H 8D KH AS
+RANK:   Low pair
+
+HAND:   3C 5S 9S QD AD
+RANK:   A high
+
+HAND:   2D JH QH KD AH
+RANK:   A high
+
+HAND:   2H 4C 6D JC JD
+RANK:   High pair
+
+HAND:   5C 6S 7C 7H QD
+RANK:   Low pair
+
+HAND:   4C 5D 10D QD KD
+RANK:   K high
+
+HAND:   2S 2D 5S 8H 8S
+RANK:   Two pair
+
+HAND:   3H 4D 9D 9H JS
+RANK:   Low pair
+
+HAND:   2C 5D 8D KS AH
+RANK:   A high
+
+HAND:   3S 6D JS JH QH
+RANK:   High pair
+
+HAND:   5D 7H 10H 10S QD
+RANK:   High pair
+
+HAND:   3D 5D 7H 8C QS
+RANK:   Q high
+
+HAND:   3C 3S 5S 10S 10D
+RANK:   Two pair
+
+HAND:   4C 6H 8H 8D JD
+RANK:   Low pair
+
+HAND:   3H 6S 8D 10C AH
+RANK:   A high
+
+HAND:   3H 6S JC KS AH
+RANK:   A high
+
+HAND:   6S 7C 10D JH JD
+RANK:   High pair
+
+HAND:   2C 5S 6H 10H KD
+RANK:   K high
+
+HAND:   7S 7D JD KC AD
+RANK:   Low pair
+
+HAND:   4C 8S 9S JC KC
+RANK:   K high
+
+HAND:   7C 8C 9H 10H AS
+RANK:   A high
+
+HAND:   2C 4H 4S 10H QH
+RANK:   Low pair
+
+HAND:   9H 10D JS QD AS
+RANK:   A high
+
+HAND:   3C 5H 6D 7H 9H
+RANK:   9 high
+
+HAND:   4D 6H 9S KH AS
+RANK:   A high
+
+HAND:   4D 6D JS JC QH
+RANK:   High pair
+
+HAND:   4S 5H 6H 7C QC
+RANK:   Q high
+
+HAND:   4H 9S QD KC AH
+RANK:   A high
+
+HAND:   7S 9H 9D 9C AD
+RANK:   Three of a kind
+
+HAND:   3D 6D JC QH AS
+RANK:   A high
+
+HAND:   2S 8H 9D KC AD
+RANK:   A high
+
+HAND:   6H 6D KC KH AD
+RANK:   Two pair
+
+HAND:   3D 6D 10D QD AS
+RANK:   A high
+
+HAND:   2S 2H 10C QD AD
+RANK:   Low pair
+
+HAND:   2H 6C 6D KH KS
+RANK:   Two pair
+
+HAND:   2C 4D 5D 9H KH
+RANK:   K high
+
+HAND:   2H 3D 8S 10D AD
+RANK:   A high
+
+HAND:   3H 4H 5C 5D JS
+RANK:   Low pair
+
+HAND:   4C 4H 10S JC QC
+RANK:   Low pair
+
+HAND:   2D 7H 8H KC AH
+RANK:   A high
+
+HAND:   5D 7S 8H KH AH
+RANK:   A high
+
+HAND:   7C 7S 8C 8S QS
+RANK:   Two pair
+
+HAND:   8D JC KD KC AS
+RANK:   High pair
+
+HAND:   3H 6C 7D 9C QD
+RANK:   Q high
+
+HAND:   4H 4S 9H 9D QS
+RANK:   Two pair
+
+HAND:   3D 6C 7C JC KS
+RANK:   K high
+
+HAND:   3D JC QC QH AC
+RANK:   High pair
+
+HAND:   2S 6H 6C 8S KS
+RANK:   Low pair
+
+HAND:   3S 5D JH QD AS
+RANK:   A high
+
+HAND:   3H 7S 9S KH AS
+RANK:   A high
+
+HAND:   2H 8D QD KS KH
+RANK:   High pair
+
+HAND:   4D 4H 5C AS AC
+RANK:   Two pair
+
+HAND:   5S 6H 8C JS QS
+RANK:   Q high
+
+HAND:   4D 10C QS KC AH
+RANK:   A high
+
+HAND:   2H 10C 10D QS AC
+RANK:   High pair
+
+HAND:   4H 7D 9H JS JC
+RANK:   High pair
+
+HAND:   6S 8H JD JH KH
+RANK:   High pair
+
+HAND:   5D 7D 7H JD AD
+RANK:   Low pair
+
+HAND:   5S 8D 8H KC AS
+RANK:   Low pair
+
+HAND:   2D 3D 6D 9C QS
+RANK:   Q high
+
+HAND:   3S 4D 4C 8H 9C
+RANK:   Low pair
+
+HAND:   5D 6D 10S JC JD
+RANK:   High pair
+
+HAND:   2H 3H 6H 6C 8H
+RANK:   Low pair
+
+HAND:   3D 3S 4D 7C KD
+RANK:   Low pair
+
+HAND:   2S 7C QC AC AD
+RANK:   High pair
+
+HAND:   3C 3D 4C 4S JD
+RANK:   Two pair
+
+HAND:   3C 5S 7H 8C QS
+RANK:   Q high
+
+HAND:   2D 3H 8S JD AD
+RANK:   A high
+
+HAND:   7C 9C 10D QH QC
+RANK:   High pair
+
+HAND:   5D 6C 7C 9C JS
+RANK:   J high
+
+HAND:   5C 7H 10S JC QC
+RANK:   Q high
+
+HAND:   3D 3C JD JS KS
+RANK:   Two pair
+
+HAND:   4S 4C 5C 5H JS
+RANK:   Two pair
+
+HAND:   4D 7H 7S KH AC
+RANK:   Low pair
+
+HAND:   2H 5H 6C 7D 10S
+RANK:   10 high
+
+HAND:   4D 5D 7H 10D QH
+RANK:   Q high
+
+HAND:   3S 6C 7C 7H 7D
+RANK:   Three of a kind
+
+HAND:   2D 8S QH KD AS
+RANK:   A high
+
+HAND:   8S 9S 9D QC KD
+RANK:   Low pair
+
+HAND:   6S 7S 8C KS AS
+RANK:   A high
+
+HAND:   2C 3D 7S 9H QS
+RANK:   Q high
+
+HAND:   9D JD QC KH KD
+RANK:   High pair
+
+HAND:   2D 5S 5D 8S AC
+RANK:   Low pair
+
+HAND:   4C 7C 9D KS AS
+RANK:   A high
+
+HAND:   6C 6S 9S 10C AC
+RANK:   Low pair
+
+HAND:   2S 3H 3D 8C JC
+RANK:   Low pair
+
+HAND:   5D 5H 7D JC AH
+RANK:   Low pair
+
+HAND:   5D 5S 6S 6C 10C
+RANK:   Two pair
+
+HAND:   2D 2S 7S 9H 9C
+RANK:   Two pair
+
+HAND:   7S 9D 9C 10C AC
+RANK:   Low pair
+
+HAND:   2D 6D 7S JD KC
+RANK:   K high
+
+HAND:   3H 3D 3C 6S 10C
+RANK:   Three of a kind
+
+HAND:   5C 7H 7S JH AD
+RANK:   Low pair
+
+HAND:   6H 7D 8S 10S JS
+RANK:   J high
+
+HAND:   3D 4S 8H 9H QH
+RANK:   Q high
+
+HAND:   5H 5D 6H 7H 8D
+RANK:   Low pair
+
+HAND:   2D 6D 7D JH KS
+RANK:   K high
+
+HAND:   5D 7S 10S QC KH
+RANK:   K high
+
+HAND:   3S 5H 9S JC KC
+RANK:   K high
+
+HAND:   3H 4D 9D 9S 10S
+RANK:   Low pair
+
+HAND:   2S 3S 3D 8H 8S
+RANK:   Two pair
+
+HAND:   7S 8H 9C QD KC
+RANK:   K high
+
+HAND:   3D 7H 9C KC KS
+RANK:   High pair
+
+HAND:   5H 5C 6H 8C AS
+RANK:   Low pair
+
+HAND:   4S 7D 7C 8H 9H
+RANK:   Low pair
+
+HAND:   4D 6S 7D 9C AS
+RANK:   A high
+
+HAND:   3S 3C 8C JS QC
+RANK:   Low pair
+
+HAND:   3D 3S 8H QS AS
+RANK:   Low pair
+
+HAND:   3H 5S 5H KS KD
+RANK:   Two pair
+
+HAND:   5S 6H 7S 9S AC
+RANK:   A high
+
+HAND:   6C 8C 10D JD QD
+RANK:   Q high
+
+HAND:   2S 5D 7C 8S QH
+RANK:   Q high
+
+HAND:   6H 6S 10H 10D QH
+RANK:   Two pair
+
+HAND:   2D 3C 5C 8D QC
+RANK:   Q high
+
+HAND:   6H 6D 7C 8C 10D
+RANK:   Low pair
+
+HAND:   2D 7S 9H JH AD
+RANK:   A high
+
+HAND:   3H 5H 7C KD AH
+RANK:   A high
+
+HAND:   4C 5C 8D JS QS
+RANK:   Q high
+
+HAND:   4H 7C 8C 10D JH
+RANK:   J high
+
+HAND:   3D 4S 5S 7S JD
+RANK:   J high
+
+HAND:   5S 6S JS JD QD
+RANK:   High pair
+
+HAND:   5D 8C JD KD KS
+RANK:   High pair
+
+HAND:   7S 8C 9H JS QH
+RANK:   Q high
+
+HAND:   8D 9S 9H 10D JH
+RANK:   Low pair
+
+HAND:   2H 7D 9S QH AH
+RANK:   A high
+
+HAND:   3D 5D 6S 8S 10D
+RANK:   10 high
+
+HAND:   4D 9C 9S 10S QH
+RANK:   Low pair
+
+HAND:   3S 3H 8S JS QC
+RANK:   Low pair
+
+HAND:   3H 4S 6C QC AD
+RANK:   A high
+
+HAND:   5C 6D 7H 8C AH
+RANK:   A high
+
+HAND:   3S 7H 8S JC KH
+RANK:   K high
+
+HAND:   2S 4C 9H QH AH
+RANK:   A high
+
+HAND:   4H 9C 10S JC QH
+RANK:   Q high
+
+HAND:   2C 2S 3C 4H 8S
+RANK:   Low pair
+
+HAND:   2H 2C 6S KD AC
+RANK:   Low pair
+
+HAND:   7D JS JH QS AH
+RANK:   High pair
+
+HAND:   4D 7D 7C JC AC
+RANK:   Low pair
+
+HAND:   2C 4C 7D 8D 9H
+RANK:   9 high
+
+HAND:   3S 10H QS KD AC
+RANK:   A high
+
+HAND:   2S 5H 9H 10H AH
+RANK:   A high
+
+HAND:   5S 9C 10S JS QH
+RANK:   Q high
+
+HAND:   2S 3H 8C 8H AD
+RANK:   Low pair
+
+HAND:   7S 8D 8C QS AH
+RANK:   Low pair
+
+HAND:   2H 3S 10S 10C KC
+RANK:   High pair
+
+HAND:   2C 3S 4D 9D AC
+RANK:   A high
+
+HAND:   3D 4D 5S 7D AC
+RANK:   A high
+
+HAND:   4S 9C QD AS AH
+RANK:   High pair
+
+HAND:   6S 8S 9H 10C QD
+RANK:   Q high
+
+HAND:   3C 9D QH KH AD
+RANK:   A high
+
+HAND:   3H 4S 9H QD KH
+RANK:   K high
+
+HAND:   7H 8D 8H 10C QC
+RANK:   Low pair
+
+HAND:   3H 7C QS KS AH
+RANK:   A high
+
+HAND:   5C 8C 10S KS AC
+RANK:   A high
+
+HAND:   3D 4S 6D 7D AS
+RANK:   A high
+
+HAND:   4H 5C 10S QH AD
+RANK:   A high
+
+HAND:   4H 4S 4D AC AD
+RANK:   Full house
+
+HAND:   3C 7C 10C JD KD
+RANK:   K high
+
+HAND:   5D 7C 8S 10D JS
+RANK:   J high
+
+HAND:   2S 3D 7H KH AH
+RANK:   A high
+
+HAND:   3C 3S 8C 8S QS
+RANK:   Two pair
+
+HAND:   2H 3C 3D 5C 8H
+RANK:   Low pair
+
+HAND:   2D 2S 4C 7D JS
+RANK:   Low pair
+
+HAND:   3H 4H 8S QC AD
+RANK:   A high
+
+HAND:   2H 6D 7C 8S 9H
+RANK:   9 high
+
+HAND:   4S 5H 6H 7D KD
+RANK:   K high
+
+HAND:   2H 5S 7D 8H 10C
+RANK:   10 high
+
+HAND:   3D 4H 6D 8S QS
+RANK:   Q high
+
+HAND:   5C 8H JD QH KS
+RANK:   K high
+
+HAND:   4D 4C 5S KS KC
+RANK:   Two pair
+
+HAND:   2H 5C 8H 10C JC
+RANK:   J high
+
+HAND:   4H 6C 7D 10C KD
+RANK:   K high
+
+HAND:   4H 8D 10S AD AH
+RANK:   High pair
+
+HAND:   3C 3D 4C 8S 10D
+RANK:   Low pair
+
+HAND:   2S 2C 3H 6C JH
+RANK:   Low pair
+
+HAND:   3H 9C 9D KS AH
+RANK:   Low pair
+
+HAND:   9C JS QS QH AS
+RANK:   High pair
+
+HAND:   2C 3H 4C 9H JS
+RANK:   J high
+
+HAND:   10D JD QS QC KC
+RANK:   High pair
+
+HAND:   4C 6D QD QC AS
+RANK:   High pair
+
+HAND:   2C 2D 6D 7C AS
+RANK:   Low pair
+
+HAND:   3S 4C 4D 8C KD
+RANK:   Low pair
+
+HAND:   3H 7S QD KH AC
+RANK:   A high
+
+HAND:   2C 2S 5S 6D 10D
+RANK:   Low pair
+
+HAND:   4S 5H 7S 9C 10D
+RANK:   10 high
+
+HAND:   2D 3C 4C 5H 6D
+RANK:   Straight
+
+HAND:   3D 6C 8C JH JC
+RANK:   High pair
+
+HAND:   6D 8S QH KS AS
+RANK:   A high
+
+HAND:   4D 5C 7H 10D QH
+RANK:   Q high
+
+HAND:   2D 3S 5C 7H AS
+RANK:   A high
+
+HAND:   4C 5H KH KC AC
+RANK:   High pair
+
+HAND:   2S 4H 5D 6C JH
+RANK:   J high
+
+HAND:   2S 7S 7C 8H AD
+RANK:   Low pair
+
+HAND:   3D 4D 5D 6C QS
+RANK:   Q high
+
+HAND:   2C 3S 4H 8C QD
+RANK:   Q high
+
+HAND:   2H 4C 7H 9H 10C
+RANK:   10 high
+
+HAND:   4C 5S 5D 7D 10C
+RANK:   Low pair
+
+HAND:   2C 3S 4C 4S 5S
+RANK:   Low pair
+
+HAND:   2H 3D 6D 6C 10H
+RANK:   Low pair
+
+HAND:   2H 5C 8C 10H JC
+RANK:   J high
+
+HAND:   6H 8H 9C 10H QS
+RANK:   Q high
+
+HAND:   2S 2H 6H 8H QH
+RANK:   Low pair
+
+HAND:   4D 9C 9S JC AD
+RANK:   Low pair
+
+HAND:   2D 3S 7S 10H JH
+RANK:   J high
+
+HAND:   2D 5D 6H 10D AD
+RANK:   A high
+
+HAND:   3C 5S 9D 10D JD
+RANK:   J high
+
+HAND:   2H 4S 8C QC AC
+RANK:   A high
+
+HAND:   2D 3D 6H 8H KC
+RANK:   K high
+
+HAND:   2S 6D 7C JD AD
+RANK:   A high
+
+HAND:   4H 6H 7H 9C 9D
+RANK:   Low pair
+
+HAND:   3C JS KS AD AS
+RANK:   High pair
+
+HAND:   2S 8S 9S 10D KH
+RANK:   K high
+
+HAND:   4D 4C 7C 9C JC
+RANK:   Low pair
+
+HAND:   10D 10C JD KD KC
+RANK:   Two pair
+
+HAND:   2D 5D 7S JD AH
+RANK:   A high
+
+HAND:   2D 2C 6D QS QC
+RANK:   Two pair
+
+HAND:   3D 6D 9C AC AD
+RANK:   High pair
+
+HAND:   2C 3D 3C 3S 6S
+RANK:   Three of a kind
+
+HAND:   4H 5C 8H AS AC
+RANK:   High pair
+
+HAND:   10S 10C JH KH KS
+RANK:   Two pair
+
+HAND:   3S 4S 6C QS QH
+RANK:   High pair
+
+HAND:   4D 8C QS QH KS
+RANK:   High pair
+
+HAND:   2S 4D 5S 8S KD
+RANK:   K high
+
+HAND:   2H 6S 9H JS QH
+RANK:   Q high
+
+HAND:   2S 3C 4D QC AH
+RANK:   A high
+
+HAND:   4D 5C 7H KC AS
+RANK:   A high
+
+HAND:   3H 8C 9S QC AC
+RANK:   A high
+
+HAND:   5H 8C 10H QD AC
+RANK:   A high
+
+HAND:   3S 9H JS QH AD
+RANK:   A high
+
+HAND:   4H 5C 9C 10C AC
+RANK:   A high
+
+HAND:   5H 10H JH KS AH
+RANK:   A high
+
+HAND:   5H 5S 7C JD KC
+RANK:   Low pair
+
+HAND:   2D 3S 7C QS AH
+RANK:   A high
+
+HAND:   3S 4H 6S 8H 9D
+RANK:   9 high
+
+HAND:   4D 9H JC QD AH
+RANK:   A high
+
+HAND:   2C 3C 5S 6H QD
+RANK:   Q high
+
+HAND:   3D 9H 10S JC AH
+RANK:   A high
+
+HAND:   4D 4H 8C QD KC
+RANK:   Low pair
+
+HAND:   2C 5H 6C 10H 10S
+RANK:   High pair
+
+HAND:   3D 5S 9S JD AS
+RANK:   A high
+
+HAND:   3H 4S 4D KS AS
+RANK:   Low pair
+
+HAND:   5S 8S 9D 10S JH
+RANK:   J high
+
+HAND:   2C 4C 5D 7H 9H
+RANK:   9 high
+
+HAND:   4C 5S 9C 10S AS
+RANK:   A high
+
+HAND:   4H 8H 9S QH AS
+RANK:   A high
+
+HAND:   2D 4C 5H 8S 9C
+RANK:   9 high
+
+HAND:   2S 4D 6S 8H 9H
+RANK:   9 high
+
+HAND:   2S 5H 5C 7D 9H
+RANK:   Low pair
+
+HAND:   5S 5D 5H KC AH
+RANK:   Three of a kind
+
+HAND:   5D 7S 8D QC KC
+RANK:   K high
+
+HAND:   4S 6D 9S 10H AH
+RANK:   A high
+
+HAND:   2C 4S 8D 9H AH
+RANK:   A high
+
+HAND:   7S 8C JD AC AD
+RANK:   High pair
+
+HAND:   5D 7D 8D 8S JD
+RANK:   Low pair
+
+HAND:   2D 7D 9C 10C QD
+RANK:   Q high
+
+HAND:   3C 6H 7D 8H 10H
+RANK:   10 high
+
+HAND:   4S 4H 6S JH JD
+RANK:   Two pair
+
+HAND:   3S 4H 4S 7S 9S
+RANK:   Low pair
+
+HAND:   3C 4S 8C 9H AS
+RANK:   A high
+
+HAND:   4H 5D 8C 10S AD
+RANK:   A high
+
+HAND:   3D 4D 5H 7H KS
+RANK:   K high
+
+HAND:   5D 6S 8H 9D 10S
+RANK:   10 high
+
+HAND:   6D 6H 7H 7C QS
+RANK:   Two pair
+
+HAND:   5S 9C QD AH AC
+RANK:   High pair
+
+HAND:   3S 6C 8C 8D QD
+RANK:   Low pair
+
+HAND:   2C 4C 5C 8H JD
+RANK:   J high
+
+HAND:   2H 5S 5H 6S JH
+RANK:   Low pair
+
+HAND:   2D 3C 7H 8H 10D
+RANK:   10 high
+
+HAND:   3S 6D 7C 10C QS
+RANK:   Q high
+
+HAND:   2C 2D 10D JH KC
+RANK:   Low pair
+
+HAND:   5S 6C 8D 9D QH
+RANK:   Q high
+
+HAND:   3C 3S 6D 7S 8C
+RANK:   Low pair
+
+HAND:   5S 7D 10D JD JC
+RANK:   High pair
+
+HAND:   3D 5H 6D 10S AH
+RANK:   A high
+
+HAND:   3C 5D 8H 9D 9S
+RANK:   Low pair
+
+HAND:   2C 7C QC KC KS
+RANK:   High pair
+
+HAND:   2D 3H 4S 9C 10D
+RANK:   10 high
+
+HAND:   4C 8S JS AH AC
+RANK:   High pair
+
+HAND:   2C 7H 9S 10D KC
+RANK:   K high
+
+HAND:   2D 5C 6D 6S AC
+RANK:   Low pair
+
+HAND:   4S 7D 8H 9H AC
+RANK:   A high
+
+HAND:   2H 3C 4S 7H QS
+RANK:   Q high
+
+HAND:   3C 4C 6H 7S 9S
+RANK:   9 high
+
+HAND:   7H 9H 10C KS AH
+RANK:   A high
+
+HAND:   2D 3D 9D JH KH
+RANK:   K high
+
+HAND:   2D 4H 5H 10C KC
+RANK:   K high
+
+HAND:   4D 5C 7S JC QD
+RANK:   Q high
+
+HAND:   6D JS JD KD AD
+RANK:   High pair
+
+HAND:   4D 5S 7D 9D QC
+RANK:   Q high
+
+HAND:   3H 5H 10H KS AS
+RANK:   A high
+
+HAND:   6D 8C 8H 9C AS
+RANK:   Low pair
+
+HAND:   4D 6D 8D 10C JS
+RANK:   J high
+
+HAND:   7D 8H JD KC AS
+RANK:   A high
+
+HAND:   5H 6S 8D JS QS
+RANK:   Q high
+
+HAND:   4S 8S 10S 10C KS
+RANK:   High pair
+
+HAND:   2H 8H 10D QD QC
+RANK:   High pair
+
+HAND:   3H 7C 8S 8C AS
+RANK:   Low pair
+
+HAND:   2S 5H QD AS AH
+RANK:   High pair
+
+HAND:   2S 4S 5H 10C QD
+RANK:   Q high
+
+HAND:   7S 8D 8C 9S 9C
+RANK:   Two pair
+
+HAND:   3D 8S 9D 10S KS
+RANK:   K high
+
+HAND:   3S 9H 10S JD QH
+RANK:   Q high
+
+HAND:   4D 7D 9H JD KS
+RANK:   K high
+
+HAND:   2D 6H 8H 10H KD
+RANK:   K high
+
+HAND:   3H 7C 8H 9S 9C
+RANK:   Low pair
+
+HAND:   3S 4H 5C 6C JH
+RANK:   J high
+
+HAND:   3S 4H 5S 8S JD
+RANK:   J high
+
+HAND:   4H 5H 10C 10H AD
+RANK:   High pair
+
+HAND:   5S 7C 9S 9C AC
+RANK:   Low pair
+
+HAND:   5S 6S 8C JC KS
+RANK:   K high
+
+HAND:   4D 6D 7D KH KC
+RANK:   High pair
+
+HAND:   7C 7H 8C 10D QC
+RANK:   Low pair
+
+HAND:   6D 8C JC QD KS
+RANK:   K high
+
+HAND:   3H 4C 5S 6C JS
+RANK:   J high
+
+HAND:   6C 6H JS JH KS
+RANK:   Two pair
+
+HAND:   5C 7C 7D 9D AD
+RANK:   Low pair
+
+HAND:   3H 4H JS KD KS
+RANK:   High pair
+
+HAND:   4S 4C 4H 10H QS
+RANK:   Three of a kind
+
+HAND:   3C 8H JD KH AS
+RANK:   A high
+
+HAND:   2C 5H 7C 8D 10D
+RANK:   10 high
+
+HAND:   7C 8H 8S 8D 9C
+RANK:   Three of a kind
+
+HAND:   7C 10H JC KH KC
+RANK:   High pair
+
+HAND:   2D 4D 9C JD AD
+RANK:   A high
+
+HAND:   2C 3S 5S 5D 8H
+RANK:   Low pair
+
+HAND:   2H 3H 6S 6D 10H
+RANK:   Low pair
+
+HAND:   3C 4H 7S JH AD
+RANK:   A high
+
+HAND:   5C 6S 8C KH KC
+RANK:   High pair
+
+HAND:   2D 6H 6D QC AS
+RANK:   Low pair
+
+HAND:   5C 6D 10H KH AC
+RANK:   A high
+
+HAND:   4C 5C 8S 9D QC
+RANK:   Q high
+
+HAND:   2S 2D 3H 7S AD
+RANK:   Low pair
+
+HAND:   3H 3C 6H 8D KD
+RANK:   Low pair
+
+HAND:   6D 9H JD QC AD
+RANK:   A high
+
+HAND:   8H 8D 9D JC AD
+RANK:   Low pair
+
+HAND:   3C 3H 5H 9H JH
+RANK:   Low pair
+
+HAND:   3D 7H 8S QD AD
+RANK:   A high
+
+HAND:   2D 2C 7S 10H KH
+RANK:   Low pair
+
+HAND:   4C 8D 8S QD AH
+RANK:   Low pair
+
+HAND:   3D 5C 5D 6H 9D
+RANK:   Low pair
+
+HAND:   5S 6C 7S JD KC
+RANK:   K high
+
+HAND:   5H 8H 10H QS AS
+RANK:   A high
+
+HAND:   2C 4S 8C QD KS
+RANK:   K high
+
+HAND:   2H 8D 9D 9S KD
+RANK:   Low pair
+
+HAND:   7S 8C JH KD AS
+RANK:   A high
+
+HAND:   2C 6S 8D 10D QS
+RANK:   Q high
+
+HAND:   2H 5C 5S 8C 9H
+RANK:   Low pair
+
+HAND:   2C 4C 6C 7D AC
+RANK:   A high
+
+HAND:   2S 3C 4D 8S KD
+RANK:   K high
+
+HAND:   6D 8D 9D 9S KS
+RANK:   Low pair
+
+HAND:   3C 6D JS AH AS
+RANK:   High pair
+
+HAND:   2C 7H 7C 8S 10S
+RANK:   Low pair
+
+HAND:   5H 7C JS JH AH
+RANK:   High pair
+
+HAND:   5S 6C 8H 9D QC
+RANK:   Q high
+
+HAND:   2D 2S 5S 6D 8C
+RANK:   Low pair
+
+HAND:   3C 9H 9S 10D AH
+RANK:   Low pair
+
+HAND:   5D 10C JD KD KS
+RANK:   High pair
+
+HAND:   2H 5H 8S 10S AS
+RANK:   A high
+
+HAND:   2D 5H 9S JD QD
+RANK:   Q high
+
+HAND:   4H 6D 9H 9D KD
+RANK:   Low pair
+
+HAND:   2H 4D 6C 9D AC
+RANK:   A high
+
+HAND:   4D 6C 6S 6H JS
+RANK:   Three of a kind
+
+HAND:   2D 3S 5S 8S AD
+RANK:   A high
+
+HAND:   2S 3S 5S 7S QD
+RANK:   Q high
+
+HAND:   3D 7H 7S 9D KH
+RANK:   Low pair
+
+HAND:   5S 8C 8S 9S QD
+RANK:   Low pair
+
+HAND:   5D 6D 7S AS AH
+RANK:   High pair
+
+HAND:   2S 6H 7H 9D 10D
+RANK:   10 high
+
+HAND:   3S 4D 10S QD AC
+RANK:   A high
+
+HAND:   2S 4S 9S 10C JH
+RANK:   J high
+
+HAND:   2C 3S 4S 4C 6S
+RANK:   Low pair
+
+HAND:   4S 5S 9S 9H 10C
+RANK:   Low pair
+
+HAND:   4S 4C 8C QD AS
+RANK:   Low pair
+
+HAND:   2S 8H 9C KH KD
+RANK:   High pair
+
+HAND:   3C 4H 7C JC KC
+RANK:   K high
+
+HAND:   3H 4D 8D KS KD
+RANK:   High pair
+
+HAND:   3D 4S 4H 6D 10S
+RANK:   Low pair
+
+HAND:   2S 3C 10D AC AS
+RANK:   High pair
+
+HAND:   2S 9S JD QC QH
+RANK:   High pair
+
+HAND:   4H 5S 8S QD AD
+RANK:   A high
+
+HAND:   2S 3H 5S 6S KC
+RANK:   K high
+
+HAND:   3S 3D 4C 4D AH
+RANK:   Two pair
+
+HAND:   2D 2H 10D JS QS
+RANK:   Low pair
+
+HAND:   3D 3H 4C 10D JS
+RANK:   Low pair
+
+HAND:   4D 6C 9S KC AS
+RANK:   A high
+
+HAND:   4D 5H 7H JS JC
+RANK:   High pair
+
+HAND:   2D 3D 5D 10H QS
+RANK:   Q high
+
+HAND:   2C 7H 8D 9D JD
+RANK:   J high
+
+HAND:   7D JD QD KS AD
+RANK:   A high
+
+HAND:   2D 7H 8D 10S KH
+RANK:   K high
+
+HAND:   5S 6S 8S 8H KC
+RANK:   Low pair
+
+HAND:   3C 8H 8S 10H QS
+RANK:   Low pair
+
+HAND:   3H 6D 7S 9S JC
+RANK:   J high
+
+HAND:   5D 5C 8D 10C JS
+RANK:   Low pair
+
+HAND:   2D 6S 7S QH AH
+RANK:   A high
+
+HAND:   4S 7C 9D 9C AH
+RANK:   Low pair
+
+HAND:   2C 2D 8H 10H AS
+RANK:   Low pair
+
+HAND:   2H 6H 8D 10C AD
+RANK:   A high
+
+HAND:   2D 4D 6S 7H 9H
+RANK:   9 high
+
+HAND:   8H 9D 10H KS KC
+RANK:   High pair
+
+HAND:   3H 4H 5H 9S JS
+RANK:   J high
+
+HAND:   2C 3C JD JS QD
+RANK:   High pair
+
+HAND:   3C 4S 8D 10H KC
+RANK:   K high
+
+HAND:   2S 6D 8D 10H QS
+RANK:   Q high
+
+HAND:   2S 6C 8D JS AC
+RANK:   A high
+
+HAND:   2H 5D 10C JD AS
+RANK:   A high
+
+HAND:   2H 6C 6D 7S AS
+RANK:   Low pair
+
+HAND:   2H 3C 5C 6D 10H
+RANK:   10 high
+
+HAND:   2H 5C 9H 9C JH
+RANK:   Low pair
+
+HAND:   6H 7S 7D JS AD
+RANK:   Low pair
+
+HAND:   4C 7S JC QD KD
+RANK:   K high
+
+HAND:   3D 6C 7D 9S JH
+RANK:   J high
+
+HAND:   2D 4S 4C 6D JD
+RANK:   Low pair
+
+HAND:   3S 5H 6S JD AC
+RANK:   A high
+
+HAND:   2S 4C 9C 10S JD
+RANK:   J high
+
+HAND:   3H 5D 6C 6S JD
+RANK:   Low pair
+
+HAND:   2C 6D 10H QS KH
+RANK:   K high
+
+HAND:   2C 3S 4S 5D 10H
+RANK:   10 high
+
+HAND:   2D 7S 9S JS JH
+RANK:   High pair
+
+HAND:   2S 10S 10D KH AC
+RANK:   High pair
+
+HAND:   2H 3S 9S KS AS
+RANK:   A high
+
+HAND:   3S 3C 7D 8C KC
+RANK:   Low pair
+
+HAND:   2H 2C 7C 10C KC
+RANK:   Low pair
+
+HAND:   2H 3D 7D KS AH
+RANK:   A high
+
+HAND:   4H 7D 8H JD AH
+RANK:   A high
+
+HAND:   3S 4D 9D 9S JD
+RANK:   Low pair
+
+HAND:   2C 4S 5H 6S 10S
+RANK:   10 high
+
+HAND:   3D 9H 10S JS QC
+RANK:   Q high
+
+HAND:   2D 3C 4C JC AC
+RANK:   A high
+
+HAND:   7C 8H 10C QS KH
+RANK:   K high
+
+HAND:   6C 7D QC KS AD
+RANK:   A high
+
+HAND:   7D 8D JD KH AD
+RANK:   A high
+
+HAND:   4D 8H JS JH KC
+RANK:   High pair
+
+HAND:   2D 9C 10C JH AC
+RANK:   A high
+
+HAND:   3D 3S 4D 8D 9S
+RANK:   Low pair
+
+HAND:   3D 6D 8C 9H 10D
+RANK:   10 high
+
+HAND:   3D 5C 8H KC KS
+RANK:   High pair
+
+HAND:   3H 6D 8H 10H QH
+RANK:   Q high
+
+HAND:   4H 4D 5S 9D 10D
+RANK:   Low pair
+
+HAND:   2D 3C 7C 9C JD
+RANK:   J high
+
+HAND:   4C 8C JS QD QS
+RANK:   High pair
+
+HAND:   3H 9S JD QC AD
+RANK:   A high
+
+HAND:   3H 8C 10S 10H QS
+RANK:   High pair
+
+HAND:   2C 8H 9D JC QC
+RANK:   Q high
+
+HAND:   8D 9H JD KD KC
+RANK:   High pair
+
+HAND:   8D 10C 10S QC AS
+RANK:   High pair
+
+HAND:   JS KC KS KH AS
+RANK:   Three of a kind
+
+HAND:   2D 5S 6S QS QD
+RANK:   High pair
+
+HAND:   3S 4D 6C 9C KD
+RANK:   K high
+
+HAND:   2S 3S 4S 5C JH
+RANK:   J high
+
+HAND:   4C 5C 10S 10C QS
+RANK:   High pair
+
+HAND:   2H 2D 6S 7D AC
+RANK:   Low pair
+
+HAND:   3H 8S JH JD AC
+RANK:   High pair
+
+HAND:   3C 8C QH QS AD
+RANK:   High pair
+
+HAND:   4D 5C 5S 7H 10H
+RANK:   Low pair
+
+HAND:   6D 7C 9C 10D KS
+RANK:   K high
+
+HAND:   5C 6S 8C KD AD
+RANK:   A high
+
+HAND:   3H 7H 7S QS KH
+RANK:   Low pair
+
+HAND:   2S 3S 7H QC KS
+RANK:   K high
+
+HAND:   5S 6S 8S JS QC
+RANK:   Q high
+
+HAND:   2D 9C JD QH QC
+RANK:   High pair
+
+HAND:   3D 6D 8D 10H AD
+RANK:   A high
+
+HAND:   3S 7H 7S 9H JC
+RANK:   Low pair
+
+HAND:   3H 4D 5D KH KS
+RANK:   High pair
+
+HAND:   4C 9H QD KH AD
+RANK:   A high
+
+HAND:   2D 4H 5C 8C KS
+RANK:   K high
+
+HAND:   2D 3C 7H QD AH
+RANK:   A high
+
+HAND:   4D 4S 5H 9C QH
+RANK:   Low pair
+
+HAND:   3D 3C 4D 9S KH
+RANK:   Low pair
+
+HAND:   5S 7H 8D 9S 10D
+RANK:   10 high
+
+HAND:   4C 4D 5D 7D KH
+RANK:   Low pair
+
+HAND:   4H 7H 9C 9S QS
+RANK:   Low pair
+
+HAND:   4C 9H 10D QC QS
+RANK:   High pair
+
+HAND:   5H 9H 10C QD AH
+RANK:   A high
+
+HAND:   2H 7S 7C 9C 10C
+RANK:   Low pair
+
+HAND:   3H 6C 8S JD QS
+RANK:   Q high
+
+HAND:   7C 7H 9H QD AS
+RANK:   Low pair
+
+HAND:   3H 7D 8S 9D QH
+RANK:   Q high
+
+HAND:   3S 7S 7H 7D KD
+RANK:   Three of a kind
+
+HAND:   2H 3D 5S QH AD
+RANK:   A high
+
+HAND:   7S 8D 10D KH KD
+RANK:   High pair
+
+HAND:   3H 4H 5S 5D 8D
+RANK:   Low pair
+
+HAND:   4C 7D 10C KC AC
+RANK:   A high
+
+HAND:   4H 5S 9H QC KS
+RANK:   K high
+
+HAND:   3H 4H 9H 9D JH
+RANK:   Low pair
+
+HAND:   4D 6H 10H JS QH
+RANK:   Q high
+
+HAND:   3D JC KD KS AH
+RANK:   High pair
+
+HAND:   3H 5C 6D 6H 10S
+RANK:   Low pair
+
+HAND:   8C JS KD KH KS
+RANK:   Three of a kind
+
+HAND:   5S 5D 6S 7S KC
+RANK:   Low pair
+
+HAND:   4D 4S 8H 10S AC
+RANK:   Low pair
+
+HAND:   5S 6D 7C 10S KS
+RANK:   K high
+
+HAND:   2S 5S 7C 8H 10C
+RANK:   10 high
+
+HAND:   4C 5C 5H 10H KH
+RANK:   Low pair
+
+HAND:   4D 10D JC QH AD
+RANK:   A high
+
+HAND:   3D 7S 7H 8C QD
+RANK:   Low pair
+
+HAND:   5H 7D JS JH QC
+RANK:   High pair
+
+HAND:   4C 9H QS KH AS
+RANK:   A high
+
+HAND:   3C 4D 5D 10S JC
+RANK:   J high
+
+HAND:   6S 6D 7S AD AC
+RANK:   Two pair
+
+HAND:   2H 4C 4D 5C KC
+RANK:   Low pair
+
+HAND:   2H 3H 8H 10H QC
+RANK:   Q high
+
+HAND:   2S 2C 5C 8H QD
+RANK:   Low pair
+
+HAND:   3D 9S JD QS AC
+RANK:   A high
+
+HAND:   7D 9C 10D QD KS
+RANK:   K high
+
+HAND:   6D 6H 7H 10C QC
+RANK:   Low pair
+
+HAND:   5S 6H 7D QC AS
+RANK:   A high
+
+HAND:   3S 4C 5D 7S 10H
+RANK:   10 high
+
+HAND:   3D 5H 5D 9H AH
+RANK:   Low pair
+
+HAND:   2S 10H JS AC AD
+RANK:   High pair
+
+HAND:   2C 8D 9H QD AD
+RANK:   A high
+
+HAND:   4H 7C 10C JS AH
+RANK:   A high
+
+HAND:   3D 5S JC QC AS
+RANK:   A high
+
+HAND:   3S 6C 8D AC AD
+RANK:   High pair
+
+HAND:   3C 6S 9S JD QH
+RANK:   Q high
+
+HAND:   5S 9C JD QS KS
+RANK:   K high
+
+HAND:   2C 3C 6S 9S 10C
+RANK:   10 high
+
+HAND:   2S 2C 4D 10C JD
+RANK:   Low pair
+
+HAND:   2C 6S 9D 10D 10C
+RANK:   High pair
+
+HAND:   8C 9C JH QD AC
+RANK:   A high
+
+HAND:   3H 3D 4H 6D 9S
+RANK:   Low pair
+
+HAND:   3H 5C 6C JH QS
+RANK:   Q high
+
+HAND:   2D 5S 7D QC QD
+RANK:   High pair
+
+HAND:   7H 7C JH QD KS
+RANK:   Low pair
+
+HAND:   5C 6H 10D JC JS
+RANK:   High pair
+
+HAND:   2S 3C 4H 5D 8S
+RANK:   8 high
+
+HAND:   2S 3H 7D 7S KD
+RANK:   Low pair
+
+HAND:   4S 8C JS QH AS
+RANK:   A high
+
+HAND:   2S 5S 5H 7H QH
+RANK:   Low pair
+
+HAND:   5C 7D 8C QD AC
+RANK:   A high
+
+HAND:   4C 8H 8S 10C AC
+RANK:   Low pair
+
+HAND:   4D 8C 10H KS AC
+RANK:   A high
+
+HAND:   4H 5H 6H 7D AD
+RANK:   A high
+
+HAND:   2S 3D 5H 9D KS
+RANK:   K high
+
+HAND:   2D 9H 10D AD AH
+RANK:   High pair
+
+HAND:   3D 4H 10S 10C JD
+RANK:   High pair
+
+HAND:   2C 5S 10H 10C JH
+RANK:   High pair
+
+HAND:   2C 5S 6D KS AD
+RANK:   A high
+
+HAND:   2C 3C 3H 6S 8D
+RANK:   Low pair
+
+HAND:   5H 5S 6C AD AS
+RANK:   Two pair
+
+HAND:   2D 6C 8H KS AD
+RANK:   A high
+
+HAND:   3H 5H 8C 8D 9C
+RANK:   Low pair
+
+HAND:   2S 3C 3H 7D AH
+RANK:   Low pair
+
+HAND:   5C 6S 7H 10D AH
+RANK:   A high
+
+HAND:   4C 6D JD KC AD
+RANK:   A high
+
+HAND:   2H 4D 8H 9C KC
+RANK:   K high
+
+HAND:   5S 8D 9H QS AD
+RANK:   A high
+
+HAND:   2C 3H 7D 8H KS
+RANK:   K high
+
+HAND:   3H 5C 6D 8S 8D
+RANK:   Low pair
+
+HAND:   8S 9C 10C QH AC
+RANK:   A high
+
+HAND:   3S JD JC JH QC
+RANK:   Three of a kind
+
+HAND:   9S 10D 10S KD AC
+RANK:   High pair
+
+HAND:   4D 7H 9D JS QD
+RANK:   Q high
+
+HAND:   4C 5D 10C QH KH
+RANK:   K high
+
+HAND:   3D 8S 9S 10H JH
+RANK:   J high
+
+HAND:   2S 3S 4H 7S KC
+RANK:   K high
+
+HAND:   2D 3D 5D 7D JD
+RANK:   Flush
+
+HAND:   2D 3S 4D 8S 10C
+RANK:   10 high
+
+HAND:   8D 8S 8H 9C QC
+RANK:   Three of a kind
+
+HAND:   4C 6H 6C 7C 10D
+RANK:   Low pair
+
+HAND:   6C 6H KS KH AH
+RANK:   Two pair
+
+HAND:   4S 4D KH AC AS
+RANK:   Two pair
+
+HAND:   4S 7D 9D JS AC
+RANK:   A high
+
+HAND:   4H 6H 9S 9H AH
+RANK:   Low pair
+
+HAND:   3D 3H 8H JD AD
+RANK:   Low pair
+
+HAND:   3S 4C 8C 9H KS
+RANK:   K high
+
+HAND:   3H 3D 3S 4H 7D
+RANK:   Three of a kind
+
+HAND:   5S 8S 9H 10H AD
+RANK:   A high
+
+HAND:   4D 6H 7D 8D JS
+RANK:   J high
+
+HAND:   3C 7H 8S 9S JS
+RANK:   J high
+
+HAND:   5C 5D JC JS AC
+RANK:   Two pair
+
+HAND:   3C 4H 4S 5C 6S
+RANK:   Low pair
+
+HAND:   8D 8H 9H 10H QD
+RANK:   Low pair
+
+HAND:   3D 3H 5S 5C JH
+RANK:   Two pair
+
+HAND:   4H 9D 9S QC KH
+RANK:   Low pair
+
+HAND:   7D 10H KS AH AC
+RANK:   High pair
+
+HAND:   2C 3S 3H 5S JH
+RANK:   Low pair
+
+HAND:   4C 6S 7H AC AS
+RANK:   High pair
+
+HAND:   2C 5D KH KC AS
+RANK:   High pair
+
+HAND:   5S 6S 9C QS KD
+RANK:   K high
+
+HAND:   2C 4H 5D 10S KD
+RANK:   K high
+
+HAND:   4H 5C 5S 6H AC
+RANK:   Low pair
+
+HAND:   3S 5H 10C KH AS
+RANK:   A high
+
+HAND:   5S 6S 7C KH AC
+RANK:   A high
+
+HAND:   4H 6D 7D 10C QC
+RANK:   Q high
+
+HAND:   6S 7H 8S 9H JH
+RANK:   J high
+
+HAND:   2C 4D 5C 6D JS
+RANK:   J high
+
+HAND:   3H 6H 8C 10H QS
+RANK:   Q high
+
+HAND:   2S 2C 3C 8D KD
+RANK:   Low pair
+
+HAND:   5C 6D 10S JH JC
+RANK:   High pair
+
+HAND:   6D 7S QC KH AC
+RANK:   A high
+
+HAND:   5S 7C 8D JD AC
+RANK:   A high
+
+HAND:   6C 10S 10C KC AC
+RANK:   High pair
+
+HAND:   3H 4C 5H 6C JC
+RANK:   J high
+
+HAND:   2S 4H 7H 8H JS
+RANK:   J high
+
+HAND:   3D 8D AC AH AS
+RANK:   Three of a kind
+
+HAND:   6D 8S 9S 10C AS
+RANK:   A high
+
+HAND:   2H 5H 8S JC KS
+RANK:   K high
+
+HAND:   5D 10H 10S JD QC
+RANK:   High pair
+
+HAND:   7S 8C 10D JC QH
+RANK:   Q high
+
+HAND:   3C 5C 7H 8D QD
+RANK:   Q high
+
+HAND:   2H 8S 9H JS KS
+RANK:   K high
+
+HAND:   2D 3D 5C JH KS
+RANK:   K high
+
+HAND:   3C 6S 7C KC KD
+RANK:   High pair
+
+HAND:   3S 5C 5D 7D 7C
+RANK:   Two pair
+
+HAND:   6H 8S 9S 10D KH
+RANK:   K high
+
+HAND:   2C 2D 6C 10H AD
+RANK:   Low pair
+
+HAND:   2S 4D 6S 9C AS
+RANK:   A high
+
+HAND:   2S 5D 9C 10C AD
+RANK:   A high
+
+HAND:   2H 2C 5H 8S QD
+RANK:   Low pair
+
+HAND:   2C 4C 7C 8D QS
+RANK:   Q high
+
+HAND:   3S 6C 9H JD AH
+RANK:   A high
+
+HAND:   4H 9C 9H AH AS
+RANK:   Two pair
+
+HAND:   2C 6C 8D JD KD
+RANK:   K high
+
+HAND:   3C 3D 5H 9H KD
+RANK:   Low pair
+
+HAND:   3C 3H 10S 10D JS
+RANK:   Two pair
+
+HAND:   4H 5H 6D 10H AD
+RANK:   A high
+
+HAND:   8H 9C 9H 10D QD
+RANK:   Low pair
+
+HAND:   4C 5H 10D QS AS
+RANK:   A high
+
+HAND:   3S 5C 5S JD KC
+RANK:   Low pair
+
+HAND:   4D 6C 8S JC QH
+RANK:   Q high
+
+HAND:   3H 3C 5D QD KH
+RANK:   Low pair
+
+HAND:   5C 6H 7S JD KS
+RANK:   K high
+
+HAND:   6H 8H QH KS AS
+RANK:   A high
+
+HAND:   2C 4H 5D 7C 9C
+RANK:   9 high
+
+HAND:   5H 8S 9D 10C QD
+RANK:   Q high
+
+HAND:   2D 3S 4D 4S AD
+RANK:   Low pair
+
+HAND:   2S 4C 7D 8D AD
+RANK:   A high
+
+HAND:   4H 5S 6D 10S JD
+RANK:   J high
+
+HAND:   3C 6C 9H 9C QH
+RANK:   Low pair
+
+HAND:   4S 5C 5S JD KD
+RANK:   Low pair
+
+HAND:   2S 3H 3S 5S 8C
+RANK:   Low pair
+
+HAND:   3D 7D 8C QS KH
+RANK:   K high
+
+HAND:   3D 5S 6S 6C 10D
+RANK:   Low pair
+
+HAND:   4S 5H 8H QS KD
+RANK:   K high
+
+HAND:   2D 5C 7D JD KS
+RANK:   K high
+
+HAND:   3D 4H 7C 9S JD
+RANK:   J high
+
+HAND:   5D JS QH KS AS
+RANK:   A high
+
+HAND:   2S 4C JC QC KH
+RANK:   K high
+
+HAND:   2S 3D 3H 5D 6D
+RANK:   Low pair
+
+HAND:   5D 9D 10D 10H AS
+RANK:   High pair
+
+HAND:   3D 4S 6C 10D QS
+RANK:   Q high
+
+HAND:   3H 7H JD QS KH
+RANK:   K high
+
+HAND:   2S 8C 10H 10D AC
+RANK:   High pair
+
+HAND:   8S 9H 9S JS KD
+RANK:   Low pair
+
+HAND:   2S JH KC AC AH
+RANK:   High pair
+
+HAND:   2H 2C 3S 10H 10D
+RANK:   Two pair
+
+HAND:   4S 4D 5D 10C KC
+RANK:   Low pair
+
+HAND:   2C 5S 9C QC QS
+RANK:   High pair
+
+HAND:   4C 4S 6S 10D JC
+RANK:   Low pair
+
+HAND:   2C 6C 6H 10S QH
+RANK:   Low pair
+
+HAND:   3D 5D 7D 9D JH
+RANK:   J high
+
+HAND:   7C 9D 10H JS AD
+RANK:   A high
+
+HAND:   3S 7C 7D 9C QD
+RANK:   Low pair
+
+HAND:   3H 4C 7D 9H KH
+RANK:   K high
+
+HAND:   5H 5S QD KD AD
+RANK:   Low pair
+
+HAND:   5H 9C QS QD QH
+RANK:   Three of a kind
+
+HAND:   7S 8D JD QS AC
+RANK:   A high
+
+HAND:   2S 5D 10C JS AC
+RANK:   A high
+
+HAND:   4H 6H 6S 6D 9D
+RANK:   Three of a kind
+
+HAND:   4D 6H 8S 10H KC
+RANK:   K high
+
+HAND:   2D 4S 5H AS AD
+RANK:   High pair
+
+HAND:   3C 9S 10D JS QC
+RANK:   Q high
+
+HAND:   2D 3H 4C 8H AH
+RANK:   A high
+
+HAND:   2C 4C 7C 10D JS
+RANK:   J high
+
+HAND:   7D 7C 7S QC AS
+RANK:   Three of a kind
+
+HAND:   9S 9C JH KC AC
+RANK:   Low pair
+
+HAND:   2H 2S 3D 4H 6D
+RANK:   Low pair
+
+HAND:   3C 4H 8D QH KC
+RANK:   K high
+
+HAND:   2H 7C 10H JS AH
+RANK:   A high
+
+HAND:   3D 3H 7D 8C 10C
+RANK:   Low pair
+
+HAND:   2S 2D 6D 7D QD
+RANK:   Low pair
+
+HAND:   5H 8H 9D 10H AD
+RANK:   A high
+
+HAND:   5D 7H 9S JS AH
+RANK:   A high
+
+HAND:   3H 6D 6C 7H 8H
+RANK:   Low pair
+
+HAND:   4S 5C 5D AC AH
+RANK:   Two pair
+
+HAND:   2H 3D 6S 7D KC
+RANK:   K high
+
+HAND:   3S 5D 7S JC AS
+RANK:   A high
+
+HAND:   2S 7C 9D QD KC
+RANK:   K high
+
+HAND:   4C 6S JD KS KH
+RANK:   High pair
+
+HAND:   2H 4S 5D 7C AS
+RANK:   A high
+
+HAND:   3H 7S 9C JH AH
+RANK:   A high
+
+HAND:   6H 10D JC QS QC
+RANK:   High pair
+
+HAND:   2D 7D 9H 10H AS
+RANK:   A high
+
+HAND:   4H 4C 7C 10C QS
+RANK:   Low pair
+
+HAND:   2C 4H 7S 9D 10H
+RANK:   10 high
+
+HAND:   4C 4D 5D 7S KH
+RANK:   Low pair
+
+HAND:   2C 4S 6H 9D KC
+RANK:   K high
+
+HAND:   2D 3D 10C QS AS
+RANK:   A high
+
+HAND:   2C 2H 7C 9D AD
+RANK:   Low pair
+
+HAND:   3D 7H 7S 9D 10H
+RANK:   Low pair
+
+HAND:   2H 4H 4D 7S 8H
+RANK:   Low pair
+
+HAND:   3H 6D 8H 9H JD
+RANK:   J high
+
+HAND:   2C 6D 7D 8C KS
+RANK:   K high
+
+HAND:   4H 6D 9C QD KS
+RANK:   K high
+
+HAND:   4H 8C JD JC KS
+RANK:   High pair
+
+HAND:   4H 6S 9D JH AS
+RANK:   A high
+
+HAND:   3S 6D 8D 10D JC
+RANK:   J high
+
+HAND:   6S 6C 7D 8C QS
+RANK:   Low pair
+
+HAND:   2H 5D 5S 7S QD
+RANK:   Low pair
+
+HAND:   3D 4D 7D 9D KD
+RANK:   Flush
+
+HAND:   5C 5D 8S 9C 10C
+RANK:   Low pair
+
+HAND:   2D 7S 8H 9D JC
+RANK:   J high
+
+HAND:   3C 7C 7S 9H 9S
+RANK:   Two pair
+
+HAND:   2C 5H 9C JS KC
+RANK:   K high
+
+HAND:   4H 5D KC KH AD
+RANK:   High pair
+
+HAND:   3H 5S 8H QH AH
+RANK:   A high
+
+HAND:   2S 2D 7D 8H JS
+RANK:   Low pair
+
+HAND:   2H 4C 6D 8D KD
+RANK:   K high
+
+HAND:   9C 9H 10D JH KD
+RANK:   Low pair
+
+HAND:   2S 8S 9D QC KD
+RANK:   K high
+
+HAND:   3S 6D 7C 10S JD
+RANK:   J high
+
+HAND:   2D 2H 3H 6C 9S
+RANK:   Low pair
+
+HAND:   2D 4C 6H 7H JH
+RANK:   J high
+
+HAND:   3H JS JD QC KS
+RANK:   High pair
+
+HAND:   6C 8S 9C JS QC
+RANK:   Q high
+
+HAND:   3H 3S 5S 5H 8C
+RANK:   Two pair
+
+HAND:   8C 9S JS JH QH
+RANK:   High pair
+
+HAND:   3S 4H 6S QS KS
+RANK:   K high
+
+HAND:   3H 4D 6H 8S AC
+RANK:   A high
+
+HAND:   4S 6D 10D KH AD
+RANK:   A high
+
+HAND:   2C 3S 10D JC JD
+RANK:   High pair
+
+HAND:   5D 5C 6D 8H KH
+RANK:   Low pair
+
+HAND:   3D 6C 6H 9C 10C
+RANK:   Low pair
+
+HAND:   7S 8C 8S 10S QD
+RANK:   Low pair
+
+HAND:   2H 5C 7H 8D 9D
+RANK:   9 high
+
+HAND:   8D 10C 10S QS KH
+RANK:   High pair
+
+HAND:   3S 5C 6S 7C QD
+RANK:   Q high
+
+HAND:   3C 7D 8H JH KD
+RANK:   K high
+
+HAND:   4D 4C QH QC AS
+RANK:   Two pair
+
+HAND:   5D 10H JD JH AC
+RANK:   High pair
+
+HAND:   5H 9D 10H KS KH
+RANK:   High pair
+
+HAND:   6D 9H KH KD AD
+RANK:   High pair
+
+HAND:   5D 8S 8D QC AS
+RANK:   Low pair
+
+HAND:   6C 10C JC QS KH
+RANK:   K high
+
+HAND:   2D 2H QH AH AD
+RANK:   Two pair
+
+HAND:   5D 8C 10H QS KH
+RANK:   K high
+
+HAND:   7D 7S 8D 10D QD
+RANK:   Low pair
+
+HAND:   3C 4D 4H QS KD
+RANK:   Low pair
+
+HAND:   2S 8C 10C 10S 10D
+RANK:   Three of a kind
+
+HAND:   3C 7C 10D QD AS
+RANK:   A high
+
+HAND:   5C 8C 9D 10D JS
+RANK:   J high
+
+HAND:   2S 3H 5H 9H 10C
+RANK:   10 high
+
+HAND:   4S 6D 6S 9H KD
+RANK:   Low pair
+
+HAND:   2H 4H 4C 5D 10D
+RANK:   Low pair
+
+HAND:   7S JS QD QC KS
+RANK:   High pair
+
+HAND:   2H 3C 8S 9D JD
+RANK:   J high
+
+HAND:   2D 3S 8C JS QD
+RANK:   Q high
+
+HAND:   3C 6C 8D 10H KC
+RANK:   K high
+
+HAND:   4C 7D 7S 8H KD
+RANK:   Low pair
+
+HAND:   5C 8S 10C KH AD
+RANK:   A high
+
+HAND:   5S 7C 10S KH AD
+RANK:   A high
+
+HAND:   2D 2H 4D 5D 9D
+RANK:   Low pair
+
+HAND:   2S 6D 7H 7S AD
+RANK:   Low pair
+
+HAND:   6H 8C JS QH KD
+RANK:   K high
+
+HAND:   2D 3C 9C JD KC
+RANK:   K high
+
+HAND:   7S 8S JH JD QD
+RANK:   High pair
+
+HAND:   3H 7D QD KD AH
+RANK:   A high
+
+HAND:   3S 4S 7C 8H KH
+RANK:   K high
+
+HAND:   5S 5H 9D 10H AS
+RANK:   Low pair
+
+HAND:   2C 4D 6C 7H KS
+RANK:   K high
+
+HAND:   5S 6S 6H KH KD
+RANK:   Two pair
+
+HAND:   2D 7C 10S 10D JC
+RANK:   High pair
+
+HAND:   5C 7H 9H KC AS
+RANK:   A high
+
+HAND:   3H 5H 7H 9D 10H
+RANK:   10 high
+
+HAND:   4S 8D 10S JS KD
+RANK:   K high
+
+HAND:   3C 7D 9S JC AS
+RANK:   A high
+
+HAND:   6C 6S 7S 8H QS
+RANK:   Low pair
+
+HAND:   5S 9S 10S KH AD
+RANK:   A high
+
+HAND:   2S 3S 9C 10C JC
+RANK:   J high
+
+HAND:   4D 4S 7C 9H JD
+RANK:   Low pair
+
+HAND:   2S 6D 7S 9S AD
+RANK:   A high
+
+HAND:   5C 10C JC QS KC
+RANK:   K high
+
+HAND:   2C 4D 7D 9D 9C
+RANK:   Low pair
+
+HAND:   3S 4S 4C KD AD
+RANK:   Low pair
+
+HAND:   5H 6S 8C AD AS
+RANK:   High pair
+
+HAND:   3C 3H 8S 9H QS
+RANK:   Low pair
+
+HAND:   3C 5D 8H 9C KC
+RANK:   K high
+
+HAND:   2S 6D 9S 10D AD
+RANK:   A high
+
+HAND:   2S 9C QD QH KC
+RANK:   High pair
+
+HAND:   3H 4D 5H 8H JD
+RANK:   J high
+
+HAND:   6H 10C QD KC AD
+RANK:   A high
+
+HAND:   5S 10C JC JS AC
+RANK:   High pair
+
+HAND:   5D 8C 8D JC AC
+RANK:   Low pair
+
+HAND:   4C 4H 9C JC JH
+RANK:   Two pair
+
+HAND:   8D 10D 10C JD JS
+RANK:   Two pair
+
+HAND:   7H 9D 10C JH AC
+RANK:   A high
+
+HAND:   2H 4H 5H 5S KS
+RANK:   Low pair
+
+HAND:   5S 6D 9H 9D JS
+RANK:   Low pair
+
+HAND:   4H 4S 9D QH AD
+RANK:   Low pair
+
+HAND:   6H 7H 7S 8D 9D
+RANK:   Low pair
+
+HAND:   2S 4S 8S 9H AH
+RANK:   A high
+
+HAND:   3H 7S 7D JD JH
+RANK:   Two pair
+
+HAND:   2S 5C 6S 7H KH
+RANK:   K high
+
+HAND:   2C 3D 5D 7H QH
+RANK:   Q high
+
+HAND:   7C 8S 9C 9D QH
+RANK:   Low pair
+
+HAND:   3C 7D 8C 10C KD
+RANK:   K high
+
+HAND:   3S 6C 8H 9H 9C
+RANK:   Low pair
+
+HAND:   2H 6H 8H 9C 9H
+RANK:   Low pair
+
+HAND:   5D 6H 7S JH KS
+RANK:   K high
+
+HAND:   2D 4S 9H JH QC
+RANK:   Q high
+
+HAND:   4D 4H 7H QD AD
+RANK:   Low pair
+
+HAND:   4C 7D 7H 10D KC
+RANK:   Low pair
+
+HAND:   6H 9C QH KS AS
+RANK:   A high
+
+HAND:   4H 6C 6H 7S 10C
+RANK:   Low pair
+
+HAND:   3C 4C 8H KH AD
+RANK:   A high
+
+HAND:   3C 4S 6H 7S 9S
+RANK:   9 high
+
+HAND:   2D 7D 7C 9C QC
+RANK:   Low pair
+
+HAND:   4C 8S 8C 9D QS
+RANK:   Low pair
+
+HAND:   2S 6H 7S QC AS
+RANK:   A high
+
+HAND:   4D 6D 6C QS AD
+RANK:   Low pair
+
+HAND:   5H 6H 8S QH KH
+RANK:   K high
+
+HAND:   8S 9D JS KS AD
+RANK:   A high
+
+HAND:   4S 5H 9D 10D KH
+RANK:   K high
+
+HAND:   5S 5D 6C KC KH
+RANK:   Two pair
+
+HAND:   2C 4C 7D 8C AC
+RANK:   A high
+
+HAND:   9H QS QC QH KD
+RANK:   Three of a kind
+
+HAND:   2D 5H QH QD KH
+RANK:   High pair
+
+HAND:   6D 6H 9C 9H JC
+RANK:   Two pair
+
+HAND:   4D 6D 10S KC AC
+RANK:   A high
+
+HAND:   2D 3S 6C QC QS
+RANK:   High pair
+
+HAND:   2H 6C 9H JS QC
+RANK:   Q high
+
+HAND:   2H 5D 7S 8C 9D
+RANK:   9 high
+
+HAND:   8C 10C JD JC KD
+RANK:   High pair
+
+HAND:   5C 5S 6H 7S 9H
+RANK:   Low pair
+
+HAND:   2D 4D 7S 8H KS
+RANK:   K high
+
+HAND:   3D 3S 5D 10S JS
+RANK:   Low pair
+
+HAND:   2H 2D 3H 4C 5H
+RANK:   Low pair
+
+HAND:   7D 9S 9C JS AH
+RANK:   Low pair
+
+HAND:   2H 4D 6S 8D QH
+RANK:   Q high
+
+HAND:   2C 7D 7S 9D QH
+RANK:   Low pair
+
+HAND:   3D 7H JC KS AD
+RANK:   A high
+
+HAND:   2C 3C 7C 9D 10C
+RANK:   10 high
+
+HAND:   2D 6S 8H 8C KC
+RANK:   Low pair
+
+HAND:   4S 8S 9D 10D QD
+RANK:   Q high
+
+HAND:   2C 5D 6H 6S 10H
+RANK:   Low pair
+
+HAND:   2S 6S 9D 10C KH
+RANK:   K high
+
+HAND:   3C 7C 8H 8D QC
+RANK:   Low pair
+
+HAND:   3H 4H JD JS AH
+RANK:   High pair
+
+HAND:   4S 5D 8D 10D JH
+RANK:   J high
+
+HAND:   2D 3C 4D 5S QS
+RANK:   Q high
+
+HAND:   3D 7H QD KH KC
+RANK:   High pair
+
+HAND:   7H 8H 10H JC AH
+RANK:   A high
+
+HAND:   3D 6S 8S 9S KD
+RANK:   K high
+
+HAND:   6H 7D 7S 10C QC
+RANK:   Low pair
+
+HAND:   4C 5C 7C JH KC
+RANK:   K high
+
+HAND:   2C 3S JC QS KD
+RANK:   K high
+
+HAND:   4S 7C 8H QH QD
+RANK:   High pair
+
+HAND:   2D 5H 9S KH KC
+RANK:   High pair
+
+HAND:   6C 7S 10H QS KS
+RANK:   K high
+
+HAND:   5C 7H 9D KH AD
+RANK:   A high
+
+HAND:   4D 6C 9C KD AD
+RANK:   A high
+
+HAND:   7H 8C 9H JH KC
+RANK:   K high
+
+HAND:   4D 8H KS KD AS
+RANK:   High pair
+
+HAND:   2H 5S 7D 10D KD
+RANK:   K high
+
+HAND:   2C 9D JC JH QC
+RANK:   High pair
+
+HAND:   3S 4S 9H 9D 10C
+RANK:   Low pair
+
+HAND:   5C 8H JS QC AS
+RANK:   A high
+
+HAND:   2D 8C 9D JH KH
+RANK:   K high
+
+HAND:   2H 4C 10H 10S QC
+RANK:   High pair
+
+HAND:   5D 6H 10H KH KS
+RANK:   High pair
+
+HAND:   2H 3C 7H 8C 10H
+RANK:   10 high
+
+HAND:   5S 8D JC QH QS
+RANK:   High pair
+
+HAND:   5C 8H JD JS KS
+RANK:   High pair
+
+HAND:   10C JS QC QH KS
+RANK:   High pair
+
+HAND:   3H 4D JH JD QC
+RANK:   High pair
+
+HAND:   2D 3H 4H 6D JC
+RANK:   J high
+
+HAND:   2S 5H 8C QC KC
+RANK:   K high
+
+HAND:   8D 8H 10S JH AD
+RANK:   Low pair
+
+HAND:   5H 6D 7S 9C 10C
+RANK:   10 high
+
+HAND:   4D 6D 7H QC AD
+RANK:   A high
+
+HAND:   2C 5S 7S 9D AH
+RANK:   A high
+
+HAND:   2D 6C 8C 9S AH
+RANK:   A high
+
+HAND:   6C 7S 9C 10H AS
+RANK:   A high
+
+HAND:   4S 5S 6H 6S JH
+RANK:   Low pair
+
+HAND:   3H 7D 9D QH QD
+RANK:   High pair
+
+HAND:   2H 2D 7H 10H AH
+RANK:   Low pair
+
+HAND:   4D 5C 7S 10D JD
+RANK:   J high
+
+HAND:   3H 4H JH KH KD
+RANK:   High pair
+
+HAND:   2H 2S 5D 9H JS
+RANK:   Low pair
+
+HAND:   2D 6C 6H 7H 10C
+RANK:   Low pair
+
+HAND:   2D 3D 8H QS AS
+RANK:   A high
+
+HAND:   7D JD JS KH AD
+RANK:   High pair
+
+HAND:   4H 8S 9D JS QD
+RANK:   Q high
+
+HAND:   2H 4H 9H KD KS
+RANK:   High pair
+
+HAND:   7H 7C 9D QC AH
+RANK:   Low pair
+
+HAND:   7S 8H 10S JH KC
+RANK:   K high
+
+HAND:   3D 4H 10H QH KH
+RANK:   K high
+
+HAND:   6C 8H 8C 9H 10D
+RANK:   Low pair
+
+HAND:   10C JS JH AD AC
+RANK:   Two pair
+
+HAND:   2C 3D 6H 8S KD
+RANK:   K high
+
+HAND:   7S 8H 8D 9S 10H
+RANK:   Low pair
+
+HAND:   3C 4C JH QD AH
+RANK:   A high
+
+HAND:   3C 9S 9D JH AS
+RANK:   Low pair
+
+HAND:   6D 7C 7D QC KC
+RANK:   Low pair
+
+HAND:   3S 8S 10H QD AS
+RANK:   A high
+
+HAND:   3H 8C QS QC QH
+RANK:   Three of a kind
+
+HAND:   2H 5D 7C 9S AH
+RANK:   A high
+
+HAND:   4D 5D 10D JS JD
+RANK:   High pair
+
+HAND:   2C 5D 5H 6H 7H
+RANK:   Low pair
+
+HAND:   6S 7D 9H JS QS
+RANK:   Q high
+
+HAND:   3C 6H 10S 10D QC
+RANK:   High pair
+
+HAND:   2D 2S QH QD KD
+RANK:   Two pair
+
+HAND:   10H 10S JD QC KD
+RANK:   High pair
+
+HAND:   3H 4H 10S JD QC
+RANK:   Q high
+
+HAND:   2D 3D 5S 6D QD
+RANK:   Q high
+
+HAND:   4H 8D 8H KC AC
+RANK:   Low pair
+
+HAND:   3D 5C 5S 7D 10C
+RANK:   Low pair
+
+HAND:   3H 5H 6D 10C QD
+RANK:   Q high
+
+HAND:   6D 8H 8S 8D KD
+RANK:   Three of a kind
+
+HAND:   5C 6D 7S JD AC
+RANK:   A high
+
+HAND:   2S 2D 3H 10H JH
+RANK:   Low pair
+
+HAND:   2D 3H 8H 9S KD
+RANK:   K high
+
+HAND:   2H 5H 8S 10D QC
+RANK:   Q high
+
+HAND:   3C 10S JC KD AD
+RANK:   A high
+
+HAND:   8H 9S 10S JH KD
+RANK:   K high
+
+HAND:   6H 8D 9S KC AH
+RANK:   A high
+
+HAND:   3C 3D 7S 10S QS
+RANK:   Low pair
+
+HAND:   4H 5C 6D 10H AH
+RANK:   A high
+
+HAND:   2H 6D 9S 9H QH
+RANK:   Low pair
+
+HAND:   2C 7C 8S 9H JD
+RANK:   J high
+
+HAND:   2H 3D 5H 6S 9H
+RANK:   9 high
+
+HAND:   3H 7C 9H 10S 10C
+RANK:   High pair
+
+HAND:   2C 7D 8H KS KD
+RANK:   High pair
+
+HAND:   3S 3C 9S 10H KD
+RANK:   Low pair
+
+HAND:   2D 3C 8H 10S KH
+RANK:   K high
+
+HAND:   3C 8H 10H 10S JH
+RANK:   High pair
+
+HAND:   4D 5H 5S 8C AH
+RANK:   Low pair
+
+HAND:   3S 3H 8H 8C JS
+RANK:   Two pair
+
+HAND:   3S 6H 8C 9C QD
+RANK:   Q high
+
+HAND:   3H 4S 8H 8D 10C
+RANK:   Low pair
+
+HAND:   2D 7H 7D 7C JC
+RANK:   Three of a kind
+
+HAND:   6D 8H 10H QS KH
+RANK:   K high
+
+HAND:   4S 6D 6H AS AC
+RANK:   Two pair
+
+HAND:   5S 7D 10D JC QH
+RANK:   Q high
+
+HAND:   2H 8S 8H 9D QH
+RANK:   Low pair
+
+HAND:   2D 2H 5H 6H 8C
+RANK:   Low pair
+
+HAND:   5D 5H 6C 7S AH
+RANK:   Low pair
+
+HAND:   2H 4D 5S 8S 9S
+RANK:   9 high
+
+HAND:   3D 4C 8C 9H JH
+RANK:   J high
+
+HAND:   3S 7D QD QH KH
+RANK:   High pair
+
+HAND:   7S QS KH AH AD
+RANK:   High pair
+
+HAND:   5D 7H 7C 9S 9D
+RANK:   Two pair
+
+HAND:   5S 5D 10C QD QS
+RANK:   Two pair
+
+HAND:   4C 5S 8S 9D KS
+RANK:   K high
+
+HAND:   3C 5S 7D 7C 10S
+RANK:   Low pair
+
+HAND:   2C 6S 7H 9D 10C
+RANK:   10 high
+
+HAND:   3S 4S 5S 7D AH
+RANK:   A high
+
+HAND:   6C 7S 10H 10D KH
+RANK:   High pair
+
+HAND:   2H 5S 5D 10H KH
+RANK:   Low pair
+
+HAND:   3S 3D 6S 8H KC
+RANK:   Low pair
+
+HAND:   6H 6D 10D JS QH
+RANK:   Low pair
+
+HAND:   2H 4C 10H KS AH
+RANK:   A high
+
+HAND:   7H 7C JC KC AC
+RANK:   Low pair
+
+HAND:   3S 8C 10C KD AC
+RANK:   A high
+
+HAND:   2H 2S 4H 7H JS
+RANK:   Low pair
+
+HAND:   2C 4S 5C 9H AC
+RANK:   A high
+
+HAND:   2H KD AC AH AD
+RANK:   Three of a kind
+
+HAND:   7H 8C JD QH KD
+RANK:   K high
+
+HAND:   2D 3C 8D 10D KS
+RANK:   K high
+
+HAND:   3S 3H 5D 9C AD
+RANK:   Low pair
+
+HAND:   2H 8H JC QD KS
+RANK:   K high
+
+HAND:   2S 9H JD QS AD
+RANK:   A high
+
+HAND:   4H 7S 9S QD AH
+RANK:   A high
+
+HAND:   3C 6C 6H 7D 9S
+RANK:   Low pair
+
+HAND:   2H 5H 5C QS KH
+RANK:   Low pair
+
+HAND:   2C 5S 6S AC AH
+RANK:   High pair
+
+HAND:   6C 7D 8C 9H 10D
+RANK:   Straight
+
+HAND:   4H 4S 10D JD AS
+RANK:   Low pair
+
+HAND:   3S 4D 10H QS AC
+RANK:   A high
+
+HAND:   3S 6S 10D JC QS
+RANK:   Q high
+
+HAND:   3S 3C 4S 5C 7D
+RANK:   Low pair
+
+HAND:   2C 7H 8S 10S JD
+RANK:   J high
+
+HAND:   5D 6S 6C 8C 10C
+RANK:   Low pair
+
+HAND:   4C 9S 10C JC AD
+RANK:   A high
+
+HAND:   3D 5S 8C KC AS
+RANK:   A high
+
+HAND:   2D 5D 6S 6H 8C
+RANK:   Low pair
+
+HAND:   2C 3H 10D JD AC
+RANK:   A high
+
+HAND:   2H 3D 8H QH AC
+RANK:   A high
+
+HAND:   4C 4H 6H 9S AH
+RANK:   Low pair
+
+HAND:   2H 9S QC QS KH
+RANK:   High pair
+
+HAND:   5D 9C 9H 10H QS
+RANK:   Low pair
+
+HAND:   6S 7H 8C 10D QC
+RANK:   Q high
+
+HAND:   4S 5S 10C QH QS
+RANK:   High pair
+
+HAND:   3H 4S 9H 10C AD
+RANK:   A high
+
+HAND:   4D 6D 9H QH AS
+RANK:   A high
+
+HAND:   3H 4C 8H 9D KD
+RANK:   K high
+
+HAND:   3S 5H 10D JS KD
+RANK:   K high
+
+HAND:   2D 3H 4D 5H KD
+RANK:   K high
+
+HAND:   2H 6S 6H QD KD
+RANK:   Low pair
+
+HAND:   2C 3D 7D 8S 10C
+RANK:   10 high
+
+HAND:   2H 8D JC KS AH
+RANK:   A high
+
+HAND:   3S 5C 10D QC QH
+RANK:   High pair
+
+HAND:   5S 6H 8C 8S 10H
+RANK:   Low pair
+
+HAND:   4D 4H QD KS AC
+RANK:   Low pair
+
+HAND:   3S 5S QH QD QS
+RANK:   Three of a kind
+
+HAND:   4H 7S 10C QH KD
+RANK:   K high
+
+HAND:   3D 3C 4S 5C 6D
+RANK:   Low pair
+
+HAND:   7D JS QS KH KC
+RANK:   High pair
+
+HAND:   2C 4H 6C 8H JH
+RANK:   J high
+
+HAND:   6C 10H JD KC AH
+RANK:   A high
+
+HAND:   5H 9D QH QC KS
+RANK:   High pair
+
+HAND:   2H 6S 7H JC AS
+RANK:   A high
+
+HAND:   2C 4H 6C 10C JS
+RANK:   J high
+
+HAND:   5C 6S KS KH AC
+RANK:   High pair
+
+HAND:   5H 6H 7H 7C KH
+RANK:   Low pair
+
+HAND:   3C 4S 6D 7C KD
+RANK:   K high
+
+HAND:   2C 4H 6D 8C 9D
+RANK:   9 high
+
+HAND:   3H 4C 7H 10H QH
+RANK:   Q high
+
+HAND:   2H 5D 8D QH AH
+RANK:   A high
+
+HAND:   4D 4H 7D 9D JC
+RANK:   Low pair
+
+HAND:   2C 3S 8H KS AH
+RANK:   A high
+
+HAND:   8S 9D 10D QS AC
+RANK:   A high
+
+HAND:   3S 4H 4D 5D 8C
+RANK:   Low pair
+
+HAND:   2D 6C 7H 7D 8C
+RANK:   Low pair
+
+HAND:   3S 4D 6D 10S QD
+RANK:   Q high
+
+HAND:   2H 7S 7H 9C 10S
+RANK:   Low pair
+
+HAND:   3H 5S 6S 9D AH
+RANK:   A high
+
+HAND:   4C 10H QD KH AH
+RANK:   A high
+
+HAND:   2S 4H 4S 8C AC
+RANK:   Low pair
+
+HAND:   3S 3H 4C 8C JS
+RANK:   Low pair
+
+HAND:   2S 2D 5H JC KS
+RANK:   Low pair
+
+HAND:   2C 8D JD QH KH
+RANK:   K high
+
+HAND:   2D 3C 3S 3H KC
+RANK:   Three of a kind
+
+HAND:   2C 6D 7H 8H AH
+RANK:   A high
+
+HAND:   3D 4H 5H 10D JS
+RANK:   J high
+
+HAND:   2C 4H 9C QD QS
+RANK:   High pair
+
+HAND:   6C 8H 9S JH QD
+RANK:   Q high
+
+HAND:   3H 4C 8C KS AS
+RANK:   A high
+
+HAND:   3H 4D 5C 6C KC
+RANK:   K high
+
+HAND:   4H 5S 6H 8D JS
+RANK:   J high
+
+HAND:   5D 6S 10H JS KS
+RANK:   K high
+
+HAND:   2D 3C 5H 8C 9H
+RANK:   9 high
+
+HAND:   3C 7S 9S JC QS
+RANK:   Q high
+
+HAND:   3S 4D 5D QS AS
+RANK:   A high
+
+HAND:   3S 4S 7C 8D 8H
+RANK:   Low pair
+
+HAND:   3C 3H 6H QH QS
+RANK:   Two pair
+
+HAND:   3D 5S 6D 6C QS
+RANK:   Low pair
+
+HAND:   7C 8H QC KS AH
+RANK:   A high
+
+HAND:   3S 5C 5H 7D JS
+RANK:   Low pair
+
+HAND:   2D 5D 6D JH QH
+RANK:   Q high
+
+HAND:   7D 8S JH KC AH
+RANK:   A high
+
+HAND:   3C 7S 7C 10D 10H
+RANK:   Two pair
+
+HAND:   5D 6H 9H JS AH
+RANK:   A high
+
+HAND:   5C 7H 8D KC AC
+RANK:   A high
+
+HAND:   2S 2D 3S 7C KC
+RANK:   Low pair
+
+HAND:   2S 3D 6S 7S AS
+RANK:   A high
+
+HAND:   3S 5C 9C JD AD
+RANK:   A high
+
+HAND:   3D 5S 10H QD AS
+RANK:   A high
+
+HAND:   6D 7H 10C QH QC
+RANK:   High pair
+
+HAND:   3D 5D 7S 10H JC
+RANK:   J high
+
+HAND:   2D 4D 7C QS KD
+RANK:   K high
+
+HAND:   5D 5S 8C 9S 10C
+RANK:   Low pair
+
+HAND:   3D 6H 7H 7C 8D
+RANK:   Low pair
+
+HAND:   9C JD JC KC KD
+RANK:   Two pair
+
+HAND:   4H 6H 7H 7C JH
+RANK:   Low pair
+
+HAND:   2D 4D 10D JD AH
+RANK:   A high
+
+HAND:   6S 8C 9H 9C 10S
+RANK:   Low pair
+
+HAND:   3C 7C 8D 9C QS
+RANK:   Q high
+
+HAND:   3D 5S QC KD KS
+RANK:   High pair
+
+HAND:   4H 6H 7H 10S JD
+RANK:   J high
+
+HAND:   4H 5H 7H 9S AC
+RANK:   A high
+
+HAND:   2C 3C 5D 7H 7S
+RANK:   Low pair
+
+HAND:   4C 5S 5D KD AH
+RANK:   Low pair
+
+HAND:   2C 9H 10C JH AH
+RANK:   A high
+
+HAND:   2C 4D 9H 9C JC
+RANK:   Low pair
+
+HAND:   2H QS KH AH AC
+RANK:   High pair
+
+HAND:   5D 7C 10D 10H AC
+RANK:   High pair
+
+HAND:   6H 7C 7D 8H JC
+RANK:   Low pair
+
+HAND:   5S 6H 9S 10D QC
+RANK:   Q high
+
+HAND:   2H 4C 5D 9H KC
+RANK:   K high
+
+HAND:   5D 8H 8D JH AC
+RANK:   Low pair
+
+HAND:   4D 5D 8H 9H JC
+RANK:   J high
+
+HAND:   3D 4C 5S 10D KD
+RANK:   K high
+
+HAND:   6S 7C 10S QS KC
+RANK:   K high
+
+HAND:   3C 5D 5S 7H QS
+RANK:   Low pair
+
+HAND:   2C 4D 6H 7S 10D
+RANK:   10 high
+
+HAND:   4H 4S 6S QD KC
+RANK:   Low pair
+
+HAND:   4C 4S 7C 7H QD
+RANK:   Two pair
+
+HAND:   3C 6S 9C JH AS
+RANK:   A high
+
+HAND:   2D 4C 7H KH AD
+RANK:   A high
+
+HAND:   2S 3H 5S 10C AD
+RANK:   A high
+
+HAND:   6H 7S JS QC AC
+RANK:   A high
+
+HAND:   3S 8D 10H QH AD
+RANK:   A high
+
+HAND:   3C 8C 9H 10D QC
+RANK:   Q high
+
+HAND:   2D 4C 7S 10H QS
+RANK:   Q high
+
+HAND:   3C 7C 9S 10C AH
+RANK:   A high
+
+HAND:   2C 6H 8D JD KC
+RANK:   K high
+
+HAND:   4S 8C 8H 9H JC
+RANK:   Low pair
+
+HAND:   2D 5S 9S 10D QH
+RANK:   Q high
+
+HAND:   2H 6S 7C 8H 9S
+RANK:   9 high
+
+HAND:   3D 5S 6H 8D AH
+RANK:   A high
+
+HAND:   5H 6S 7S 8H 9D
+RANK:   Straight
+
+HAND:   3D 4H 6S 8S QH
+RANK:   Q high
+
+HAND:   4D 6C 6H KH AS
+RANK:   Low pair
+
+HAND:   3C 4C 9D 10D JS
+RANK:   J high
+
+HAND:   2D 3C 10C QD AD
+RANK:   A high
+
+HAND:   4H 6H 8C JD AC
+RANK:   A high
+
+HAND:   2C 5H 5D 10H QS
+RANK:   Low pair
+
+HAND:   3S 3H 7H 8D KC
+RANK:   Low pair
+
+HAND:   2S 2D 2H 5D 9C
+RANK:   Three of a kind
+
+HAND:   4C 9D JH QS KH
+RANK:   K high
+
+HAND:   9H JH JS QS KH
+RANK:   High pair
+
+HAND:   3S 5D 10H JS KH
+RANK:   K high
+
+HAND:   4H 6C KC AH AS
+RANK:   High pair
+
+HAND:   4H 7S JD JH AC
+RANK:   High pair
+
+HAND:   3H 4C 4S 5H 10H
+RANK:   Low pair
+
+HAND:   5H 6D 8H 9H QC
+RANK:   Q high
+
+HAND:   3S 8D JS QD AC
+RANK:   A high
+
+HAND:   5D 6C 6S JC JH
+RANK:   Two pair
+
+HAND:   2S 6H JS QD AS
+RANK:   A high
+
+HAND:   2H 4S JC KD AS
+RANK:   A high
+
+HAND:   3S 4C 10S JS AS
+RANK:   A high
+
+HAND:   3C 4H 5H 5S 7S
+RANK:   Low pair
+
+HAND:   8H JC JH KS AD
+RANK:   High pair
+
+HAND:   5S 6C 8C 10H AC
+RANK:   A high
+
+HAND:   2H 3H 3S JH QC
+RANK:   Low pair
+
+HAND:   2S 8D 9D JD KD
+RANK:   K high
+
+HAND:   4S 8S 8H 9D JS
+RANK:   Low pair
+
+HAND:   2S 2H 5H 10H KC
+RANK:   Low pair
+
+HAND:   3D 6H 7C QC KS
+RANK:   K high
+
+HAND:   2C 6C 7S 8H 8C
+RANK:   Low pair
+
+HAND:   2H 5D 9H 10C AS
+RANK:   A high
+
+HAND:   5C 8C JH QH KD
+RANK:   K high
+
+HAND:   10S JD JC KH AS
+RANK:   High pair
+
+HAND:   6C 7C 7H 7D 10S
+RANK:   Three of a kind
+
+HAND:   2D 3D 3S 7D 9D
+RANK:   Low pair
+
+HAND:   5C 5S JH QH AH
+RANK:   Low pair
+
+HAND:   6D 7D 7S JD KC
+RANK:   Low pair
+
+HAND:   2H 6S 7H 10H KC
+RANK:   K high
+
+HAND:   4H 4C 5H 9H KD
+RANK:   Low pair
+
+HAND:   2H 2D 8H 10D KH
+RANK:   Low pair
+
+HAND:   2H 4D 8C QD AD
+RANK:   A high
+
+HAND:   2D 7C 10H JS AC
+RANK:   A high
+
+HAND:   2S 3C 5H 8S KD
+RANK:   K high
+
+HAND:   4S 5S 5D 6S 7S
+RANK:   Low pair
+
+HAND:   2H 5C 9D JC JD
+RANK:   High pair
+
+HAND:   3D 8S 8C 9S KH
+RANK:   Low pair
+
+HAND:   2D 4D 6S 6H 8H
+RANK:   Low pair
+
+HAND:   6S 7H 7C QS QH
+RANK:   Two pair
+
+HAND:   4S 7D 7C 8C JH
+RANK:   Low pair
+
+HAND:   2C 8D 8S 9D AD
+RANK:   Low pair
+
+HAND:   3H 4D 7C 10S JH
+RANK:   J high
+
+HAND:   5C 9C 10D 10C JS
+RANK:   High pair
+
+HAND:   2S 3C 4D 5S 8S
+RANK:   8 high
+
+HAND:   3S 9H 9S 10H QS
+RANK:   Low pair
+
+HAND:   4H 6C 8C 9D QD
+RANK:   Q high
+
+HAND:   2S 3C 3H 8H QD
+RANK:   Low pair
+
+HAND:   4S 7D 10C KC AS
+RANK:   A high
+
+HAND:   7H 8S 10S QS KD
+RANK:   K high
+
+HAND:   3D 9H JH QH KC
+RANK:   K high
+
+HAND:   3H 5D 5H JH JC
+RANK:   Two pair
+
+HAND:   5C 9S 10D JC AS
+RANK:   A high
+
+HAND:   2H 3H 9H KD AH
+RANK:   A high
+
+HAND:   3H 5S 8S KC KS
+RANK:   High pair
+
+HAND:   2S 7S 8H 8D KH
+RANK:   Low pair
+
+HAND:   4C 7S 8D JD KS
+RANK:   K high
+
+HAND:   4H 4D 7C KS AS
+RANK:   Low pair
+
+HAND:   3H 4H 5H JC KH
+RANK:   K high
+
+HAND:   3C 6H 9D 9S QC
+RANK:   Low pair
+
+HAND:   2D 4S 7C 10S QC
+RANK:   Q high
+
+HAND:   7H 8D JS JC AC
+RANK:   High pair
+
+HAND:   5C 5H 10D 10S JD
+RANK:   Two pair
+
+HAND:   2D 4C 10C JH KD
+RANK:   K high
+
+HAND:   2D 5H 6C 7D QH
+RANK:   Q high
+
+HAND:   3S 4C 6S 7D 10H
+RANK:   10 high
+
+HAND:   3S 6H 7C KC KD
+RANK:   High pair
+
+HAND:   8C 9S JH KH AC
+RANK:   A high
+
+HAND:   4H 5H 10C QD AH
+RANK:   A high
+
+HAND:   4C 5S 7S 8S AS
+RANK:   A high
+
+HAND:   3H 6H 8D 10D KC
+RANK:   K high
+
+HAND:   5H 8D 8C AD AS
+RANK:   Two pair
+
+HAND:   5C 8H JC JH QS
+RANK:   High pair
+
+HAND:   2H 4C 4S 8H 8C
+RANK:   Two pair
+
+HAND:   4D 5H 6C 8S 10H
+RANK:   10 high
+
+HAND:   3S 8C QH KH KD
+RANK:   High pair
+
+HAND:   3H 4D 5H 10S AD
+RANK:   A high
+
+HAND:   5S 9H KC AD AS
+RANK:   High pair
+
+HAND:   2D 4C 5D 9S QD
+RANK:   Q high
+
+HAND:   4H 9H JH KS KD
+RANK:   High pair
+
+HAND:   5S 5H 7S 9C AD
+RANK:   Low pair
+
+HAND:   6S 9S 10S AC AH
+RANK:   High pair
+
+HAND:   2C 3S 4H 10H 10S
+RANK:   High pair
+
+HAND:   7D 9C 10D QC KC
+RANK:   K high
+
+HAND:   5D 6D 9S 10D JH
+RANK:   J high
+
+HAND:   3C 3H 4C 6D AD
+RANK:   Low pair
+
+HAND:   2S 3D 8D QH AC
+RANK:   A high
+
+HAND:   3D 4S 8C KS AS
+RANK:   A high
+
+HAND:   2D 2C 8H 9C 10H
+RANK:   Low pair
+
+HAND:   2S 3C 6D 9C QD
+RANK:   Q high
+
+HAND:   3S 4S 8S 10C AS
+RANK:   A high
+
+HAND:   6H 6C 7C 7H 10C
+RANK:   Two pair
+
+HAND:   2S 4C 10D JH KC
+RANK:   K high
+
+HAND:   3C 8S JH QH KC
+RANK:   K high
+
+HAND:   2S 2D 3D 4D 8C
+RANK:   Low pair
+
+HAND:   7S 9C 9D JS KD
+RANK:   Low pair
+
+HAND:   2D 2S 3S 5H 7H
+RANK:   Low pair
+
+HAND:   6H 7D QC KH AS
+RANK:   A high
+
+HAND:   4C 6S 6C 10H KS
+RANK:   Low pair
+
+HAND:   2D 9D 9S 9C JH
+RANK:   Three of a kind
+
+HAND:   2S 2D 9C KD KC
+RANK:   Two pair
+
+HAND:   4C 5D 7S JC KS
+RANK:   K high
+
+HAND:   2C 8C 8H 9D 10C
+RANK:   Low pair
+
+HAND:   2C 6C JD AH AD
+RANK:   High pair
+
+HAND:   2S 3D 3S KS AC
+RANK:   Low pair
+
+HAND:   5D 6D 7H 8S KD
+RANK:   K high
+
+HAND:   3C 4D 6H 9H 10S
+RANK:   10 high
+
+HAND:   3C 10S 10C KD AC
+RANK:   High pair
+
+HAND:   4D 8H 9H JS JH
+RANK:   High pair
+
+HAND:   3S 7S 8C 9C QC
+RANK:   Q high
+
+HAND:   5D 6D 7C QH AC
+RANK:   A high
+
+HAND:   4H 5C 5S 7C 10D
+RANK:   Low pair
+
+HAND:   2C 3C 6H 9H 10D
+RANK:   10 high
+
+HAND:   2C 3D 4C QC QD
+RANK:   High pair
+
+HAND:   3C 5C 8C 10D QD
+RANK:   Q high
+
+HAND:   3S 5D 6S 8D KD
+RANK:   K high
+
+HAND:   3H 3D 5D 7D 9S
+RANK:   Low pair
+
+HAND:   2S 3H 9H QS AS
+RANK:   A high
+
+HAND:   4S 5D 6S 6C 9D
+RANK:   Low pair
+
+HAND:   4S 5C JC QS KS
+RANK:   K high
+
+HAND:   2S 3S 4S 5D 10C
+RANK:   10 high
+
+HAND:   4H 7H 8S 10C JS
+RANK:   J high
+
+HAND:   3H 4C 4S 10C QD
+RANK:   Low pair
+
+HAND:   2H 2C 4H 5H QC
+RANK:   Low pair
+
+HAND:   5H 5D 8C 9S 10H
+RANK:   Low pair
+
+HAND:   2S 4C 9D 9H QC
+RANK:   Low pair
+
+HAND:   6D 7H 8S 9C KS
+RANK:   K high
+
+HAND:   4C 8C 10H 10C QD
+RANK:   High pair
+
+HAND:   6C QH AS AC AH
+RANK:   Three of a kind
+
+HAND:   2D 4S 6S QH KH
+RANK:   K high
+
+HAND:   2C 6H 9H 9D QD
+RANK:   Low pair
+
+HAND:   3H 4D 8H JS KH
+RANK:   K high
+
+HAND:   5C 7S 7D JC AH
+RANK:   Low pair
+
+HAND:   3C 5S 5C 9C JD
+RANK:   Low pair
+
+HAND:   3H 4H 9H 10C QH
+RANK:   Q high
+
+HAND:   4D 5C 7C 8C JD
+RANK:   J high
+
+HAND:   5D 6C 7H 8S 10H
+RANK:   10 high
+
+HAND:   2D 4H 5S 7S JC
+RANK:   J high
+
+HAND:   7D 7S 8C 9S KD
+RANK:   Low pair
+
+HAND:   5C 6D 7C 8D AD
+RANK:   A high
+
+HAND:   6D 7D 9C JS AD
+RANK:   A high
+
+HAND:   5C 9H JH QH AS
+RANK:   A high
+
+HAND:   2S 3C 3H 5D 6C
+RANK:   Low pair
+
+HAND:   2D 6S 9C AH AS
+RANK:   High pair
+
+HAND:   7S 8C 9C 10S AH
+RANK:   A high
+
+HAND:   3C 5D JS JD AS
+RANK:   High pair
+
+HAND:   2S 3D 4D 5D 6D
+RANK:   Straight
+
+HAND:   2D 5S 10H KS AH
+RANK:   A high
+
+HAND:   3S 4H 7C KH AC
+RANK:   A high
+
+HAND:   3S 10C QS QH KH
+RANK:   High pair
+
+HAND:   4C 4S 5D 6D 8H
+RANK:   Low pair
+
+HAND:   5S 5H 7D 8D QD
+RANK:   Low pair
+
+HAND:   6C 7D 8H 9D JH
+RANK:   J high
+
+HAND:   4C 6D 7D 8C KH
+RANK:   K high
+
+HAND:   3D 5C 6H 8S 10S
+RANK:   10 high
+
+HAND:   5H 7S JD QS AD
+RANK:   A high
+
+HAND:   6S 7S 8D 8S QD
+RANK:   Low pair
+
+HAND:   4S 5D 6H 8D QS
+RANK:   Q high
+
+HAND:   3D 4C JH QH QC
+RANK:   High pair
+
+HAND:   4H 5C 10H KD KC
+RANK:   High pair
+
+HAND:   2D 2H 10D JH JS
+RANK:   Two pair
+
+HAND:   3S 4D 7H 10H JH
+RANK:   J high
+
+HAND:   5H 5S 8D 10C JH
+RANK:   Low pair
+
+HAND:   2C 5C 9D JD KC
+RANK:   K high
+
+HAND:   2D 3H 10S KH AS
+RANK:   A high
+
+HAND:   4H 4D 5S QD KS
+RANK:   Low pair
+
+HAND:   2S 6C 6H 10S AC
+RANK:   Low pair
+
+HAND:   5D 9C JC KS AC
+RANK:   A high
+
+HAND:   2C 7D JS KC AS
+RANK:   A high
+
+HAND:   2D 3D 9H AC AS
+RANK:   High pair
+
+HAND:   6C 7C JD QD KD
+RANK:   K high
+
+HAND:   4D 5C 6C 10H QC
+RANK:   Q high
+
+HAND:   3S 6D 9H QD AD
+RANK:   A high
+
+HAND:   2D 3D 4H 6C JD
+RANK:   J high
+
+HAND:   7H 8C JD KD KH
+RANK:   High pair
+
+HAND:   2S 2C 5C 10H AD
+RANK:   Low pair
+
+HAND:   4S 5H 8S 8D 10H
+RANK:   Low pair
+
+HAND:   3D 7D QS KC AD
+RANK:   A high
+
+HAND:   3H 7H 8S KD AS
+RANK:   A high
+
+HAND:   2C 4H 5C 9C JD
+RANK:   J high
+
+HAND:   2D 7D JS QD QC
+RANK:   High pair
+
+HAND:   3C 4H 8C QS AH
+RANK:   A high
+
+HAND:   3D 6C 9S 10H QH
+RANK:   Q high
+
+HAND:   3C 10C QD QC AC
+RANK:   High pair
+
+HAND:   3D 4D 4S 7H KS
+RANK:   Low pair
+
+HAND:   3C 3H 6D JC AD
+RANK:   Low pair
+
+HAND:   4D 6S 7S 8S KH
+RANK:   K high
+
+HAND:   4H 5S 7D 9D QC
+RANK:   Q high
+
+HAND:   4H 4D 8D JD AD
+RANK:   Low pair
+
+HAND:   2D 5S 6D 9C JS
+RANK:   J high
+
+HAND:   2S 8H 10D QH QD
+RANK:   High pair
+
+HAND:   4S 6S 7H JD KC
+RANK:   K high
+
+HAND:   2C 2D 8S 10S QS
+RANK:   Low pair
+
+HAND:   4H 7S 8D 8H 10C
+RANK:   Low pair
+
+HAND:   8S 9H 10H JH KH
+RANK:   K high
+
+HAND:   4C 4D 9S QS KD
+RANK:   Low pair
+
+HAND:   2C 4S 4D 7H 8C
+RANK:   Low pair
+
+HAND:   3D 7H 9C AS AC
+RANK:   High pair
+
+HAND:   3S 5D 9D JS KC
+RANK:   K high
+
+HAND:   2S 3C 5C 6C 10D
+RANK:   10 high
+
+HAND:   2C 3C JH KD KH
+RANK:   High pair
+
+HAND:   6C 8S 8C 8D AS
+RANK:   Three of a kind
+
+HAND:   3C 3D 10H QC KH
+RANK:   Low pair
+
+HAND:   4S 9D JD JS QS
+RANK:   High pair
+
+HAND:   3D 4D 6S 8C AH
+RANK:   A high
+
+HAND:   2S 2H 4S 10D QC
+RANK:   Low pair
+
+HAND:   7D 10H JD QC AS
+RANK:   A high
+
+HAND:   3S 5S 5C 6D QD
+RANK:   Low pair
+
+HAND:   7S 8S JS KS KH
+RANK:   High pair
+
+HAND:   2S 4S 5S 7D 9H
+RANK:   9 high
+
+HAND:   4C 7S 10S KH KD
+RANK:   High pair
+
+HAND:   4C 6C 7D JS AD
+RANK:   A high
+
+HAND:   9H 10D QH KC KD
+RANK:   High pair
+
+HAND:   4H 7H 8H JD AH
+RANK:   A high
+
+HAND:   5H 6H 8C QH QS
+RANK:   High pair
+
+HAND:   4H 7H 8C QH AD
+RANK:   A high
+
+HAND:   5S 10C JH KS KD
+RANK:   High pair
+
+HAND:   2H 6C 7D QC KD
+RANK:   K high

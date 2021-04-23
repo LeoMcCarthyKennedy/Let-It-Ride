@@ -1,0 +1,99 @@
+<!--
+	Program by:
+
+	Leo McCarthy-Kennedy	
+	Gurpiar Brar 			
+	Adam Khaddaj 			
+-->
+
+<!--this file renders the game to a web browser window-->
+
+<html>
+
+<head>
+	<title>Let It Ride!</title>
+	<link href="index.css" rel="stylesheet">
+</head>
+
+<body onload="update()">
+	<h1>LET IT RIDE!</h1>
+
+	<!--COMMUNITY CARDS-->
+	<div>
+		<h2>Community Cards</h2>
+		<img id="communityCard1" class="card" src="images/cards/red_back.png">
+		<img id="communityCard2" class="card" src="images/cards/red_back.png">
+	</div>
+
+	<!--PLAYER CARDS-->
+	<div>
+		<h2>Player Cards</h2>
+		<img id="playerCard1" class="card" src="images/cards/red_back.png">
+		<img id="playerCard2" class="card" src="images/cards/red_back.png">
+		<img id="playerCard3" class="card" src="images/cards/red_back.png">
+	</div>
+
+	<!--HAND-->
+	<div>
+		<h2 id="hand">Hand: None</h2>
+	</div>
+
+	<!--BETS-->
+	<div>
+		<label id="bet$" class="bet">$</label>
+		<label id="bet2" class="bet">2</label>
+		<label id="bet1" class="bet">1</label>
+	</div>
+
+	<!--CHIPS-->
+	<div>
+		<button id="clearBet" class="chip" onclick="clearBet()">Clear</button>
+		<button id="placeBet1" class="chip" onclick="placeBet(1)">$1</button>
+		<button id="placeBet5" class="chip" onclick="placeBet(5)">$5</button>
+		<button id="placeBet10" class="chip" onclick="placeBet(10)">$10</button>
+		<button id="placeBet50" class="chip" onclick="placeBet(50)">$50</button>
+		<button id="placeBet100" class="chip" onclick="placeBet(100)">$100</button>
+	</div>
+
+	<!--BALANCE-->
+	<div>
+		<h2 id="balance">Balance: $1000</h2>
+	</div>
+
+	<!--GAME BUTTONS-->
+	<div>
+		<button id="deal" class="deal" onclick="dealPlayerHand()">Deal</button>
+		<button id="letItRide" class="letItRide" onclick="dealCommunityHand()">Let It Ride</button>
+		<button id="pull" class="pull" onclick="pull()">Pull</button>
+	</div>
+
+	<!--RESET-->
+	<div>
+		<button id="reset" class="reset" onclick="reset()">Reset</button>
+		<select id="resetBalance" class="resetBalance">
+			<option>$100</option>
+			<option>$500</option>
+			<option>$1000</option>
+			<option>$5000</option>
+			<option>$10000</option>
+		</select>
+	</div>
+
+	<!--PAYOUTS-->
+	<div>
+		<h1><br>PAYOUT<br></h1>
+		<h2>Royal flush .......... 1000 to 1<br></h2>
+		<h2>Straight flush ........ 200 to 1<br></h2>
+		<h2>Four of a kind ......... 50 to 1<br></h2>
+		<h2>Full house ................ 11 to 1<br></h2>
+		<h2>Flush .......................... 8 to 1<br></h2>
+		<h2>Straight ...................... 5 to 1<br></h2>
+		<h2>Three of a kind ......... 3 to 1<br></h2>
+		<h2>Two pair .................... 2 to 1<br></h2>
+		<h2>10s or better .............. 1 to 1<br><br><br><br></h2>
+	</div>
+
+	<script src="index.js"></script>
+</body>
+
+</html>
